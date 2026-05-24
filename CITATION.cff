@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code, or findings in your research, please cite as below."
+type: software
+title: "Bangladesh MFS Scam Ecosystem: Multi-Stream Measurement Dataset and Detection Pipeline"
+authors:
+  - family-names: "Rahman"
+    given-names: "Md. Saidur"
+    affiliation: "Louisiana State University, Division of Computer Science & Engineering"
+    email: "saidur@lsu.edu"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+repository-code: "https://github.com/mrahm65/MFS-Scam-Spectrum-Research-Project"
+url: "https://github.com/mrahm65/MFS-Scam-Spectrum-Research-Project"
+license: MIT
+version: "1.0.0"
+date-released: "2025-05-01"
+keywords:
+  - "mobile financial services"
+  - "MFS scam"
+  - "Bangladesh"
+  - "bKash"
+  - "Nagad"
+  - "Rocket"
+  - "phishing"
+  - "NLP"
+  - "BanglaBERT"
+  - "scam detection"
+  - "cybersecurity"
+  - "measurement study"
+abstract: >
+  A multi-stream empirical measurement of the Bangladesh MFS (Mobile Financial Service)
+  scam ecosystem targeting bKash, Nagad, and Rocket platforms. The dataset covers
+  20,939+ records across five collection streams: SMS fraud corpora, Google Play app
+  reviews, phishing URLs, Telegram underground channels, and a user susceptibility
+  survey. Includes a 600-message annotated corpus with 7-category scam taxonomy,
+  PII-redacted datasets, and BanglaBERT-based detection models.
+
+references:
+  - type: dataset
+    title: "Financial scams detection dataset"
+    authors:
+      - family-names: "Ahmed"
+        given-names: "Al Rafi"
+      - family-names: "Islam"
+        given-names: "Gazi Faizul"
+    year: 2024
+    publisher: "Mendeley Data"
+    doi: "10.17632/znsk27yk3h.1"
+    url: "https://data.mendeley.com/datasets/znsk27yk3h/1"
+
+  - type: dataset
+    title: "BanglaBarta SMS Spam/Smishing Dataset"
+    year: 2024
+    publisher: "Mendeley Data"
+    doi: "10.17632/jfkfbw3gzh/2"
+    url: "https://data.mendeley.com/datasets/jfkfbw3gzh/2"

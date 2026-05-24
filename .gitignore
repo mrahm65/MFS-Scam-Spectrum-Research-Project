@@ -1,0 +1,81 @@
+# ── Raw / original datasets (regenerate locally) ─────────────────────────────
+stream_a_datasets/financial_scams_detection_dataset.csv
+stream_a_datasets/banglabarta_dataset.csv
+stream_a_datasets/clean_dataset_*.csv
+stream_a_datasets/table1_stats_*.json
+
+# ── App review raw outputs ────────────────────────────────────────────────────
+app_reviews/*.json
+app_reviews/*.csv
+stream_e_app_reviews/raw/
+stream_e_app_reviews/fraud/
+stream_e_app_reviews/csv/
+stream_e_app_reviews/stats/
+
+# ── Telegram raw outputs ──────────────────────────────────────────────────────
+telegram_data/raw/*.json
+telegram_data/processed/*.csv
+stream_d_social_media/telegram_data/raw/*.json
+
+# ── Phishing data ─────────────────────────────────────────────────────────────
+phishing_data/raw/*
+phishing_data/enriched/*
+phishing_data/reports/*
+
+# ── Annotation data (contains real messages) ──────────────────────────────────
+annotation_package/annotation_batch.csv
+annotation_package/annotation_sheet_A1.xlsx
+annotation_package/annotation_sheet_A2.xlsx
+annotation_package/calibration_round.xlsx
+annotation_package/kappa_report.csv
+
+# ── Survey responses ──────────────────────────────────────────────────────────
+survey_responses*.csv
+survey_data/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+env/
+.venv/
+.env
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Secrets / credentials ─────────────────────────────────────────────────────
+.env
+*.key
+*.pem
+secrets.json
+config_local.py
+
+# ── Model weights (too large for GitHub) ─────────────────────────────────────
+*.bin
+*.safetensors
+*.pt
+*.pth
+models/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
