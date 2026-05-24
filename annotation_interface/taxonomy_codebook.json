@@ -1,0 +1,177 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Account Compromise",
+      "description": "Messages claiming the target's account is suspended, locked, or accessed by a third party. Requests PIN or OTP.",
+      "examples_en": [
+        "Your bKash account has been suspended. Send OTP to reactivate.",
+        "Unauthorized login detected. Reply with your PIN to secure account.",
+        "Your Nagad account will be blocked. Enter verification code:"
+      ],
+      "examples_bn": [
+        "আপনার বিকাশ অ্যাকাউন্ট স্থগিত করা হয়েছে। OTP পাঠিয়ে পুনরায় সক্রিয় করুন।",
+        "অননুমোদিত লগইন সনাক্ত হয়েছে। অ্যাকাউন্ট সুরক্ষিত করতে আপনার PIN উত্তর দিন।"
+      ],
+      "key_indicators": [
+        "suspended",
+        "blocked",
+        "locked",
+        "unauthorized",
+        "verification",
+        "reactivate",
+        "OTP",
+        "PIN"
+      ],
+      "color": "#e74c3c"
+    },
+    {
+      "id": 2,
+      "name": "Fake Promotional Offer",
+      "description": "Falsely claims cashback, bonus credit, or special offer from bKash/Nagad. Asks target to 'activate' by sending money or code.",
+      "examples_en": [
+        "Get 500 BDT cashback! Send money to activate bonus offer.",
+        "bKash Eid offer: Send 1000 get 2000! Limited time only!",
+        "Congratulations! You are selected for Nagad bonus program."
+      ],
+      "examples_bn": [
+        "৫০০ টাকা ক্যাশব্যাক পান! বোনাস অফার সক্রিয় করতে টাকা পাঠান।",
+        "বিকাশ ঈদ অফার: ১০০০ পাঠান ২০০০ পান! সীমিত সময়ের জন্য!"
+      ],
+      "key_indicators": [
+        "cashback",
+        "bonus",
+        "offer",
+        "activate",
+        "promo",
+        "free money",
+        "double",
+        "free"
+      ],
+      "color": "#f39c12"
+    },
+    {
+      "id": 3,
+      "name": "Lottery / Prize Scam",
+      "description": "Claims target has won a prize. Requests processing fee or personal details.",
+      "examples_en": [
+        "You have won 100,000 BDT! Call to claim your prize.",
+        "Lucky draw winner! Your mobile number won 50000 taka.",
+        "Nagad lottery: You are the 1000th customer winner!"
+      ],
+      "examples_bn": [
+        "আপনি ১০০,০০০ টাকা জিতেছেন! পুরস্কার দাবি করতে কল করুন।",
+        "লাকি ড্র বিজয়ী! আপনার মোবাইল নম্বর ৫০,০০০ টাকা জিতেছে।"
+      ],
+      "key_indicators": [
+        "won",
+        "winner",
+        "lottery",
+        "prize",
+        "lucky draw",
+        "claim",
+        "processing fee"
+      ],
+      "color": "#9b59b6"
+    },
+    {
+      "id": 4,
+      "name": "Loan / Job Scam",
+      "description": "Offers easy loans or high-paying jobs contingent on upfront fee via MFS.",
+      "examples_en": [
+        "Get instant loan up to 50000 BDT. Pay 500 processing fee via bKash.",
+        "High paying job abroad! Deposit 2000 BDT for registration.",
+        "Easy personal loan, no documents needed. Send advance payment."
+      ],
+      "examples_bn": [
+        "তাৎক্ষণিক ঋণ ৫০,০০০ টাকা পর্যন্ত। বিকাশের মাধ্যমে ৫০০ প্রক্রিয়াকরণ ফি দিন।",
+        "বিদেশে উচ্চ বেতনের চাকরি! রেজিস্ট্রেশনের জন্য ২০০০ টাকা জমা দিন।"
+      ],
+      "key_indicators": [
+        "loan",
+        "job",
+        "employment",
+        "salary",
+        "processing fee",
+        "registration fee",
+        "advance payment"
+      ],
+      "color": "#3498db"
+    },
+    {
+      "id": 5,
+      "name": "Impersonation",
+      "description": "Impersonates a known individual (friend, relative, employer) in distress requesting urgent money transfer.",
+      "examples_en": [
+        "It's me, your uncle. Emergency, send 5000 BDT quickly to this number.",
+        "Boss here. Send money to this bKash number immediately for office work.",
+        "I'm stuck at the border, send money urgently via Nagad."
+      ],
+      "examples_bn": [
+        "এটি আমি, তোমার চাচা। জরুরী, দ্রুত এই নম্বরে ৫০০০ টাকা পাঠাও।",
+        "বস এখানে। অফিসের কাজের জন্য দ্রুত এই বিকাশ নম্বরে টাকা পাঠাও।"
+      ],
+      "key_indicators": [
+        "emergency",
+        "urgent",
+        "me",
+        "your",
+        "stuck",
+        "help",
+        "relative",
+        "boss",
+        "friend"
+      ],
+      "color": "#1abc9c"
+    },
+    {
+      "id": 6,
+      "name": "Phishing Link",
+      "description": "Contains a URL impersonating official MFS portal or bank to harvest credentials.",
+      "examples_en": [
+        "Verify your account: https://bkash-login-verify.tk/secure",
+        "Update your Nagad KYC: http://nagad-update.xyz/login",
+        "Click to confirm transaction: https://secure-dbbl.tk/verify"
+      ],
+      "examples_bn": [
+        "আপনার অ্যাকাউন্ট যাচাই করুন: https://bkash-login-verify.tk/secure",
+        "আপনার নগদ KYC আপডেট করুন: http://nagad-update.xyz/login"
+      ],
+      "key_indicators": [
+        "http",
+        "click",
+        "link",
+        "verify",
+        "login",
+        "update",
+        "confirm",
+        ".tk",
+        ".xyz"
+      ],
+      "color": "#e67e22"
+    },
+    {
+      "id": 7,
+      "name": "Legitimate (Ham)",
+      "description": "Genuine transactional messages from MFS providers.",
+      "examples_en": [
+        "Cash In Tk 500.00 from 01XXXXXXXXX successful. Balance: Tk 2,450.00",
+        "You have received Tk 1,000.00 from Unknown Number. Balance: Tk 5,200",
+        "Your bKash PIN has been changed successfully."
+      ],
+      "examples_bn": [
+        "ক্যাশ ইন টাকা ৫০০.০০ সফল। ব্যালেন্স: টাকা ২,৪৫০.০০",
+        "আপনি টাকা ১,০০০.০০ পেয়েছেন। ব্যালেন্স: টাকা ৫,২০০"
+      ],
+      "key_indicators": [
+        "successful",
+        "received",
+        "balance",
+        "txid",
+        "transaction id",
+        "official"
+      ],
+      "color": "#27ae60"
+    }
+  ]
+}

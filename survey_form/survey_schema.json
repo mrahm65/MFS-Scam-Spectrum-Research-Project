@@ -1,0 +1,421 @@
+{
+  "survey_title": "MFS Scam Susceptibility Survey",
+  "version": "1.0",
+  "institution": "East-West University Bangladesh",
+  "language": [
+    "en",
+    "bn"
+  ],
+  "estimated_duration_minutes": 12,
+  "sections": [
+    {
+      "section_id": "A",
+      "title_en": "Section A: Demographics",
+      "title_bn": "অনুচ্ছেদ ক: জনসংখ্যাতাত্ত্বিক তথ্য",
+      "questions": [
+        {
+          "id": "A1",
+          "type": "radio",
+          "text_en": "What is your age group?",
+          "text_bn": "আপনার বয়সের শ্রেণী কি?",
+          "options": [
+            "18-24",
+            "25-34",
+            "35-44",
+            "45-54",
+            "55+"
+          ],
+          "required": true
+        },
+        {
+          "id": "A2",
+          "type": "radio",
+          "text_en": "What is your gender?",
+          "text_bn": "আপনার লিঙ্গ কি?",
+          "options": [
+            "Male",
+            "Female",
+            "Other",
+            "Prefer not to say"
+          ],
+          "required": true
+        },
+        {
+          "id": "A3",
+          "type": "radio",
+          "text_en": "Highest education level?",
+          "text_bn": "সর্বোচ্চ শিক্ষাগত যোগ্যতা?",
+          "options": [
+            "Primary or below",
+            "Secondary",
+            "Higher Secondary",
+            "Bachelor's",
+            "Master's+"
+          ],
+          "required": true
+        },
+        {
+          "id": "A4",
+          "type": "radio",
+          "text_en": "Where do you live?",
+          "text_bn": "কোথায় থাকেন?",
+          "options": [
+            "Urban",
+            "Semi-urban",
+            "Rural"
+          ],
+          "required": true
+        },
+        {
+          "id": "A5",
+          "type": "radio",
+          "text_en": "Occupation?",
+          "text_bn": "পেশা?",
+          "options": [
+            "Student",
+            "Private employee",
+            "Govt employee",
+            "Business",
+            "Unemployed",
+            "Retired",
+            "Other"
+          ],
+          "required": true
+        },
+        {
+          "id": "A6",
+          "type": "radio",
+          "text_en": "Monthly income?",
+          "text_bn": "মাসিক আয়?",
+          "options": [
+            "No income",
+            "<10k BDT",
+            "10-30k",
+            "30-60k",
+            "60-100k",
+            ">100k",
+            "Prefer not to say"
+          ],
+          "required": true
+        }
+      ]
+    },
+    {
+      "section_id": "B",
+      "title_en": "Section B: MFS Usage",
+      "title_bn": "অনুচ্ছেদ খ: এমএফএস ব্যবহার",
+      "questions": [
+        {
+          "id": "B1",
+          "type": "checkbox",
+          "text_en": "Which MFS platforms do you use?",
+          "text_bn": "কোন এমএফএস প্ল্যাটফর্ম ব্যবহার করেন?",
+          "options": [
+            "bKash",
+            "Nagad",
+            "Rocket",
+            "Upay",
+            "SureCash",
+            "None"
+          ],
+          "required": true
+        },
+        {
+          "id": "B2",
+          "type": "radio",
+          "text_en": "How often do you use MFS?",
+          "text_bn": "কত ঘন ঘন ব্যবহার করেন?",
+          "options": [
+            "Multiple times/day",
+            "Once/day",
+            "Few times/week",
+            "Once/week",
+            "Rarely"
+          ],
+          "required": true
+        },
+        {
+          "id": "B3",
+          "type": "radio",
+          "text_en": "Typical transaction size?",
+          "text_bn": "সাধারণ লেনদেনের পরিমাণ?",
+          "options": [
+            "<500 BDT",
+            "500-2k",
+            "2-5k",
+            "5-10k",
+            ">10k"
+          ],
+          "required": true
+        },
+        {
+          "id": "B4",
+          "type": "checkbox",
+          "text_en": "Primary use cases?",
+          "text_bn": "প্রধান ব্যবহার?",
+          "options": [
+            "Send money",
+            "Receive money",
+            "Recharge",
+            "Bill payment",
+            "Shopping",
+            "Merchant pay",
+            "Cash out"
+          ],
+          "required": true
+        }
+      ]
+    },
+    {
+      "section_id": "C",
+      "title_en": "Section C: Scam Exposure",
+      "title_bn": "অনুচ্ছেদ গ: প্রতারণার অভিজ্ঞতা",
+      "questions": [
+        {
+          "id": "C1",
+          "type": "radio",
+          "text_en": "Received suspicious MFS message in last 6 months?",
+          "text_bn": "গত ৬ মাসে সন্দেহজনক বার্তা পেয়েছেন?",
+          "options": [
+            "Yes, many times",
+            "Yes, once/twice",
+            "No",
+            "Not sure"
+          ],
+          "required": true
+        },
+        {
+          "id": "C2",
+          "type": "checkbox",
+          "text_en": "Through which channels?",
+          "text_bn": "কোন মাধ্যমে?",
+          "options": [
+            "SMS",
+            "WhatsApp",
+            "Facebook",
+            "Phone call",
+            "Email",
+            "Other"
+          ],
+          "required": false
+        },
+        {
+          "id": "C3",
+          "type": "radio",
+          "text_en": "Did you respond?",
+          "text_bn": "জবাব দিয়েছিলেন?",
+          "options": [
+            "Yes",
+            "No",
+            "Prefer not to say"
+          ],
+          "required": true
+        },
+        {
+          "id": "C4",
+          "type": "radio",
+          "text_en": "Financially harmed?",
+          "text_bn": "আর্থিক ক্ষতি?",
+          "options": [
+            "Yes, significant (>1000 BDT)",
+            "Yes, small (<1000 BDT)",
+            "No, realized in time",
+            "Never responded",
+            "Prefer not to say"
+          ],
+          "required": true
+        },
+        {
+          "id": "C5",
+          "type": "radio",
+          "text_en": "Reported to authority?",
+          "text_bn": "কর্তৃপক্ষকে জানিয়েছিলেন?",
+          "options": [
+            "Yes, MFS provider",
+            "Yes, police",
+            "Yes, Bangladesh Bank",
+            "No, didn't know where",
+            "No, didn't think it would help"
+          ],
+          "required": true
+        }
+      ]
+    },
+    {
+      "section_id": "D",
+      "title_en": "Section D: Digital Literacy (1=Strongly Disagree, 5=Strongly Agree)",
+      "title_bn": "অনুচ্ছেদ ঘ: ডিজিটাল সাক্ষরতা",
+      "questions": [
+        {
+          "id": "D1",
+          "type": "likert",
+          "text_en": "I know how to verify official bKash/Nagad messages",
+          "text_bn": "আমি জানি কীভাবে অফিশিয়াল বার্তা যাচাই করতে হয়",
+          "scale": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "required": true
+        },
+        {
+          "id": "D2",
+          "type": "likert",
+          "text_en": "I can identify suspicious links",
+          "text_bn": "সন্দেহজনক লিঙ্ক চিনতে পারি",
+          "scale": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "required": true
+        },
+        {
+          "id": "D3",
+          "type": "likert",
+          "text_en": "I understand OTP/PIN should not be shared",
+          "text_bn": "OTP/PIN শেয়ার করা উচিত নয় বুঝি",
+          "scale": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "required": true
+        },
+        {
+          "id": "D4",
+          "type": "likert",
+          "text_en": "I know how to check if a website is secure",
+          "text_bn": "ওয়েবসাইট নিরাপদ কিনা জানি",
+          "scale": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "required": true
+        },
+        {
+          "id": "D5",
+          "type": "likert",
+          "text_en": "I am comfortable with mobile financial transactions",
+          "text_bn": "মোবাইল লেনদেনে স্বাচ্ছন্দ্যবোধ করি",
+          "scale": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "required": true
+        }
+      ]
+    },
+    {
+      "section_id": "F",
+      "title_en": "Section F: Message Classification Task",
+      "title_bn": "অনুচ্ছেদ চ: বার্তা শ্রেণীবিভাগ",
+      "description": "Classify each message as Legitimate or Scam",
+      "questions": [
+        {
+          "id": "F1",
+          "type": "radio",
+          "text_en": "Msg1: 'Dear bKash user, your account suspended. Verify: bkash-verify.tk/login. Enter OTP.'",
+          "is_scam": true,
+          "options": [
+            "Legitimate",
+            "Scam",
+            "Not sure"
+          ],
+          "required": true
+        },
+        {
+          "id": "F2",
+          "type": "radio",
+          "text_en": "Msg2: 'Your bKash cash-in 500 BDT successful. TxID:8XJ2MN. Balance:2,450 BDT.'",
+          "is_scam": false,
+          "options": [
+            "Legitimate",
+            "Scam",
+            "Not sure"
+          ],
+          "required": true
+        },
+        {
+          "id": "F3",
+          "type": "radio",
+          "text_en": "Msg3: 'Congratulations! Won 10,000 BDT bKash bonus. Claim: short.link/xyz123. Limited time!'",
+          "is_scam": true,
+          "options": [
+            "Legitimate",
+            "Scam",
+            "Not sure"
+          ],
+          "required": true
+        },
+        {
+          "id": "F4",
+          "type": "radio",
+          "text_en": "Msg4: 'Nagad: Your verification code is 784321. Do not share this code.'",
+          "is_scam": false,
+          "options": [
+            "Legitimate",
+            "Scam",
+            "Not sure"
+          ],
+          "required": true
+        },
+        {
+          "id": "F5",
+          "type": "radio",
+          "text_en": "Msg5: 'DBBL Rocket under maintenance. Update info: rocket-update.xyz/form'",
+          "is_scam": true,
+          "options": [
+            "Legitimate",
+            "Scam",
+            "Not sure"
+          ],
+          "required": true
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "digital_literacy_score": {
+      "items": [
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "D5"
+      ],
+      "range": [
+        1,
+        5
+      ]
+    },
+    "susceptibility_score": {
+      "items": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5"
+      ],
+      "correct_answers": {
+        "F1": "Scam",
+        "F2": "Legitimate",
+        "F3": "Scam",
+        "F4": "Legitimate",
+        "F5": "Scam"
+      }
+    }
+  }
+}

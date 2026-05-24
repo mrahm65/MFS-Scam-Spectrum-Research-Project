@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Process Dataset 1",
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "data_pipeline/process_dataset.py",
+                "--input", "stream_a_datasets/financial_scams_detection_dataset.csv",
+                "--output", "stream_a_datasets/clean_dataset_1.csv",
+                "--profile", "stream_a_datasets/table1_stats_dataset1.json"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Process Dataset 2", 
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "data_pipeline/process_dataset.py",
+                "--input", "stream_a_datasets/banglabarta_dataset.csv",
+                "--output", "stream_a_datasets/clean_dataset_2.csv",
+                "--profile", "stream_a_datasets/table1_stats_dataset2.json"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Scrape Telegram",
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "stream_d_social_media/telegram_scraper.py",
+                "--all-known",
+                "--output", "./telegram_data"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Scrape App Reviews",
+            "type": "shell",
+            "command": "${config:python.defaultInterpreterPath}",
+            "args": [
+                "stream_e_app_reviews/app_review_scraper.py",
+                "--all", "--count", "5000",
+                "--output", "./app_reviews"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}

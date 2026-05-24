@@ -1,0 +1,180 @@
+{
+  "total_reviews": 5100,
+  "fraud_keyword_reviews": 105,
+  "fraud_percentage": 2.06,
+  "avg_rating_all": 4.09,
+  "avg_rating_fraud": 1.71,
+  "rating_distribution": {
+    "2": 137,
+    "5": 3636,
+    "1": 913,
+    "3": 183,
+    "4": 231
+  },
+  "category_distribution": {
+    "otp_fraud": 35,
+    "general_complaint": 67,
+    "fake_customer_care": 2,
+    "transaction_issue": 1,
+    "money_loss": 1,
+    "account_hack": 1
+  },
+  "app_distribution": {
+    "Rocket (DBBL)": 5100
+  },
+  "fraud_app_distribution": {
+    "Rocket (DBBL)": 105
+  },
+  "top_thumbs_up": [
+    {
+      "reviewId": "f961c677-3db6-4bce-9bf5-8b4d3ae39973",
+      "content": "Much more worst than third class app. The app doesn't work properly, not even the least. After trying to complete a task several times but failed, I went to feedback option to provide a feedback about my experience but, with my utmost surprise, what happened next is unbelievable; I tapped the submit button and it says 'session timed out'! What a ridicule!!! Hope the owner of the app won't ask me to contact via email and do something by themselves. Thank you.",
+      "score": 1,
+      "thumbsUpCount": 1367,
+      "reviewCreatedVersion": "3.0.3",
+      "at": "2024-05-25T10:58:05",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:57.625492"
+    },
+    {
+      "reviewId": "fc747b2a-e3bc-455c-8a0a-8c0627cba41f",
+      "content": "Such a nice app!! I have been using this app for a long time. You can send money to bank account, mobile recharge, e-commerce, bill payment, e-toll, balance inquiry, get mini statement and so on through the app.",
+      "score": 5,
+      "thumbsUpCount": 475,
+      "reviewCreatedVersion": "3.0.3",
+      "at": "2024-06-07T04:55:57",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:57.324357"
+    },
+    {
+      "reviewId": "eb448693-b98a-4126-9b05-1863900b28a1",
+      "content": "So disappointed with this update. I'm not being able to log in. The OTP verification Doesn't work at all, neither automatic ditection or manual input is Working. I'm using the registered number and all permissions are given, still no luck. This is so disappointing, It's very cluttered, and not user friendly at all. Expecting an immediate fix by giving option to input OTP manually.",
+      "score": 1,
+      "thumbsUpCount": 297,
+      "reviewCreatedVersion": null,
+      "at": "2024-12-10T17:59:41",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": true,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:55.177063"
+    },
+    {
+      "reviewId": "44bd5aaf-3f72-4a80-bfaf-105f4c3d220b",
+      "content": "There are many problems with the new update, the saved numbers are showing wrong, the same problem when trying to send money, even tapping on the number keeps cutting out of the apps. নতুন আপডেটে অনেক সমস্যা হইতেছে সেভ করা নাম্বার গুলো ভুল দেখাচ্ছে সেন্ড মানি করতে গেলে একই সমস্যা এমনকি নাম্বারে ট্যাপ করলে অ্যাপস থেকে কেটে বেরিয়ে যাচ্ছে/",
+      "score": 5,
+      "thumbsUpCount": 283,
+      "reviewCreatedVersion": "3.0.1",
+      "at": "2024-03-14T05:17:44",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": true,
+      "scam_categories": [
+        "otp_fraud"
+      ],
+      "scraped_at": "2026-05-24T03:39:58.818081"
+    },
+    {
+      "reviewId": "7bcd55f0-86dc-4bea-9274-b707d75d8147",
+      "content": "Rocket account should be updated through apps. Problems with many previous accounts. Like rocketing with someone else's ID in my number, but I don't know him. I am drawing the attention of the rocket authorities to this.",
+      "score": 5,
+      "thumbsUpCount": 281,
+      "reviewCreatedVersion": "3.0.13",
+      "at": "2025-11-01T05:55:45",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:50.983300"
+    },
+    {
+      "reviewId": "91c905fd-f278-4192-97e4-d63a0072bbe2",
+      "content": "What's wrong with mini statement. It's show only error. Please fix this bugs.",
+      "score": 5,
+      "thumbsUpCount": 272,
+      "reviewCreatedVersion": "3.0.10",
+      "at": "2025-04-25T15:52:36",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:53.401861"
+    },
+    {
+      "reviewId": "7cdfde01-c8a8-4b21-b037-acf46f4de26b",
+      "content": "Totally disgusting Mobile banking app. I tried to recover my account for more than a month but it shows invalid. Heck. Kindly test your product before release. And one more thing my account isn't empty. Either fix the issue or close the product.",
+      "score": 1,
+      "thumbsUpCount": 265,
+      "reviewCreatedVersion": "3.0.12",
+      "at": "2025-07-18T11:33:12",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:52.098462"
+    },
+    {
+      "reviewId": "50e3bc03-27f7-42cc-9d04-9ca3b02b7384",
+      "content": "What else rocket brought the first financial service in Bangladesh while their rocket app service is the oldest, after opening a Nagad account or bkash account one can update KYC or information from their apps but rocket has no such option in apps, so I hope rocket time In keeping with others, Rocket will also enable KYC or update options from within the app.",
+      "score": 2,
+      "thumbsUpCount": 227,
+      "reviewCreatedVersion": "3.0.7",
+      "at": "2024-09-01T02:22:13",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": true,
+      "scam_categories": [
+        "otp_fraud"
+      ],
+      "scraped_at": "2026-05-24T03:39:56.398506"
+    },
+    {
+      "reviewId": "c39414b4-2e63-4748-a690-2f6d7cc2df32",
+      "content": "\"A few days ago, I uninstalled the Rocket app. Since then, I haven't been able to log in again. I also called your helpline, and they said they would inform the higher authority about the issue. However, I have not received any feedback yet. What should I do now? How can I use the Rocket app again?\"",
+      "score": 1,
+      "thumbsUpCount": 194,
+      "reviewCreatedVersion": "3.0.13",
+      "at": "2025-10-24T09:27:03",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "fake_customer_care"
+      ],
+      "scraped_at": "2026-05-24T03:39:50.985481"
+    },
+    {
+      "reviewId": "43af7dcc-3a1a-41e5-85cb-fa5bee8bd11c",
+      "content": "Everything is updated now, but it's very sad that there is no option to login with fingerprint.",
+      "score": 5,
+      "thumbsUpCount": 167,
+      "reviewCreatedVersion": "3.1.0",
+      "at": "2025-12-23T22:37:59",
+      "app_name": "Rocket (DBBL)",
+      "package_name": "com.dbbl.mbs.apps.main",
+      "has_fraud_keyword": false,
+      "scam_categories": [
+        "general_complaint"
+      ],
+      "scraped_at": "2026-05-24T03:39:50.141449"
+    }
+  ]
+}

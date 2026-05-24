@@ -1,0 +1,4 @@
+url_id,url,domain,subdomain,tld,source,brand_targeted,first_seen,last_seen,is_verified_phishing,is_online,hosting_asn,hosting_country,hosting_ip,registrar,domain_creation_date,domain_age_days,has_https,url_length,uses_url_shortener,redirect_chain_length,page_title, collected_at,enrichment_status
+op_77951875,http://usps.xupqetbd.one/uqjmw/,xupqetbd.one,usps,.xupqetbd.one,OpenPhish,unknown,2026-05-24T03:40:10.763271,2026-05-24T03:40:10.763285,yes,unknown,,,,,,,,,,,,,pending
+op_90623818,https://smithjammy29-cmd.github.io/Bdhdn/,github.io,smithjammy29-cmd,.github.io,OpenPhish,unknown,2026-05-24T03:40:10.763483,2026-05-24T03:40:10.763484,yes,unknown,,,,,,,,,,,,,pending
+op_29837578,https://upayqianbaoappxiazaigw.com.cn/,com.cn,upayqianbaoappxiazaigw,.com.cn,OpenPhish,Upay,2026-05-24T03:40:10.763927,2026-05-24T03:40:10.763929,yes,unknown,,,,,,,,,,,,,pending

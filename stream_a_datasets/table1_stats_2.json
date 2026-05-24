@@ -1,0 +1,24 @@
+{
+  "table_title": "Dataset Profile: Financial Scams Detection Dataset",
+  "dataset_size": 2772,
+  "label_distribution": {
+    "smish": 924,
+    "promo": 924,
+    "normal": 924
+  },
+  "language_composition": {
+    "contains_bangla": 2754,
+    "contains_english": 1900,
+    "code_mixed": 1882,
+    "bangla_only": 872,
+    "english_only": 18
+  },
+  "message_length": {
+    "avg_message_length": 68.25,
+    "median_message_length": 57.0,
+    "min_message_length": 4,
+    "max_message_length": 665,
+    "std_message_length": 56.08
+  },
+  "key_features": {}
+}

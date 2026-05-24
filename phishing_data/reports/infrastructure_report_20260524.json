@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-05-24T03:40:11.457352",
+  "total_urls": 3,
+  "by_source": {
+    "OpenPhish": 3
+  },
+  "by_brand": {
+    "unknown": 2,
+    "Upay": 1
+  },
+  "by_tld": {
+    ".xupqetbd.one": 1,
+    ".github.io": 1,
+    ".com.cn": 1
+  },
+  "by_hosting_country": {
+    "unknown": 3
+  },
+  "by_asn": {
+    "unknown": 3
+  },
+  "https_adoption": 0.0,
+  "shortener_usage": 0.0,
+  "top_domains": {
+    "xupqetbd.one": 1,
+    "github.io": 1,
+    "com.cn": 1
+  }
+}

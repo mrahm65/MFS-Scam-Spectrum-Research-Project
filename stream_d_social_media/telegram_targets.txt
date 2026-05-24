@@ -1,0 +1,40 @@
+# Telegram Public Channels Target List
+# Discovered during research on Bangladesh MFS fraud
+# These are PUBLIC channels accessible via t.me/s/CHANNEL_NAME
+
+# === PAYMENT GATEWAYS (Explicitly Support bKash/Nagad) ===
+LGPaymentgateway
+# - Description: International payment gateway supporting bKash/Nagad
+# - Posts: ~103 public posts visible
+# - Key content: Payment processing for Bangladesh market, mentions fraud/scam warnings
+# - Risk indicators: Offers anonymous payment processing, mentions "complaint handling"
+# - Found URLs: t.me/kissgogogo, t.me/LGpay999 (contact accounts)
+# - Note: Claims to handle bKash/Nagad transactions for international clients
+
+ag4566
+# - Description: OKEXPAY Overseas Payment Channel
+# - Posts: ~50 public posts visible
+# - Key content: Bangladesh payment gateway (bKash/Nagad), rate 80% success
+# - Specific content: "孟加拉一类通道" (Bangladesh Type-1 Channel)
+# - Settlement: D0, supports bKash/Nagad wallet transfer
+# - Risk indicators: Works with "Category 1 gaming", high-risk merchant accounts
+# - Contact: @okpay_k, @Okpayzftd_bot
+
+# === HOW TO FIND MORE CHANNELS ===
+# Use Telegram's built-in search with these keywords:
+# English: bkash, nagad, bangladesh payment, bdt payment, bkash exchange
+# Bangla: বিকাশ, নগদ, টাকা, পেমেন্ট
+# Chinese: 孟加拉 (Bangladesh), 通道 (channel/gateway)
+
+# Search method:
+# 1. Open Telegram web: https://web.telegram.org
+# 2. Use search bar with keywords above
+# 3. Filter to "Public Channels"
+# 4. Join channels and collect post text manually
+# 5. Or use this scraper: python telegram_scraper.py --channel CHANNEL_NAME
+
+# === DISCOVERY NOTES ===
+# These channels are NOT necessarily fraudulent themselves
+# They represent the PAYMENT INFRASTRUCTURE used in scams
+# This is the "supply side" of the scam ecosystem
+# Document their business models, pricing, and services for your paper

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>MFS Scam Annotation Interface</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', Tahoma, sans-serif; display: flex; height: 100vh; }
+    .sidebar { width: 40%; background: #f8f9fa; padding: 20px; overflow-y: auto; border-right: 2px solid #ddd; }
+    .sidebar h2 { margin-bottom: 15px; color: #333; }
+    .category-card { background: white; padding: 15px; margin-bottom: 12px; border-radius: 8px; cursor: pointer; transition: all 0.2s; }
+    .category-card:hover { transform: translateX(5px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    .category-card.active { background: #e8f4fd; border: 2px solid #3498db; }
+    .cat-header { display: flex; align-items: center; margin-bottom: 8px; }
+    .cat-id { width: 28px; height: 28px; border-radius: 50%; color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; margin-right: 10px; }
+    .cat-name { font-weight: 600; font-size: 15px; }
+    .cat-desc { font-size: 13px; color: #555; margin-bottom: 8px; line-height: 1.4; }
+    .cat-indicators { font-size: 12px; color: #777; margin-bottom: 8px; }
+    .cat-examples { font-size: 12px; color: #666; background: #f5f5f5; padding: 8px; border-radius: 4px; }
+    .examples-bn { color: #006847; margin-top: 5px; }
+    .main { flex: 1; padding: 20px; overflow-y: auto; }
+    .main h2 { margin-bottom: 15px; }
+    .progress-bar { width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; margin-bottom: 15px; }
+    .progress-fill { height: 100%; background: linear-gradient(90deg, #e31e24, #ff6b6b); border-radius: 4px; width: 0%; transition: width 0.3s; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th { background: #333; color: white; padding: 12px; text-align: left; position: sticky; top: 0; }
+    td { padding: 10px; border-bottom: 1px solid #eee; }
+    .msg-text { max-width: 400px; word-wrap: break-word; font-family: monospace; background: #f9f9f9; padding: 8px; border-radius: 4px; }
+    .cat-select { padding: 6px 12px; border-radius: 4px; border: 1px solid #ddd; font-size: 13px; cursor: pointer; }
+    .notes-input { padding: 6px; border: 1px solid #ddd; border-radius: 4px; width: 100%; font-size: 12px; }
+    tr.annotated { background: #e8f5e9; }
+    .controls { position: fixed; bottom: 20px; right: 20px; display: flex; gap: 10px; }
+    .btn { padding: 12px 24px; border: none; border-radius: 25px; cursor: pointer; font-size: 14px; font-weight: 600; }
+    .btn-primary { background: linear-gradient(135deg, #e31e24, #ff6b6b); color: white; }
+    .btn-secondary { background: #333; color: white; }
+    .stats { position: fixed; top: 20px; right: 20px; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); font-size: 13px; }
+    .shortcut { display: inline-block; background: #eee; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+    </style></head>
+<body>
+<div class="sidebar">
+    <h2>Taxonomy Codebook <span class="shortcut">Press 1-7 to select</span></h2>
+    
+        <div class="category-card" style="border-left: 5px solid #e74c3c;" onclick="selectCategory(1)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #e74c3c;">1</span>
+                <span class="cat-name">Account Compromise</span>
+            </div>
+            <div class="cat-desc">Messages claiming the target's account is suspended, locked, or accessed by a third party. Requests PIN or OTP.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> suspended, blocked, locked, unauthorized, verification, reactivate, OTP, PIN</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - Your bKash account has been suspended. Send OTP to reactivate.<br>  - Unauthorized login detected. Reply with your PIN to secure account.<br>  - Your Nagad account will be blocked. Enter verification code:</div>
+                <div class="examples-bn">  - আপনার বিকাশ অ্যাকাউন্ট স্থগিত করা হয়েছে। OTP পাঠিয়ে পুনরায় সক্রিয় করুন।<br>  - অননুমোদিত লগইন সনাক্ত হয়েছে। অ্যাকাউন্ট সুরক্ষিত করতে আপনার PIN উত্তর দিন।</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #f39c12;" onclick="selectCategory(2)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #f39c12;">2</span>
+                <span class="cat-name">Fake Promotional Offer</span>
+            </div>
+            <div class="cat-desc">Falsely claims cashback, bonus credit, or special offer from bKash/Nagad. Asks target to 'activate' by sending money or code.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> cashback, bonus, offer, activate, promo, free money, double, free</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - Get 500 BDT cashback! Send money to activate bonus offer.<br>  - bKash Eid offer: Send 1000 get 2000! Limited time only!<br>  - Congratulations! You are selected for Nagad bonus program.</div>
+                <div class="examples-bn">  - ৫০০ টাকা ক্যাশব্যাক পান! বোনাস অফার সক্রিয় করতে টাকা পাঠান।<br>  - বিকাশ ঈদ অফার: ১০০০ পাঠান ২০০০ পান! সীমিত সময়ের জন্য!</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #9b59b6;" onclick="selectCategory(3)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #9b59b6;">3</span>
+                <span class="cat-name">Lottery / Prize Scam</span>
+            </div>
+            <div class="cat-desc">Claims target has won a prize. Requests processing fee or personal details.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> won, winner, lottery, prize, lucky draw, claim, processing fee</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - You have won 100,000 BDT! Call to claim your prize.<br>  - Lucky draw winner! Your mobile number won 50000 taka.<br>  - Nagad lottery: You are the 1000th customer winner!</div>
+                <div class="examples-bn">  - আপনি ১০০,০০০ টাকা জিতেছেন! পুরস্কার দাবি করতে কল করুন।<br>  - লাকি ড্র বিজয়ী! আপনার মোবাইল নম্বর ৫০,০০০ টাকা জিতেছে।</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #3498db;" onclick="selectCategory(4)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #3498db;">4</span>
+                <span class="cat-name">Loan / Job Scam</span>
+            </div>
+            <div class="cat-desc">Offers easy loans or high-paying jobs contingent on upfront fee via MFS.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> loan, job, employment, salary, processing fee, registration fee, advance payment</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - Get instant loan up to 50000 BDT. Pay 500 processing fee via bKash.<br>  - High paying job abroad! Deposit 2000 BDT for registration.<br>  - Easy personal loan, no documents needed. Send advance payment.</div>
+                <div class="examples-bn">  - তাৎক্ষণিক ঋণ ৫০,০০০ টাকা পর্যন্ত। বিকাশের মাধ্যমে ৫০০ প্রক্রিয়াকরণ ফি দিন।<br>  - বিদেশে উচ্চ বেতনের চাকরি! রেজিস্ট্রেশনের জন্য ২০০০ টাকা জমা দিন।</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #1abc9c;" onclick="selectCategory(5)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #1abc9c;">5</span>
+                <span class="cat-name">Impersonation</span>
+            </div>
+            <div class="cat-desc">Impersonates a known individual (friend, relative, employer) in distress requesting urgent money transfer.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> emergency, urgent, me, your, stuck, help, relative, boss, friend</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - It's me, your uncle. Emergency, send 5000 BDT quickly to this number.<br>  - Boss here. Send money to this bKash number immediately for office work.<br>  - I'm stuck at the border, send money urgently via Nagad.</div>
+                <div class="examples-bn">  - এটি আমি, তোমার চাচা। জরুরী, দ্রুত এই নম্বরে ৫০০০ টাকা পাঠাও।<br>  - বস এখানে। অফিসের কাজের জন্য দ্রুত এই বিকাশ নম্বরে টাকা পাঠাও।</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #e67e22;" onclick="selectCategory(6)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #e67e22;">6</span>
+                <span class="cat-name">Phishing Link</span>
+            </div>
+            <div class="cat-desc">Contains a URL impersonating official MFS portal or bank to harvest credentials.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> http, click, link, verify, login, update, confirm, .tk, .xyz</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - Verify your account: https://bkash-login-verify.tk/secure<br>  - Update your Nagad KYC: http://nagad-update.xyz/login<br>  - Click to confirm transaction: https://secure-dbbl.tk/verify</div>
+                <div class="examples-bn">  - আপনার অ্যাকাউন্ট যাচাই করুন: https://bkash-login-verify.tk/secure<br>  - আপনার নগদ KYC আপডেট করুন: http://nagad-update.xyz/login</div>
+            </div>
+        </div>
+        
+        <div class="category-card" style="border-left: 5px solid #27ae60;" onclick="selectCategory(7)">
+            <div class="cat-header">
+                <span class="cat-id" style="background: #27ae60;">7</span>
+                <span class="cat-name">Legitimate (Ham)</span>
+            </div>
+            <div class="cat-desc">Genuine transactional messages from MFS providers.</div>
+            <div class="cat-indicators"><strong>Key indicators:</strong> successful, received, balance, txid, transaction id, official</div>
+            <div class="cat-examples">
+                <div class="examples-en">  - Cash In Tk 500.00 from 01XXXXXXXXX successful. Balance: Tk 2,450.00<br>  - You have received Tk 1,000.00 from Unknown Number. Balance: Tk 5,200<br>  - Your bKash PIN has been changed successfully.</div>
+                <div class="examples-bn">  - ক্যাশ ইন টাকা ৫০০.০০ সফল। ব্যালেন্স: টাকা ২,৪৫০.০০<br>  - আপনি টাকা ১,০০০.০০ পেয়েছেন। ব্যালেন্স: টাকা ৫,২০০</div>
+            </div>
+        </div>
+        
+    <div style="margin-top: 20px; padding: 15px; background: #fff3cd; border-radius: 8px; font-size: 13px;">
+        <strong>Instructions:</strong>
+        <ol style="margin-left: 15px; margin-top: 5px;">
+            <li>Read each message carefully</li>
+            <li>Select the best matching category</li>
+            <li>Use "Skip" for ambiguous messages</li>
+            <li>Add notes for borderline cases</li>
+        </ol>
+    </div>
+</div>
+<div class="main">
+    <h2>Messages to Annotate</h2>
+    <div class="progress-bar"><div class="progress-fill" id="progressBar"></div></div>
+    <table>
+        <thead><tr><th>#</th><th>Message</th><th>Category</th><th>Notes</th></tr></thead>
+        <tbody id="messageTable"></tbody>
+    </table>
+</div>
+<div class="stats" id="statsPanel">
+    <strong>Progress</strong><br>
+    Annotated: <span id="annotatedCount">0</span>/<span id="totalCount">0</span><br>
+    Remaining: <span id="remainingCount">0</span>
+</div>
+<div class="controls">
+    <button class="btn btn-secondary" onclick="exportAnnotations()">Export CSV</button>
+    <button class="btn btn-primary" onclick="saveAnnotations()">Save Progress</button>
+</div>
+<script>
+const annotations = {};
+let selectedCategory = null;
+
+function selectCategory(catId) {
+    selectedCategory = catId;
+    document.querySelectorAll('.category-card').forEach(c => c.classList.remove('active'));
+    event.currentTarget.classList.add('active');
+}
+
+function updateAnnotation(msgId, category) {
+    annotations[msgId] = annotations[msgId] || {};
+    annotations[msgId].category = category;
+    annotations[msgId].timestamp = new Date().toISOString();
+    const row = document.querySelector(`tr[data-msg-id="${msgId}"]`);
+    if (category && category !== 'skip') row.classList.add('annotated');
+    updateProgress();
+}
+
+function updateNotes(msgId, notes) {
+    annotations[msgId] = annotations[msgId] || {};
+    annotations[msgId].notes = notes;
+}
+
+function updateProgress() {
+    const total = document.querySelectorAll('#messageTable tr').length;
+    const annotated = Object.values(annotations).filter(a => a.category && a.category !== 'skip').length;
+    document.getElementById('annotatedCount').textContent = annotated;
+    document.getElementById('remainingCount').textContent = total - annotated;
+    document.getElementById('progressBar').style.width = (annotated / total * 100) + '%';
+    document.getElementById('totalCount').textContent = total;
+}
+
+function exportAnnotations() {
+    const rows = [['msg_id', 'category_id', 'category_name', 'notes', 'timestamp']];
+    for (const [msgId, ann] of Object.entries(annotations)) {
+        if (ann.category && ann.category !== 'skip') {
+            const catNames = {1:'Account Compromise',2:'Fake Promo',3:'Lottery',4:'Loan/Job',5:'Impersonation',6:'Phishing Link',7:'Legitimate'};
+            rows.push([msgId, ann.category, catNames[ann.category]||'', ann.notes||'', ann.timestamp||'']);
+        }
+    }
+    const csv = rows.map(r => r.join(',')).join('
+');
+    const blob = new Blob([csv], {type: 'text/csv'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'annotations_' + new Date().toISOString().slice(0,10) + '.csv';
+    a.click();
+}
+
+function saveAnnotations() {
+    localStorage.setItem('mfs_annotations', JSON.stringify(annotations));
+    alert('Progress saved to browser localStorage!');
+}
+
+// Keyboard shortcuts
+document.addEventListener('keydown', (e) => {
+    if (e.key >= '1' && e.key <= '7') {
+        const catId = parseInt(e.key);
+        document.querySelector(`.category-card:nth-child(${catId})`).click();
+    }
+});
+
+// Load saved annotations
+const saved = localStorage.getItem('mfs_annotations');
+if (saved) Object.assign(annotations, JSON.parse(saved));
+updateProgress();
+</script>
+</body></html>

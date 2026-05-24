@@ -1,0 +1,47 @@
+[
+  {
+    "url_id": "op_77951875",
+    "url": "http://usps.xupqetbd.one/uqjmw/",
+    "domain": "xupqetbd.one",
+    "subdomain": "usps",
+    "tld": ".xupqetbd.one",
+    "source": "OpenPhish",
+    "brand_targeted": "unknown",
+    "first_seen": "2026-05-24T03:40:10.763271",
+    "last_seen": "2026-05-24T03:40:10.763285",
+    "is_verified_phishing": "yes",
+    "is_online": "unknown",
+    "collected_at": "2026-05-24T03:40:10.763287",
+    "enrichment_status": "pending"
+  },
+  {
+    "url_id": "op_90623818",
+    "url": "https://smithjammy29-cmd.github.io/Bdhdn/",
+    "domain": "github.io",
+    "subdomain": "smithjammy29-cmd",
+    "tld": ".github.io",
+    "source": "OpenPhish",
+    "brand_targeted": "unknown",
+    "first_seen": "2026-05-24T03:40:10.763483",
+    "last_seen": "2026-05-24T03:40:10.763484",
+    "is_verified_phishing": "yes",
+    "is_online": "unknown",
+    "collected_at": "2026-05-24T03:40:10.763486",
+    "enrichment_status": "pending"
+  },
+  {
+    "url_id": "op_29837578",
+    "url": "https://upayqianbaoappxiazaigw.com.cn/",
+    "domain": "com.cn",
+    "subdomain": "upayqianbaoappxiazaigw",
+    "tld": ".com.cn",
+    "source": "OpenPhish",
+    "brand_targeted": "Upay",
+    "first_seen": "2026-05-24T03:40:10.763927",
+    "last_seen": "2026-05-24T03:40:10.763929",
+    "is_verified_phishing": "yes",
+    "is_online": "unknown",
+    "collected_at": "2026-05-24T03:40:10.763930",
+    "enrichment_status": "pending"
+  }
+]
