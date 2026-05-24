@@ -1,0 +1,47 @@
+SUBJECT: Paid Annotation Task — NLP Research (Bangla, ~4 hrs, $50)
+
+Dear [Name],
+
+I am a Ph.D. student in Computer Science & Engineering at Louisiana State University
+working on my dissertation: a measurement study of mobile financial service (MFS) scams
+in Bangladesh (bKash, Nagad, Rocket).
+
+I am looking for 2 native Bangla speakers to help label a set of 600 short text messages
+as part of the annotation phase of my research.
+
+WHAT YOU WILL DO
+  • Read 600 short messages (app reviews, SMS texts)
+  • Assign each message one of 7 scam category labels using a dropdown in Excel
+  • Work independently at your own pace
+  • Estimated time: 3–5 hours (you can split across multiple sessions)
+
+REQUIREMENTS
+  • Native Bangla speaker
+  • Basic computer skills (Microsoft Excel or Google Sheets)
+  • No NLP or security background required — full guidelines provided
+
+COMPENSATION
+  • $50 (or equivalent) upon completion — paid via Venmo / Zelle / bKash
+
+WHAT IS PROVIDED
+  • Detailed annotation guidelines document
+  • Pre-labelled Excel spreadsheet with dropdown menus
+  • Full support from me throughout the process
+
+TIMELINE
+  • Available to start: [DATE]
+  • Deadline: 2 weeks from start
+
+This study has been reviewed by the LSU Institutional Review Board (Protocol No. LSU-IRB-2025-___).
+Your name will be acknowledged in the published paper (or kept anonymous, your choice).
+
+If you are interested, please reply to this email or contact me at:
+  saidur@lsu.edu
+
+Thank you for your time. I hope you can help!
+
+Best regards,
+Md. Saidur Rahman
+Ph.D. Student, CSE Division
+Louisiana State University
+saidur@lsu.edu
