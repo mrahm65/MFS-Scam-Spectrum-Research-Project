@@ -1,0 +1,45 @@
+=================================================================
+  MFS SCAM CLASSIFIER v2 — EVALUATION REPORT
+  LSU 2025 | Md. Saidur Rahman
+=================================================================
+
+  Training corpus  : 976 messages
+  Dev set          : 109 messages
+  Gold test set    : 600 messages (annotated, never trained on)
+  Device           : cpu
+
+  ── BINARY CLASSIFICATION (Scam vs Ham) ──────────────────
+  TF-IDF + LR  macro-F1=0.8195  acc=0.8250
+  BanglaBERT   macro-F1=0.8221  acc=0.8267
+
+  BanglaBERT Binary Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.68      0.94      0.79       212
+        Scam       0.96      0.76      0.85       388
+
+    accuracy                           0.83       600
+   macro avg       0.82      0.85      0.82       600
+weighted avg       0.86      0.83      0.83       600
+
+
+  ── 7-CLASS CLASSIFICATION (weighted loss) ───────────────
+  TF-IDF + LR  macro-F1=0.4843  weighted-F1=0.6858
+  BanglaBERT   macro-F1=0.4703  weighted-F1=0.6503
+
+  BanglaBERT 7-class Classification Report:
+                      precision    recall  f1-score   support
+
+              L0_Ham       0.70      0.90      0.79       212
+S1_AccountCompromise       0.78      0.35      0.49       122
+        S2_FakePromo       0.58      0.88      0.70        78
+     S3_LotteryPrize       0.40      0.40      0.40        10
+          S4_LoanJob       0.20      0.43      0.27        14
+    S5_Impersonation       0.00      0.00      0.00         7
+     S6_PhishingLink       0.76      0.55      0.64       157
+
+            accuracy                           0.67       600
+           macro avg       0.49      0.50      0.47       600
+        weighted avg       0.69      0.67      0.65       600
+
+=================================================================

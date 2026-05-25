@@ -1,0 +1,1262 @@
+text,label,source
+Claim your loan approved by sending <PERSON> immediately.,S4_LoanJob,mendeley_financial
+"Your account has been suspended, verify <PERSON> now!",S1_AccountCompromise,mendeley_financial
+Please ignore unknown SMS.,L0_Ham,mendeley_financial
+Payment received successfully.,L0_Ham,mendeley_financial
+Send your <PERSON> to claim your prize!,S3_LotteryPrize,mendeley_financial
+Your debit card has been blocked.,S1_AccountCompromise,mendeley_financial
+"New offers available, accept <DATE_TIME>!",L0_Ham,mendeley_financial
+"Your account is at risk, immediate action required.",L0_Ham,mendeley_financial
+"Your mobile recharge was successful, thank you.",L0_Ham,mendeley_financial
+"Your loan application is approved, send <PERSON> now!",S4_LoanJob,mendeley_financial
+Account hacked! Open the app now to secure it.,L0_Ham,mendeley_financial
+Update your account details to avoid suspension.,L0_Ham,mendeley_financial
+Thank you for using our service.,L0_Ham,mendeley_financial
+"নতুন অফার এসেছে, আজই <PERSON>।",L0_Ham,mendeley_financial
+Claim your loan approved by sending <PERSON>.,S4_LoanJob,mendeley_financial
+"Fraudulent transaction detected, provide OTP.",S1_AccountCompromise,mendeley_financial
+"Your account suspended, verify <PERSON> now!",S1_AccountCompromise,mendeley_financial
+সাবধান! আপনার একাউন্ট থেকে অস্বীকৃত টাকা উত্তোলন হয়েছে। জরুরি যাচাই করুন।,L0_Ham,mendeley_financial
+"আপনার মোবাইল ব্যাংকিং একাউন্ট বন্ধ হতে যাচ্ছে, এখনি লগইন করুন।",S1_AccountCompromise,mendeley_financial
+"আপনার একাউন্ট চালু রয়েছে, সর্বশেষ ব্যালেন্স ১০,০০০ টাকা।",L0_Ham,mendeley_financial
+"ডেবিট <DATE_TIME> সীমিত <PERSON>, অন্যথায় একাউন্ট ব্লক হবে।",S1_AccountCompromise,mendeley_financial
+নতুন অফার! আপনার একাউন্টে নগদ টাকা রিফান্ড করা হয়েছে,L0_Ham,mendeley_financial
+ব্যাংকের তরফ থেকে জরুরি বার্তা: আপনার একাউন্ট আপডেট করুন আজই।,L0_Ham,mendeley_financial
+"আপনার মোবাইল ব্যাংকিং PIN পরিবর্তন করা হয়েছে, যদি না করেন তবে রিপোর্ট করুন।",L0_Ham,mendeley_financial
+একাউন্ট সিকিউরিটি হুমকি! নিম্নলিখিত OTP দিয়ে যাচাই সম্পন্ন করুন।,S1_AccountCompromise,mendeley_financial
+আপনার ব্যালেন্স ৫০০০ টাকার নিচে এসে গেছে।,L0_Ham,mendeley_financial
+"আপনার ডেবিট কার্ডের নিরাপত্তা লঙ্ঘিত হয়েছে, অবিলম্বে যাচাই করতে OTP দিন।",S1_AccountCompromise,mendeley_financial
+"আপনার ডেবিট কার্ড থেকে ৫০০০ টাকা কাটা হয়েছে, অবিলম্বে TRX কোড পাঠান।",L0_Ham,mendeley_financial
+Congratulations! You won a prize. Please send <PERSON> to claim.,S3_LotteryPrize,mendeley_financial
+আপনার মোবাইল অ্যাপ্লিকেশন আপডেট সফল হয়েছে।,L0_Ham,mendeley_financial
+নিরাপত্তার জন্য আপনার ফোন থেকে আমাদের কনফার্মেশন চান।,L0_Ham,mendeley_financial
+Your debit card transaction of 5000 taka was declined. Contact support.,L0_Ham,mendeley_financial
+Update your payment information immediately to avoid suspension.,L0_Ham,mendeley_financial
+Refund of 100 taka has been processed to your account.,L0_Ham,mendeley_financial
+Your online banking password expired. Reset it via the provided link.,S6_PhishingLink,mendeley_financial
+Your account balance is low. Add funds to continue service.,L0_Ham,mendeley_financial
+"To secure your account, provide the <PERSON> sent to your registered phone.",L0_Ham,mendeley_financial
+Payment of 2500 <PERSON> received. Thanks for banking with us,L0_Ham,mendeley_financial
+Your credit card limit has been increased. Check details in app.,L0_Ham,mendeley_financial
+Verify your identity to avoid account suspension. OTP required.,S1_AccountCompromise,mendeley_financial
+Your request to withdraw 5000 taka was successful.,L0_Ham,mendeley_financial
+Last chance: Provide <PERSON> to claim your prize money now.,S3_LotteryPrize,mendeley_financial
+Your scheduled payment will be processed <DATE_TIME>.,L0_Ham,mendeley_financial
+Alert! Unauthorized login attempt detected. Confirm with <PERSON> immediately.,S1_AccountCompromise,mendeley_financial
+"Your internet banking password expired, reset it <DATE_TIME> to avoid service disruption.",S1_AccountCompromise,mendeley_financial
+"Congratulations! You won BDT 5,000 cashback. Submit OTP to receive.",S1_AccountCompromise,mendeley_financial
+Verify your identity by entering the <PERSON> sent to your mobile to continue transactions.,S1_AccountCompromise,mendeley_financial
+Your debit card ending 1234 has been temporarily blocked for suspicious activity.,S1_AccountCompromise,mendeley_financial
+"BDT 35,000 loan approved. Confirm by sending <PERSON> within <DATE_TIME>.",S4_LoanJob,mendeley_financial
+"OTP validation required to complete your BDT 20,000 transfer.",S1_AccountCompromise,mendeley_financial
+"Your recent transaction of BDT 7,500 has been verified",L0_Ham,mendeley_financial
+Secure your account now! <PERSON> sent to your registered contact.,L0_Ham,mendeley_financial
+"BDT 15,000 payment received from your account.",L0_Ham,mendeley_financial
+"Your loan payment of BDT 10,000 is overdue. Please pay immediately to avoid penalties.",S4_LoanJob,mendeley_financial
+New job opportunity with high salary. Send your CV to apply immediately.,S4_LoanJob,mendeley_financial
+Exclusive offer: Double your money in <DATE_TIME> with our secret scheme.,S2_FakePromo,mendeley_financial
+"Your lottery ticket won BDT 1,00,000. Send your details for prize delivery.",S3_LotteryPrize,mendeley_financial
+Join our online trading platform for guaranteed profits.,L0_Ham,mendeley_financial
+Beware of strangers asking for your financial details over chat or SMS.,L0_Ham,mendeley_financial
+Your KYC verification is complete. Thank you for your cooperation.,L0_Ham,mendeley_financial
+"Earn BDT 2,000 <DATE_TIME> working from home. Register now!",S4_LoanJob,mendeley_financial
+Congratulations! You are shortlisted for a luxury car giveaway.,L0_Ham,mendeley_financial
+Investment opportunity with zero risk and high returns. Contact us.,S4_LoanJob,mendeley_financial
+Avoid fake schemes promising overnight wealth. Stay cautious.,L0_Ham,mendeley_financial
+Free smartphone giveaway for lucky winners. Reply to participate.,S2_FakePromo,mendeley_financial
+Your online order has been shipped successfully.,L0_Ham,mendeley_financial
+Your health insurance claim has been approved. Contact for details.,L0_Ham,mendeley_financial
+বিশাল বিনিয়োগের সুযোগ! দ্রুত আজই ফোন করুন।,L0_Ham,mendeley_financial
+আপনার লাইভ লটারি জেতা হয়েছে! এখনই প্রমাণ পাঠান।,S3_LotteryPrize,mendeley_financial
+অবৈধ আর্থিক লেনদেন এড়ানোর জন্য সতর্ক থাকুন।,L0_Ham,mendeley_financial
+দ্রুত বিনিয়োগ করুন এবং মাসে কোটি টাকা উপার্জন করুন।,L0_Ham,mendeley_financial
+আপনার একটি চূড়ান্ত সুযোগ! আজই অংশ নিন এবং বড় লাভ করুন।,L0_Ham,mendeley_financial
+বিনামূল্যে ব্যাংক সাবসক্রিপশন পেতে আজই যোগাযোগ করুন।,L0_Ham,mendeley_financial
+বনধের পরিসীমা থেকে প্রাইভেট জেনারেশন শুরু হয়েছে। <PERSON>।,L0_Ham,mendeley_financial
+হারানো পণ্য পুনরুদ্ধার করতে আমাদের সাথে যোগাযোগ করুন।,L0_Ham,mendeley_financial
+দ্রুত উপার্জনের জন্য আজই যোগ দিন। প্রতিদিন BDT 2000 থেকে BDT 5000 পর্যন্ত উপার্জন।,L0_Ham,mendeley_financial
+বিনিয়োগের জন্য দুর্দান্ত সুযোগ! ব্যাঙ্কের পার্টনারশিপে বড় লাভ।,L0_Ham,mendeley_financial
+"আপনার একাউন্ট থেকে অজানা লেনদেন হয়েছে, দ্রুত যাচাই করুন।",L0_Ham,mendeley_financial
+"আপনার মোবাইল রিচার্জ সফল হয়েছে, <PERSON>।",L0_Ham,mendeley_financial
+জরুরি! OTP দিয়ে একাউন্ট যাচাই করুন না হলে ব্লক হবে।,S1_AccountCompromise,mendeley_financial
+"আজকের বিশেষ অফার থেকে সুযোগ নিন, আজই কল করুন।",S2_FakePromo,mendeley_financial
+"আপনার লোন আবেদন সফল হয়েছে, ফর্ম <PERSON> জন্য OTP প্রদান করুন।",S1_AccountCompromise,mendeley_financial
+আপনার জয়েন্ট অ্যাকাউন্টে সন্দেহজনক লেনদেন হয়েছে।,L0_Ham,mendeley_financial
+সতর্কতা: অজানা নম্বর থেকে কল আসলে অবহেলা করুন।,L0_Ham,mendeley_financial
+"আজকের <DATE_TIME> সফল হয়েছে, পণ্য গ্রহণের জন্য ধন্যবাদ।",L0_Ham,mendeley_financial
+Your package has been shipped. Track your delivery at this link.,L0_Ham,mendeley_financial
+Congratulations! You've won a free gift card. Click now to claim.,S6_PhishingLink,mendeley_financial
+Our records show suspicious activity in your account. Contact support.,L0_Ham,mendeley_financial
+Your subscription is about to expire. Renew now for uninterrupted service.,L0_Ham,mendeley_financial
+You have an overdue bill of BDT 3000. Pay immediately to avoid disconnect.,L0_Ham,mendeley_financial
+Loan approved! Send your details to receive funds <DATE_TIME>.,S4_LoanJob,mendeley_financial
+Fake invoice attached. Please review and click the link to pay.,S6_PhishingLink,mendeley_financial
+Your car insurance claim has been approved. Contact us to finalize.,L0_Ham,mendeley_financial
+It’s your last chance to claim your cashback. Act now!,S2_FakePromo,mendeley_financial
+"You have been selected for a surveys. Complete now and win BDT 10,000.",S3_LotteryPrize,mendeley_financial
+Attention! Your mobile data plan will expire <DATE_TIME>. Renew now.,L0_Ham,mendeley_financial
+Fake urgent message: You owe BDT 500 for missed payment. Pay now.,L0_Ham,mendeley_financial
+Your bank account is locked. Verify now to regain access.,S1_AccountCompromise,mendeley_financial
+Limited-time deal: Buy now and get 50% discount on all products.,S2_FakePromo,mendeley_financial
+Mystery shopping opportunity! Earn BDT <DATE_TIME>. Sign up now.,S1_AccountCompromise,mendeley_financial
+Your recent transaction of BDT 4200 was successfully processed.,L0_Ham,mendeley_financial
+Your gaming account has been hacked. Change your password immediately.,S1_AccountCompromise,mendeley_financial
+"অবিলম্বে আপনার একাউন্ট যাচাই করুন, না হলে এটি বন্ধ হয়ে যাবে।",S1_AccountCompromise,mendeley_financial
+"আজকের বিশেষ ছাড়ে অংশ নিন, আজই যোগাযোগ করুন।",S2_FakePromo,mendeley_financial
+"আপনার লোন আবেদন সফল, দ্রুত OTP দিন যাচাইয়ের জন্য।",S1_AccountCompromise,mendeley_financial
+মোবাইল বিল বাবদ ৫০০ টাকা সফলভাবে পরিশোধ হয়েছে।,L0_Ham,mendeley_financial
+"Hello from BLOrange club. For <DATE_TIME> free access to games, news and sport, plus 10 free texts and 20 photo messages, reply YES. Terms apply: <URL>",S6_PhishingLink,mendeley_financial
+Call FREEPHONE +8800 <DATE_TIME> now!,S2_FakePromo,mendeley_financial
+"7 wonders in My WORLD 7th You 6th Ur style 5th Ur smile <DATE_TIME> Ur Nature 2nd Ur SMS and <DATE_TIME> Lovely Friendship\""... good morning dear""",L0_Ham,mendeley_financial
+"Loan for any purpose 500 tk- 75,000tk. Homeowners + Tenants welcome. Have you been previously refused? We can still help. Call Free +880 <DATE_TIME> or text back 'help'",S2_FakePromo,mendeley_financial
+How. Its a little difficult but its a simple way to enter this place,L0_Ham,mendeley_financial
+Your package delivery is delayed. Track now at this fake link.,S6_PhishingLink,mendeley_financial
+Your job application was successful! Reply to claim your position,S4_LoanJob,mendeley_financial
+Verify your phone number now to avoid service interruption.,S1_AccountCompromise,mendeley_financial
+Free $1000 gift card! Click here to redeem before it expires.,S6_PhishingLink,mendeley_financial
+Your recent online purchase has been shipped successfully.,L0_Ham,mendeley_financial
+Your electricity bill of BDT 3000 is overdue. Pay now to avoid cut-off.,L0_Ham,mendeley_financial
+Payment of BDT 5000 received. Thank you for your timely payment.,L0_Ham,mendeley_financial
+Your subscription payment failed. Update billing info to continue.,L0_Ham,mendeley_financial
+Your ticket to the concert is confirmed. Thank you for your purchase.,L0_Ham,mendeley_financial
+"Important: Claim your tax refund of BDT 8,000 <DATE_TIME> via this link",S6_PhishingLink,mendeley_financial
+Your online account will be suspended soon. Verify credentials now.,S1_AccountCompromise,mendeley_financial
+Your medical insurance claim has been processed successfully.,L0_Ham,mendeley_financial
+You have unclaimed cashback waiting. Submit your details to claim it immediately.,S2_FakePromo,mendeley_financial
+Congratulations! Claim your exclusive shopping voucher by replying with YES.,S1_AccountCompromise,mendeley_financial
+"You are eligible to claim a BDT 3,000 bonus from your telecom operator.",S2_FakePromo,mendeley_financial
+Claim your prize by verifying your phone number within <DATE_TIME>.,S1_AccountCompromise,mendeley_financial
+Claim your loan disbursed amount now by confirming your bank details.,S4_LoanJob,mendeley_financial
+Claim your free ticket for the concert happening near you <DATE_TIME>.,S2_FakePromo,mendeley_financial
+"You have been selected to claim a new government subsidy, respond with your ID",S5_Impersonation,mendeley_financial
+Claim your refund for the recent transaction now before the offer expires.,S2_FakePromo,mendeley_financial
+Claim your mystery gift by sending a reply with your full name and address.,S3_LotteryPrize,mendeley_financial
+Claim your free mobile upgrade by confirming your account info via SMS.,S2_FakePromo,mendeley_financial
+You have a new message from the lottery office. Claim your winnings ASAP.,S3_LotteryPrize,mendeley_financial
+Claim your prize money by paying a small processing fee at the link below,S6_PhishingLink,mendeley_financial
+"Claim your BDT 15,000 bonus credits from our new app by signing up now.",S2_FakePromo,mendeley_financial
+Claim your tax refund by uploading your financial documents immediately.,L0_Ham,mendeley_financial
+Your BDT 2000 payment has been received. Thank you for using our service.,L0_Ham,mendeley_financial
+Congratulations! You have been selected for a free smartwatch. Reply YES.,S2_FakePromo,mendeley_financial
+Your electricity bill of BDT 1500 is due <DATE_TIME>. Please pay on time.,L0_Ham,mendeley_financial
+Your mobile recharge of BDT 500 was successful.,L0_Ham,mendeley_financial
+"Last chance to claim your cashback offer worth BDT 10,000!",S2_FakePromo,mendeley_financial
+You won an exclusive holiday package. Contact us immediately to claim.,L0_Ham,mendeley_financial
+Your online subscription has been renewed successfully,L0_Ham,mendeley_financial
+Warning! Your account has been suspended due to suspicious activity.,S1_AccountCompromise,mendeley_financial
+Enjoy 20% discount on your next purchase. Use code SAVE20.,L0_Ham,mendeley_financial
+Your loan application was approved. Submit documents to receive payment.,S4_LoanJob,mendeley_financial
+Your food delivery has arrived. Please collect it.,L0_Ham,mendeley_financial
+Claim your prize money worth BDT 5000 by sending your bank details now.,S3_LotteryPrize,mendeley_financial
+"You are selected for government subsidy. Verify details to claim BDT 15,000.",S5_Impersonation,mendeley_financial
+Congratulations! You won a free trip. Reply YES to claim your prize.,S2_FakePromo,mendeley_financial
+Your mobile data has been recharged with 2GB. Enjoy surfing.,L0_Ham,mendeley_financial
+Your food order from FoodieApp is delivered. Enjoy your meal!,L0_Ham,mendeley_financial
+Limited-time offer! Double your investment in <DATE_TIME>. Call now.,S2_FakePromo,mendeley_financial
+You have successfully booked a taxi for <DATE_TIME>.,L0_Ham,mendeley_financial
+"Final notice! Claim your BDT 10,000 insurance payout <DATE_TIME>.",L0_Ham,mendeley_financial
+Your <DATE_TIME> gym subscription has been renewed. Thank you.,L0_Ham,mendeley_financial
+You have unpaid fines totaling BDT 1200. Pay now to avoid penalties.,L0_Ham,mendeley_financial
+Event reminder: Music concert <DATE_TIME> at <DATE_TIME> at City Arena.,L0_Ham,mendeley_financial
+Your debit card has been temporarily blocked for security reasons.,S1_AccountCompromise,mendeley_financial
+Your parcel #<US_DRIVER_LICENSE> is ready for pickup at the post office.,L0_Ham,mendeley_financial
+Urgent: Your loan approval is pending. Submit documents to proceed.,S4_LoanJob,mendeley_financial
+"Get rich quick! Invest BDT 20,000 in crypto mining and earn huge profits.",S4_LoanJob,mendeley_financial
+Your electricity meter reading is due. Please pay your bill of BDT 2500.,L0_Ham,mendeley_financial
+Last chance: Claim your cashback by verifying your account details now.,S1_AccountCompromise,mendeley_financial
+Congratulations! You are selected for a free smartphone giveaway. Reply YES.,S2_FakePromo,mendeley_financial
+Double your money with our new investment plan. Call us <DATE_TIME>,S4_LoanJob,mendeley_financial
+Urgent! Verify your bank details to prevent account suspension.,S1_AccountCompromise,mendeley_financial
+"Claim your prize worth BDT 10,000 by replying",S3_LotteryPrize,mendeley_financial
+Your recent payment of BDT 1500 was successful,L0_Ham,mendeley_financial
+Your parcel #<US_DRIVER_LICENSE> is out for delivery.,L0_Ham,mendeley_financial
+Your electricity bill of BDT 800 is due <DATE_TIME>.,L0_Ham,mendeley_financial
+"Immediate notice: Unauthorized transaction detected, act now!",L0_Ham,mendeley_financial
+You have won a free luxury watch. Reply to claim now.,S2_FakePromo,mendeley_financial
+Your mobile recharge of BDT 300 was successful.,L0_Ham,mendeley_financial
+Thank you for your recent bank deposit of BDT 5000.,L0_Ham,mendeley_financial
+"Claim your government grant of BDT 12,000 now.",S5_Impersonation,mendeley_financial
+You have a new message from the lottery office. Claim winnings.,L0_Ham,mendeley_financial
+Your credit card has been temporarily blocked. Confirm details.,S1_AccountCompromise,mendeley_financial
+Congratulations! You are selected for exclusive cashback offer.,S2_FakePromo,mendeley_financial
+Your order #5678 has been processed and shipped.,L0_Ham,mendeley_financial
+Your electricity bill payment of BDT 3200 was successful.,L0_Ham,mendeley_financial
+Reminder: Doctor appointment scheduled for <DATE_TIME> at <DATE_TIME>.,L0_Ham,mendeley_financial
+"Claim your cash reward of BDT 10,000 now. Send your bank details to proceed.",S2_FakePromo,mendeley_financial
+Your Uber ride has been confirmed for <DATE_TIME>.,L0_Ham,mendeley_financial
+Congratulations! You have been pre-approved for a loan. Apply now to get instant approval.,S4_LoanJob,mendeley_financial
+Your recent grocery order #78345 has been delivered. Enjoy your purchase!,L0_Ham,mendeley_financial
+Your Netflix subscription has been renewed. Thank you for staying with us.,L0_Ham,mendeley_financial
+Alert: Unrecognized login attempt detected on your email. Secure your account now.,S1_AccountCompromise,mendeley_financial
+Please verify your social security number to claim your government grant.,S5_Impersonation,mendeley_financial
+Your cab driver is on the way and will arrive in <DATE_TIME>.,L0_Ham,mendeley_financial
+Let's meet at the cafe <DATE_TIME>?,L0_Ham,mendeley_financial
+আপনার বিকাশে 350 টাকা জিতেছেন! তথ্য নিশ্চিত করতে এখনই লিঙ্কে যান।,S3_LotteryPrize,mendeley_financial
+Congratulations! You won a free iPhone. Claim now at <URL>,S6_PhishingLink,mendeley_financial
+Don't forget to bring the documents for <DATE_TIME>'s meeting,L0_Ham,mendeley_financial
+আপনার নাম্বারটি নির্বাচিত হয়েছে লটারি জেতার জন্য। লিঙ্কে যাচাই করুন।,S3_LotteryPrize,mendeley_financial
+Can you send me your notes for <DATE_TIME>'s class?,L0_Ham,mendeley_financial
+"Congratulations! You have won a BDT 20,000 shopping voucher. Reply to claim your prize.",S1_AccountCompromise,mendeley_financial
+Your parcel #<US_DRIVER_LICENSE> will be delivered <DATE_TIME>. Track live through our app,L0_Ham,mendeley_financial
+Reminder: Your flight booking to <LOCATION> is scheduled for <DATE_TIME> at <DATE_TIME>.,L0_Ham,mendeley_financial
+Important: Your bank account is locked due to suspicious activity. Verify your identity now.,S1_AccountCompromise,mendeley_financial
+"Claim instant loan approval up to BDT 50,000. Send your documents to proceed.",S4_LoanJob,mendeley_financial
+Your hotel booking confirmation #12345 for <DATE_TIME> in <LOCATION>.,L0_Ham,mendeley_financial
+Payment of BDT 3800 received. Thank you for your payment to ABC Store,L0_Ham,mendeley_financial
+Final notice: Update your billing info or your mobile service will be suspended.,L0_Ham,mendeley_financial
+Your subscription to Sports Daily renewed successfully. Enjoy your exclusive content!,L0_Ham,mendeley_financial
+Alert: Suspicious login attempt on your email account. Secure it immediately.,S1_AccountCompromise,mendeley_financial
+You’ve earned BDT 1500 cashback on your last grocery purchase.,L0_Ham,mendeley_financial
+"Your taxi will arrive in <DATE_TIME>. Driver: Saiful, Car: Blue Toyota.",L0_Ham,mendeley_financial
+"অভিনন্দন! আপনি ২০,০০০ টাকার ভাউচার জিতেছেন। আপনার <PERSON> পেতে “YES” রিপ্লাই করুন।",S3_LotteryPrize,mendeley_financial
+"Your bank transfer of BDT 10,000 has been successfully processed",L0_Ham,mendeley_financial
+You’ve won a free entry to the VIP concert! Reply YES to claim your tickets.,S2_FakePromo,mendeley_financial
+Warning: Multiple failed login attempts on your social media account. Check activity now.,S1_AccountCompromise,mendeley_financial
+"Your insurance claim was approved. BDT 15,000 will be credited to your account shortly.",L0_Ham,mendeley_financial
+Your flight to <LOCATION> is on schedule for <DATE_TIME>. Have a safe trip!,L0_Ham,mendeley_financial
+Confirm your bank details now to avoid loan application cancellation.,S4_LoanJob,mendeley_financial
+Your electricity bill for <DATE_TIME> is BDT 2900. Please pay by the due date.,L0_Ham,mendeley_financial
+Congratulations! You have been selected to get an exclusive reward! Your name came up for a YETI War Survival Kit. This special gift is from Tractor Supply. Hurry up! Your Reward is Ready,S2_FakePromo,mendeley_financial
+Your cloud storage is full. Please take action to free up space. Cloud Storage – Storage Limit Reached Your storage reached 100%,S2_FakePromo,mendeley_financial
+ANSWER FOR FREE!You have been chosen to participate in our Loyalty Program for FREE! It will take you <DATE_TIME> to receive this fantastic prize.,S2_FakePromo,mendeley_financial
+Get a free Amazon voucher by completing this survey now.,S2_FakePromo,mendeley_financial
+Congratulations! Your subscription is upgraded. Click to confirm,S6_PhishingLink,mendeley_financial
+Bank Alert: Your account will be locked due to pending verification.,L0_Ham,mendeley_financial
+"<PERSON>, I sent you 1500 taka via bKash. Check and confirm",L0_Ham,mendeley_financial
+Congratulations! You have been selected for a $5000 government loan with 0% interest. Apply now!,S5_Impersonation,mendeley_financial
+Can you return the 1000 BDT I lent you <DATE_TIME>? Need it urgently,L0_Ham,mendeley_financial
+Get 200% return by investing just $100 in our crypto program. Limited seats!,S4_LoanJob,mendeley_financial
+Claim your free cashback of $250 <DATE_TIME> by entering your card details,S2_FakePromo,mendeley_financial
+Last chance! Clear your loan dues now to avoid legal action,S4_LoanJob,mendeley_financial
+"Please approve the 12,500 BDT payment request I sent on Payoneer.",L0_Ham,mendeley_financial
+Your credit card has been temporarily blocked. Reactivate by verifying your PIN.,S1_AccountCompromise,mendeley_financial
+"Your bank flagged a transaction of $1,250. Verify at <URL> within <DATE_TIME> to avoid suspension",S6_PhishingLink,mendeley_financial
+"Sent 2,500 BDT via bKash just now. Please confirm when you get it",L0_Ham,mendeley_financial
+"Congratulations, you have been pre-approved for an instant $5,000 loan. Apply here to receive funds within <DATE_TIME>",S4_LoanJob,mendeley_financial
+"Invoice INV-3321 for 18,750 BDT has been paid and receipt uploaded to your email",L0_Ham,mendeley_financial
+Alert: Unusual login detected on your PayPal. Confirm identity to prevent account hold,S1_AccountCompromise,mendeley_financial
+Limited offer: Get 15% cashback on utility bill payments. Submit card details to claim reward,S2_FakePromo,mendeley_financial
+"Company salary transfer of 45,000 BDT processed <DATE_TIME>. Payslip sent to your inbox",L0_Ham,mendeley_financial
+Immediate action required: Confirm your bank <PERSON> to stop a pending fraudulent transfer,L0_Ham,mendeley_financial
+"I have paid the supplier 30,000 BDT via bank transfer; please confirm delivery schedule",L0_Ham,mendeley_financial
+"You are shortlisted for a high-return investment program. Invest $200 to get $2,000 <DATE_TIME> returns. Limited seats",S4_LoanJob,mendeley_financial
+"Shared the invoice for <DATE_TIME>. Please approve payment of 22,500 BDT by <DATE_TIME>",L0_Ham,mendeley_financial
+Final notice: Overdue loan amount of $850 must be cleared or legal action will follow. Click to resolve,S6_PhishingLink,mendeley_financial
+"Payment confirmation: Received 4,200 BDT for the event booking. Thanks for the prompt payment",L0_Ham,mendeley_financial
+Urgent verification requested: Reactivate your debit card by confirming 4-digit PIN at <URL>rify,S6_PhishingLink,mendeley_financial
+"Exclusive: Instant credit limit increase to $3,000 available. Click link to accept the offer now",S6_PhishingLink,mendeley_financial
+"Reminder: Utility bill of 1,250 BDT due <DATE_TIME>. Please pay to avoid late fee",L0_Ham,mendeley_financial
+Claim your cashback reward of $300 now. Complete the form to receive instant transfer,S2_FakePromo,mendeley_financial
+Your credit score has been upgraded. Unlock premium loan access with zero documentation,S4_LoanJob,mendeley_financial
+"Lottery draw result: Your mobile number has won 75,000 BDT. Submit bank info to collect winning",S3_LotteryPrize,mendeley_financial
+I refunded the extra 850 BDT you sent earlier. Please recheck your balance,L0_Ham,mendeley_financial
+"Final payment of 12,600 BDT processed successfully. Kindly send delivery schedule",L0_Ham,mendeley_financial
+"Rent of 9,000 BDT paid via Nagad. Let me know if it shows pending",L0_Ham,mendeley_financial
+"Crypto investment deal: Deposit $100 and earn $1,000 <DATE_TIME> return guaranteed",S4_LoanJob,mendeley_financial
+"Can you send 2,300 BDT by <DATE_TIME>? Need to settle an urgent bill",L0_Ham,mendeley_financial
+"Security alert: Suspicious transaction of 4,500 BDT detected on your card. Approve or decline immediately",L0_Ham,mendeley_financial
+Your subscription payment failed. Update card details to avoid service halt,L0_Ham,mendeley_financial
+Settled the vendor payment through bank draft just now. Awaiting your acknowledgment,L0_Ham,mendeley_financial
+Limited stock: Get gold savings account with 5x bonus interest. Activate through special code,S2_FakePromo,mendeley_financial
+"Received 1,100 BDT on Rocket just now. Sending receipt shortly",L0_Ham,mendeley_financial
+Immediate action required to prevent permanent block on your debit card. Confirm identity at <URL>,S6_PhishingLink,mendeley_financial
+"Just sent 3,200 BDT to your account for the utility bills. Please check and confirm",L0_Ham,mendeley_financial
+"Exclusive loan offer of $10,000 with no credit check. Apply before <DATE_TIME>",S2_FakePromo,mendeley_financial
+Final reminder: Your pending tax fee of $260 must be cleared to avoid penalty,L0_Ham,mendeley_financial
+Suspicious payment attempt detected on your MasterCard. Validate transaction immediately,L0_Ham,mendeley_financial
+"Sent the advance booking amount of 5,500 BDT. Please reserve the slot",L0_Ham,mendeley_financial
+Your reward of $950 is waiting for withdrawal. Submit bank details to receive instantly,S2_FakePromo,mendeley_financial
+"I transferred 4,800 BDT for the exam fees. Please verify if it reached your account",L0_Ham,mendeley_financial
+Urgent notification: Loan recovery team assigned to your case. Clear dues to avoid legal visit,S4_LoanJob,mendeley_financial
+"The vendor confirmed receipt of 22,000 BDT. Delivery will be dispatched <DATE_TIME>",L0_Ham,mendeley_financial
+"Increase your credit limit to $5,000 instantly without documentation. Click to activate",S6_PhishingLink,mendeley_financial
+"Mom sent 1,200 BDT through Rocket. Check if it reflects in your balance",L0_Ham,mendeley_financial
+Your insurance refund of $350 is ready. Complete verification before it expires,L0_Ham,mendeley_financial
+Security alert: Multiple failed login attempts on your wallet. Restore access now,S1_AccountCompromise,mendeley_financial
+"Congratulations! You are selected for a $2,000 investment bonus. Submit details to claim",S2_FakePromo,mendeley_financial
+"Paid the electricity bill of 1,250 BDT <DATE_TIME>. Please check if it cleared",L0_Ham,mendeley_financial
+Your PayPal account is under review due to suspicious activity. Confirm identity immediately,L0_Ham,mendeley_financial
+"Sent advance payment of 15,000 BDT for the event hall booking. Await confirmation",L0_Ham,mendeley_financial
+Alert: Unauthorized loan application detected in your name. Verify or report now,S1_AccountCompromise,mendeley_financial
+"I transferred 2,800 BDT for the <DATE_TIME> internet bill. Check and confirm receipt",L0_Ham,mendeley_financial
+"Client has deposited 50,000 BDT <DATE_TIME>. Update your records accordingly",L0_Ham,mendeley_financial
+Security alert: Your debit card shows suspicious activity. Confirm transaction immediately,L0_Ham,mendeley_financial
+"I sent 1,800 BDT to settle the grocery expenses. Let me know if it’s received",L0_Ham,mendeley_financial
+"Salary of 45,000 BDT has been credited. Check your payroll slip",L0_Ham,mendeley_financial
+আপনার একাউন্টে সন্দেহজনক লেনদেন হয়েছে। দ্রুত যাচাই করুন।,L0_Ham,mendeley_financial
+আপনার মোবাইল রিচার্জ সফল হয়েছে। ধন্যবাদ।,L0_Ham,mendeley_financial
+"জরুরি! আপনার অ্যাকাউন্ট ব্লক হতে চলেছে, লগইন করুন",S1_AccountCompromise,mendeley_financial
+আপনার লটারি জিতেছেন! এখনই তথ্য পাঠান।,S3_LotteryPrize,mendeley_financial
+আপনার ব্যাংক অ্যাকাউন্টে সন্দেহজনক লেনদেন হয়েছে। বিশদ তথ্যের জন্য কল করুন।,L0_Ham,mendeley_financial
+আপনার অ্যাকাউন্টের ব্যালেন্স ৭০০০ টাকা।,L0_Ham,mendeley_financial
+"অজানা নম্বর থেকে কল এড়ান, এটি প্রতারণামূলক।",L0_Ham,mendeley_financial
+আপনার অ্যাকাউন্ট থেকে অবৈধ লেনদেন হয়েছে। অচিরেই অভিযোগ জানান।,L0_Ham,mendeley_financial
+আপনার মোবাইল নম্বর রিচার্জ সফল হয়েছে। ধন্যবাদ।,L0_Ham,mendeley_financial
+আপনার লোন এর <DATE_TIME>। দ্রুত OTP দিন।,S1_AccountCompromise,mendeley_financial
+"চলুন, আজই আপনার ব্যালেন্স বাড়ান। বিনিয়োগের জন্য দ্রুত যোগাযোগ করুন।",L0_Ham,mendeley_financial
+"আপনার ওটিপি কোড ১২৩৪৫৬, দয়া করে কারো সাথে শেয়ার করবেন না।",L0_Ham,mendeley_financial
+"Urgent! Your account will be suspended, verify now by sending <PERSON>.",S1_AccountCompromise,mendeley_financial
+<DATE_TIME> subscription payment received. Thank you for your service usage.,L0_Ham,mendeley_financial
+"Warning! Suspicious login detected, confirm your identity with <PERSON>.",S1_AccountCompromise,mendeley_financial
+Account locked! Provide <PERSON> now to unlock your account.,L0_Ham,mendeley_financial
+"আপনার পেমেন্ট সফল হয়েছে, মোট ব্যালেন্স BDT ১২,০০০।",L0_Ham,mendeley_financial
+Urgent! Update your bank details to continue service.,L0_Ham,mendeley_financial
+Your account balance is BDT 7000. Thank you for banking with us.,L0_Ham,mendeley_financial
+Congratulations! You are selected for a free gift. Send <PERSON> to claim.,S2_FakePromo,mendeley_financial
+"আপনার মোবাইল রিচার্জ সফল হয়েছে, <PERSON>।",L0_Ham,mendeley_financial
+Urgent action required! Verify your account with OTP within <DATE_TIME>.,S1_AccountCompromise,mendeley_financial
+Your debit card is blocked for suspicious activity. Call now to unblock.,S1_AccountCompromise,mendeley_financial
+New mobile plan launched. Contact customer care for details.,L0_Ham,mendeley_financial
+OTP verification failed. Please try again.,L0_Ham,mendeley_financial
+Your subscription has been renewed successfully.,L0_Ham,mendeley_financial
+Earn BDT 3000 <DATE_TIME> working from home. Register now.,S4_LoanJob,mendeley_financial
+আজকের বিশেষ অফার! আপনার ডিসকাউন্ট এনজয় করতে কল করুন আজই।,S2_FakePromo,mendeley_financial
+Your debit card has been temporarily blocked due to suspicious activity.,S1_AccountCompromise,mendeley_financial
+"আপনার মেইল বক্স পূর্ণ, নতুন মেইল দেখতে লগইন করুন।",L0_Ham,mendeley_financial
+Your subscription has been renewed successfully. Thank you.,L0_Ham,mendeley_financial
+"Dear user, update your payment info to avoid account suspension. Click the link now.",S6_PhishingLink,mendeley_financial
+Your package delivery is scheduled for <DATE_TIME>. Track here: <URL>,L0_Ham,mendeley_financial
+Congratulations! You are selected for a free iPhone. Claim by replying with your address.,S2_FakePromo,mendeley_financial
+"Team meeting is rescheduled to <DATE_TIME>, please confirm your availability.",L0_Ham,mendeley_financial
+A new login to your account was detected from an unknown device. Secure your login now.,L0_Ham,mendeley_financial
+Thank you for your recent purchase. Your order #12345 will arrive soon.,L0_Ham,mendeley_financial
+Update your password immediately to safeguard your account.,S1_AccountCompromise,mendeley_financial
+Your bank statement is ready. Download your PDF here.,L0_Ham,mendeley_financial
+New message from support team. Check your inbox for details.,L0_Ham,mendeley_financial
+"আপনার OTP কোড <US_DRIVER_LICENSE>, কারো সাথে শেয়ার করবেন না।",L0_Ham,mendeley_financial
+"Payment of BDT 2,500 received successfully. Thank you for your payment.",L0_Ham,mendeley_financial
+আপনার ব্যাংক স্টেটমেন্ট ডাউনলোড করতে এখানে ক্লিক করুন।,S6_PhishingLink,mendeley_financial
+Your insurance claim has been approved. Contact us for details.,L0_Ham,mendeley_financial
+"আপনার অ্যাকাউন্ট থেকে অবৈধ লেনদেন হয়েছে, দ্রুত কল করুন।",L0_Ham,mendeley_financial
+Your software update is ready to install. Proceed now.,L0_Ham,mendeley_financial
+আপনার মোবাইল সেটিংস আপডেট করেছেন?,L0_Ham,mendeley_financial
+Your subscription will expire <DATE_TIME>. Renew to continue service.,L0_Ham,mendeley_financial
+আপনার ফেসবুক এ নতুন মন্তব্য এসেছে। <PERSON> দেখুন।,L0_Ham,mendeley_financial
+Friend request from <PERSON>. Accept to connect.,L0_Ham,mendeley_financial
+আপনার মোবাইল সেটিংস সফলভাবে আপডেট হয়েছে।,L0_Ham,mendeley_financial
+সোনালী ব্যাংক অ্যাকাউন্টে সমস্যা হয়েছে। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+আপনার ব্যাংক কার্ডটি অবিলম্বে আপডেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"৪০৳ ক্যাশব্যাক! ৪৬জিবি @৪৫৮৳, ৩০দিন, <PERSON> নাও এখনই: <URL>",S2_FakePromo,banglabarta
+আজই ক্যাসিনোতে বাজি ধরুন এবং একটি বিলাসবহুল ট্রিপ জিতুন! যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+নতুন কাস্টমারদের জন্য বিশেষ ডিসকাউন্ট। আজই রেজিস্টার করুন।,S2_FakePromo,banglabarta
+"৳৮০ ক্যাশব্যাকে বেশি বেশি ডাটা ৩০জিবি@৳৩১৯, ৩০দিন <URL>",S2_FakePromo,banglabarta
+আপনার অ্যাকাউন্টটি সাময়িকভাবে নিষ্ক্রিয় করা হয়েছে। সক্রিয় করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+<#> আপনার মাইজিপি পিন (code) হচ্ছে: 4283. ভেরিফাই করতে এই পিনটি ব্যবহার করুন. অপব্যবহার ঠেকাতে এই পিনটি ফরওয়ার্ড অথবা কারো সাথে শেয়ার করবেন না FyXTPoy9ZDa,S2_FakePromo,banglabarta
+নতুন গ্রাহকদের জন্য স্পেশাল অফার! <PERSON> ৩০% ছাড়।,S2_FakePromo,banglabarta
+শুভ জন্মদিন!,L0_Ham,banglabarta
+"তোমার আগে কোনো বই পড়েছি? হ্যাঁ, অনেক বই পড়েছি। তুমি কি?",L0_Ham,banglabarta
+<PERSON> স্টক শেষ হওয়ার আগে সুযোগ নিন।,S2_FakePromo,banglabarta
+"আজ ও কাল মেন্স ওয়ার্ল্ড এর সকল শাখায় ফ্ল্যাট ৫০% ডিসকাউন্ট
+<URL>",S2_FakePromo,banglabarta
+"৩৫জিবি+৮০০মিনিট-৬০০টাকা-৩০দিন(বোনাসসহ), নিতে *১২১*৫২৬২# বা <URL>",S2_FakePromo,banglabarta
+ফিটনেস ইকুইপমেন্টে ১৫% ডিসকাউন্ট! আজই অর্ডার করুন।,S2_FakePromo,banglabarta
+কেমন আছে তোমাদের পরিবার?,L0_Ham,banglabarta
+তোমাদের দিন কেমন কাটছে?,L0_Ham,banglabarta
+আপনি ৩ ভরি সোনা জিতেছেন! বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+শুভ প্রভাত!,L0_Ham,banglabarta
+"আসসালামুআলাইকুম!
+
+আপনি কি <PERSON> বসে কোন টাকা ইনভেস্টমেন্ট না করে টাকা ইনকাম করতে চান?
+তাহলে আমাদের বট এ কাজ করুন। আমাদের বট এ আপনি কোন ইনভেস্টমেন্ট ছাড়া ইনকাম করতে পারবেন।
+
+বট লিঙ্ক: <URL>",S6_PhishingLink,banglabarta
+অনলাইন শপিংয়ে ২০% পর্যন্ত ডিসকাউন্ট! কোড ব্যবহার করে সুবিধা নিন।,S2_FakePromo,banglabarta
+কি খবর তোমাদের?,L0_Ham,banglabarta
+আজকে কি করছো?,L0_Ham,banglabarta
+ফ্ল্যাট ১০% ছাড় সারা স্টোরে। কোড: FLAT10. শুধুমাত্র অনলাইনে।,S2_FakePromo,banglabarta
+<PERSON> একটি <PERSON> বাড়ি পাচ্ছে।,L0_Ham,banglabarta
+"সাফল্য তোমার দিকে আসবে, ধৈর্য ধরো।",L0_Ham,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টে ২ কোটি টাকা জমা হয়েছে! নিশ্চিত করতে কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"*<PERSON> বসে ফর্ম  ফিলাপের কাজ। 
+* ৫টা <LOCATION> ফিলাপ ৫১০ টাকা, 
+আমাদের কোম্পানিতে কিছু লোক নেওয়া হচ্ছে। 
+*শিক্ষাগত যোগ্যতা : বাংলা পরতে পারলেই হবে 
+*ফোনে WhatsApp থাকতে হবে। 
+*বেতন : ৮০০০-১৮০০০ টাকা",L0_Ham,banglabarta
+বোনাস সহ ৭জিবি-১৩০টাকা-৩০দিন। নিতে ডায়াল *১২১*৫৪৬৯# বা ভিজিট <PERSON>,S2_FakePromo,banglabarta
+কি খাবে? আজ মাংসের রান্না হচ্ছে। তুমি?,L0_Ham,banglabarta
+আপনার মোবাইল <PERSON>এন্ড ল্যাপটপ জিতেছে! <PERSON> পেতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+আমি যেন কিছু বলতে পারি না।,L0_Ham,banglabarta
+"উদ্দীপন।Post Name:FPO &
+Branch Accountant. Your Exam
+Date:<DATE_TIME> (<DATE_TIME>).
+Time:09:00 AM (সকাল)। স্থান:সিলেট জোন অফিস।সাথে দুই কপি পাসপোর্ট সাইজের ছবি,CV, <LOCATION> চাকরির আবেদন (বাংলায়), <DATE_TIME> প্রার্থীর রেফারেল ফরম (যদি থাকে),এনআইডি এর ফটোকপি,মূল সনদপত্রের ফটোকপি সত্যায়িত ও মূল সনদপত্র সাথে নিয়ে আসবেন।উদ্দীপন সিলেট জোনেৱ <PERSON>:বাড়ির নাম: শোভাশ্রম,বাড়ি নম্বর: 2/1,J ব্লক,শাহজালাল উপশহর মেইন রোড,বাইতুল জান্নাত জামে মসজিদ এর বিপরীতে।খেলার <PERSON> সংলগ্ন / উপ পুলিশ কমিশনার কার্যালয়ের কাছে।প্রয়োজনে:<PHONE_NUMBER>। <PERSON> এভাবে,
+বরাবর,
+উপ-পরিচালক ও প্রধান
+মানবসম্পদ ও ব্যবস্থাপনা বিভাগ
+উদ্দীপন প্রধান কাৰ্যালয়
+রিং রোড,আদাবর ঢাকা ১২০৭।",S1_AccountCompromise,banglabarta
+"আপনি অনলাইনে একটি খণ্ডকালীন/পূর্ণ-সময়ের চাকরির জন্য নির্বাচিত হয়েছেন। কাজটি খুবই সহজ, কোন সময় সীমা নেই, কোন স্থানের সীমা নেই, এটি ঘরে বসে করা যায়, দৈনিক বেতন 1000-5000TK, একটি চাকরি খুঁজতে হোয়াটসঅ্যাপ ম্যানেজারের সাথে যোগাযোগ করুন:  <URL>",S6_PhishingLink,banglabarta
+"উপবৃত্তির 4200 টাকার জন্য
+যোগাযোগ করুন: <PHONE_NUMBER>
+শিক্ষা বোর্ড",L0_Ham,banglabarta
+"রাগ করে কখনো ভালোবাসার <PERSON> <LOCATION> নেই। রাগ কড়ে বেশি অবহেলা করতে নেই, ভালোবাসার মানুষকে। <PERSON> জীবনের সবচেয়ে দামী জিনিস, ভালোবাসার মানুষকে হারাতে হয়।",L0_Ham,banglabarta
+আজ কেমন লাগছে তোমাকে? ঠিক আছি। আপনার কেমন লাগছে?,L0_Ham,banglabarta
+আপনার গাড়ির ইন্সুরেন্স নবায়ন করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+আজকের পরিকল্পনা কি?,L0_Ham,banglabarta
+কি খবর?,L0_Ham,banglabarta
+বিকাশে ৫০০০ টাকা ডিপোজিট করলে ১০০০ টাকা বোনাস! আজই সুযোগ নিন।,S2_FakePromo,banglabarta
+"আপনার পাওনা ৫০০০/- টাকা, জলদি পরিশোধ করুন।",L0_Ham,banglabarta
+বোনাস সহ ২জিবি-৪৫টাকা-৩দিন। ডায়াল *১২১*৫৫৩৪# বা <LOCATION>,S2_FakePromo,banglabarta
+"১৫০৳ ক্যাশব্যাকে নাও ডাটা মিক্সার ৮০জিবি@৳৬৯৯,৩০দিন: <LOCATION>",S2_FakePromo,banglabarta
+"সর্বকালের সর্বশ্রেষ্ঠ বাঙালি জাতির পিতা বঙ্গবন্ধু <DATE_TIME> রহমান এর ৪৭তম শাহাদত বার্ষিকীতে বিনম্র শ্রদ্ধা""-ডাক ও টেলিযোগাযোগ বিভাগ।",S2_FakePromo,banglabarta
+"কি খবর, হাই?",L0_Ham,banglabarta
+পাখিরা গাছে খুব সুন্দর গান গায়।,L0_Ham,banglabarta
+হ্যালো!,L0_Ham,banglabarta
+ভ্রমণ প্যাকেজে ২০% ছাড়! বুকিং করতে আজই যোগাযোগ করুন।,S2_FakePromo,banglabarta
+আপনার ক্রেডিট <DATE_TIME> ব্লক করা হয়েছে। পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"২০০ টাকা বিনামূল্যে বোনাস!
+৫০০০টাকা জেতার সুযোগ।
+<URL>",S6_PhishingLink,banglabarta
+আমি যেন তোমার কাছে কিছু বলতে পারি।,L0_Ham,banglabarta
+অভিনন্দন! আপনি ১ কোটি টাকা লটারি জিতেছেন। আপনার পুরস্কার সংগ্রহ করতে আমাদের সাথে যোগাযোগ করুন। যোগাযোগ:<PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+আপনি ৬ ভরি সোনা জিতেছেন! বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+"প্রিয় শিক্ষার্থী! Coronavirus এর কারণে তোমাদের উপবৃত্তির ৪,২০০ টাকা দেওয়া হচ্ছে। টাকা গ্রহনের জন্য নিম্নোক্ত শিক্ষাবোর্ডের নম্বরে যোগাযোগ করুন।
+মোবাঃ <DATE_TIME>,
+যোগাযোগের সময় সকাল 10 টা রাত <DATE_TIME> টা পযন্ত বি:দ্র: একটা বিকাশ নাম্বার নিয়ে ফোন <LOCATION> হবে",L0_Ham,banglabarta
+"""অভিনন্দন! আপ্নি পাসেন"" ""বিকাশ"""" & BRAC""""N.G.O"""" pokko teke """"STUDENT বৃত্তি"""" (টাকা-10,499/) আপনার পরিমাণ আইডি: এখন আপনার প্রার্থী নির্বাচন করুন: Bestarito Janta Call korun office: <DATE_TIME>} ওথোভা""""ঠিক আছে""""লিখা এসএমএস করব? আমড়া আপনের কেচা কল করবো.!""",L0_Ham,banglabarta
+"আপনার পেমেন্ট বাকি রয়েছে, <PHONE_NUMBER> টাকা পাঠান।",L0_Ham,banglabarta
+<PHONE_NUMBER> এই <LOCATION> জরুরি টাকা পাঠান।,L0_Ham,banglabarta
+"নগদ থেকে গ্রামীণফোনে ১১৮টাকা রিচার্জে ১১৮টাকা <NRP>! ৬মে, বিকাল ৩টা-সন্ধ্যা ৭টা, মিনিটে ১ম জন। সাথে ৫জিবি, ৭দিন! ডায়াল *১৬৭#",S2_FakePromo,banglabarta
+আপনার গ্যাস বিল বকেয়া রয়েছে। অবিলম্বে পেমেন্ট করুন। কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+তোমার পাশে একটি পাথুরি আছে। ধন্যবাদ।,L0_Ham,banglabarta
+<PERSON> দিন কেমন কাটছে?,L0_Ham,banglabarta
+<PHONE_NUMBER> এই নাম্বারে রকেটে টাকা পাঠান।,L0_Ham,banglabarta
+কৃষকদের জন্য সরকার দিচ্ছে পঞ্চাশ হাজার টাকা পর্যন্ত ভর্তুকি। ভর্তুকি পেতে এখনই যোগাযোগ করুন <DATE_TIME>,S5_Impersonation,banglabarta
+তোমার সকল ইচ্ছা পূরণ হোক!,L0_Ham,banglabarta
+"আপনার অ্যাকাউন্টটি অবিলম্বে আপডেট করুন, না হলে এটি বন্ধ হয়ে যাবে। লিঙ্কে ক্লিক করুন: [<URL>",S6_PhishingLink,banglabarta
+"Meta pro space কাজ করলে ইনবক্স 
+মাত্র ৬ ডলার বাংলা
+ ৭৫০ টাকা দিয়ে  একাউন্ট করে লাইফটাইম ইনকাম করুন,  সাথে থাকছে মাসিক বেতন, ৫ লাইন ফ্রী ইনকাম, স্লট ইনকাম, ৩০ জুন এর মধ্যে ১২ ডলার বাংলা <DATE_TIME> টাকা দিয়ে ২ টা প্রোগ্রাম <PERSON> পাচ্ছেন 0.05 bnb এর mps nft ফ্রী অর্থাৎ ২৯ ডলার ফ্রী পাচ্ছেন
+বাংলা <DATE_TIME> টাকা| এমন সুযোগ আর পাবেন না, ৩০ জুনের মধ্যে যারা একাউন্ট করবে তারাই পাবে
+এমন সুযোগ হাতছাড়া করবেন না
+আর বসে না থেকে তাড়াতাড়ি একাউন্ট করে ফেলুন",S4_LoanJob,banglabarta
+জনতা ব্যাংক থেকে জরুরি বার্তা। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+* FIFA 2022 কার্টেল বিশ্বকাপ দেখার জন্য সারা বিশ্বের মানুষকে বিনামূল্যে 50<LOCATION> ডেটা দেয়৷* * আই হ্যাভ রিসিভড মাইন।** এটি খুলুন* <URL>,S6_PhishingLink,banglabarta
+আপনার ডেবিট কার্ডের <PERSON> এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+দারাজ ১১.১১-তে নগদে ১৫% পর্যন্ত ক্যাশব্যাক + ফ্রি ডেলিভারি। <URL> শর্ত প্রযোজ্য,S2_FakePromo,banglabarta
+আপনার পাসওয়ার্ডটি অবিলম্বে পরিবর্তন করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"তুমি একা নও, আমি আছি।",L0_Ham,banglabarta
+"ফ্রী ফেসবুক থেকে ইনকাম করুন ইনবক্স করুন
+সততার সাথে কাজ করেন 🥰😍
+সাপোর্ট (গ্রুপ এবং বট)
+<URL> 
+অফিসিয়াল এডমিন👆",S6_PhishingLink,banglabarta
+বিপিএলে বাজি ধরুন এবং একটি <PERSON>! যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+"৮জিবি(বোনাসসহ) ১২৩টাকা ১৫দিন।ডায়াল *১২১*৫৫৪৮#, <URL>",S2_FakePromo,banglabarta
+আশা করি তোমার সফল <LOCATION>!,L0_Ham,banglabarta
+"সব ঠিক হয়ে যাবে, চিন্তা কোরো না।",L0_Ham,banglabarta
+"প্রিয় গ্রাহক, আপনার কার্ডের নতুন পিন কোড জেনারেট করতে নিচের লিঙ্কে যান এবং পূর্ববর্তী সকল ইনফরমেশন প্রদান করুন, অবশ্যই সঠিক পিন কোডটি শেয়ার করবেন। লিঙ্ক: <URL>",S6_PhishingLink,banglabarta
+<LOCATION> প্রতি মিনিট ১৫দিন মেয়াদের কল রেট অফারটি <PERSON> রিচার্জ  করুন।,S2_FakePromo,banglabarta
+"৪০৳ চিল ক্যাশব্যাকে ৩৫জিবি+৫০০মি.@৪৫৯৳ ৩০দিন, নাও: <URL>",S2_FakePromo,banglabarta
+মোবাইল দিয়ে টাকা ইনকাম করুন! নতুন উপায় 2023 সালের জন্য। বিস্তারিত জানতে যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+"সব কিছু ঠিক হয়ে যাবে, ধৈর্য ধরো।",L0_Ham,banglabarta
+নগদ অ্যাকাউন্টে ত্রুটি <PERSON>। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"৪৫৳ <NRP>! ৩১জিবি+৫০০মি.@৪৫৪৳ ৩০দিন, নিয়ে নাও: <URL>",S2_FakePromo,banglabarta
+"হ্যালো, আমার নাম ALIYE। <PERSON> করার জন্য দুঃখিত। আমি <URL> এর মানবসম্পদ বিভাগ। আমি কি আপনার কয়েক মিনিট সময় নিতে <LOCATION>?
+দুপুর আড়াইটা
+আমাদের <PERSON> একটি খণ্ডকালীন চাকরি প্রদান করতে পেরে খুশি যা আপনি আপনার অবসর সময়ে করতে পারেন, তাই আমাদের প্রচুর সংখ্যক সমবায় কর্মী নিয়োগ করতে হবে (কোনও ফি এবং বিনিয়োগ নেই)। এই <NRP> সহজ এবং নমনীয় এবং আপনার বর্তমান চাকরিতে হস্তক্ষেপ করবে না। পরে আপনি দিনে মাত্র 5-10 মিনিটে সহজেই 300-1200TK উপার্জন করতে পারবেন। আপনি কি এই চাকরিতে আগ্রহী?",S6_PhishingLink,banglabarta
+আপনার বিনামূল্যে পুরস্কার দাবি করতে এই লিঙ্কটি অনুসরণ করুন: <URL>,S6_PhishingLink,banglabarta
+৩০জিবি (বোনাস সহ) ৩০০টাকা ৩০দিন। ডায়াল *১২১*৫২৫৪# বা <PERSON>,S2_FakePromo,banglabarta
+শুধু আজকে ৳১০০ ক্যাশব্যাক! ৫০জিবি @৳৩৯৮ ৩০দিন: <URL>,S2_FakePromo,banglabarta
+আপনার ফেসবুক অ্যাকাউন্টটি আপডেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+SCHOOL PART TIME TEACHER POST APPLY Now. Online selection process. নাম্বারের ভিত্তিতে নির্বাচন করা হবে. <URL> pass <PERSON> and certificate send WhatsApp <PHONE_NUMBER>,S6_PhishingLink,banglabarta
+বারোমাসের বন্ধুদের সঙ্গে আড্ডা <LOCATION> যাচ্ছি।,L0_Ham,banglabarta
+"১৫০৳ ক্যাশব্যাকে সেরা অফার ৬১জিবি+১০০০মি@ ৳৭৪৯, ৩০দিন: <NRP>",S2_FakePromo,banglabarta
+"শুধুমাত্র মাইজিপিতে নতুন সিমের অফার এখন ২জিবি ইন্টারনেট মাত্র ১৭ টাকায়,মেয়াদ ৭দিন(মাসে সর্বোচ্চ একবার)।ভিজিট করুন <URL>",S2_FakePromo,banglabarta
+"১০০৳ <NRP>! ৩১জিবি+৪৫০মি.@৩৯৯৳ ৩০দিন, নিয়ে নাও: <URL>",S2_FakePromo,banglabarta
+শুভ নববর্ষ!,L0_Ham,banglabarta
+"কি খবর, হ্যালো?",L0_Ham,banglabarta
+মাত্র ৯৭৳ ৩০দিন বিশ্বকাপ ক্রিকেট + ১জিবি ডাটা নিতে: <URL>,S2_FakePromo,banglabarta
+কেমন আছো তুমি? <DATE_TIME> ঠিক আছি। তুমি কি নতুন করে?,L0_Ham,banglabarta
+নতুন সিজনে সব পোশাকে ২৫% ডিসকাউন্ট। আজই শপিং করুন।,S2_FakePromo,banglabarta
+"৳৫০ ক্যাশব্যাকে প্রো-লেভেল ডাটা ডিল ৫০জিবি@৳৪৪৮,৩০দিন <URL>",S2_FakePromo,banglabarta
+তুমি কি সমুদ্রে যাচ্ছো?,L0_Ham,banglabarta
+<PHONE_NUMBER> নাম্বারে কল করুন।,L0_Ham,banglabarta
+বোনাস সহ ২জিবি-৩৫টাকা-৭দিন। ডায়াল *১২১*৫০৩৭# বা <PERSON>,S2_FakePromo,banglabarta
+অ্যাপল আইফোন ১৩ জিতেছেন! ডেলিভারি নিশ্চিত করতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+তোমার পরিশ্রম সার্থক হবে।,L0_Ham,banglabarta
+অ্যাপল আইফোন ১৫ জিতেছেন! ডেলিভারি নিশ্চিত করতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+"এটা রাকিবের নাম্বার, <DATE_TIME> কল দিস।",L0_Ham,banglabarta
+"হ্যালো, আপনি কি করছেন?",L0_Ham,banglabarta
+সিস্টেমের মান উন্নয়নের জন্য ১১মে রাত ১১:৫৯ থেকে ১২মে সকাল ৮টা পর্যন্ত ফ্লেক্সিলোডের মাধ্যমে মোবাইল রিচার্জ বন্ধ থাকবে। তবে এই সময় মাইজিপি অ্যাপ বা স্ক্রাচ কার্ড দিয়ে রিচার্জ করা যাবে।,S2_FakePromo,banglabarta
+প্রিয় গ্রাহক আপনার নাম্বারের ১০ জিবি ইন্টারনেট এবং ১০০ মিনিট ফ্রি পেতে নিচের লিংকে ক্লিক করুন,S6_PhishingLink,banglabarta
+ধন্যবাদ ভাই।,L0_Ham,banglabarta
+দয়া <PERSON> ছেলের সমস্যার জন্য তাড়াতাড়ি টাকা পাঠান।,L0_Ham,banglabarta
+<PERSON>।,L0_Ham,banglabarta
+"“আপনার জীবন, স্বাস্থ্য ও সম্পদের অনাকাঙ্খিত/দুর্ঘটনাজনিত ক্ষতি লাঘবের ব্যবস্থা <LOCATION> বীমা। বীমা <PERSON>, ঝুঁকিমুক্ত থাকুন”-বীমা উন্নয়ন ও নিয়ন্ত্রণ কর্তৃপক্ষ।",S2_FakePromo,banglabarta
+তোমার সাহস অসাধারণ।,L0_Ham,banglabarta
+"বেশি বেশি আড্ডা+ইন্টারনেটিং,নাও ৫জিবি+১৫০মি@৳১৪৯,৭দিন <URL>",S2_FakePromo,banglabarta
+"গ্রামীণফোনের মিনিট অফার এখন আরো আকর্ষণীয়! ২৭ মিনিট ২৪ ঘন্টা, <PERSON> রিচার্জ বা বিকাশ করুন ১৯ টাকা।",S2_FakePromo,banglabarta
+আপনার ইমেল ঠিকানাটি যাচাই করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"হটশট <PERSON> ৳১৮! <PERSON> ২২জিবি@৳১৭৯, ৭দিন: <URL>",S2_FakePromo,banglabarta
+"পূর্বাচল সংলগ্ন নাভানা'র ৩,৫ ও ১০ কাঠার প্লট কিনুন – <DATE_TIME>",S2_FakePromo,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+সোনালী ব্যাংক থেকে আপনার জন্য জরুরি বার্তা। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আমার নাম্বারে <PHONE_NUMBER> ফ্লেক্সিলোড করে দাও ৫০০ টাকা,L0_Ham,banglabarta
+"আকর্ষণীয় চাকরি ও পড়াশোনা, মাসিক বেতন ২ লক্ষ+ এবং দক্ষিণ কোরিয়ায় স্থায়ী বসবাসের সুযোগ।
+বিনামূল্যে টিউশন ও থাকার ব্যবস্থা।
+যোগাযোগ করুন:
+<PHONE_NUMBER>
+<PHONE_NUMBER>
+<PHONE_NUMBER>
+<DATE_TIME>",S4_LoanJob,banglabarta
+বিদ্যুতের চালার প্রয়োগ করা হয়।,L0_Ham,banglabarta
+"‘করবো বীমা, গড়বো দেশ
+স্মার্ট হবে বাংলাদেশ।’ বীমা উন্নয়ন ও নিয়ন্ত্রণ কর্তৃপক্ষ এবং <PERSON> প্রতিষ্ঠান বিভাগ অর্থ মন্ত্রণালয়।",S2_FakePromo,banglabarta
+আত্মবিশ্বাস নিয়ে সামনে এগিয়ে যাও।,L0_Ham,banglabarta
+"PLC,LIMITED.
+
+প্রিয় আবেদনকারী, অভিনন্দন!
+
+আপনার সিভি নির্বাচিত হয়েছে। পজিশনের নাম - কাস্টমার সার্ভিস/ইউনিট ম্যানেজার (ডেভ..) (<PERSON> / ফুল টাইম)। যদি আপনি কাজটিতে আগ্রহী হন তবে অবশ্যই সিভি এবং পাসপোর্ট সাইজের <DATE_TIME> ছবি নিয়ে আসতে হবে।
+
+কাজের স্থান - আপনি ঢাকা শহরের যেকোনো শাখা অফিস বেছে নিতে পারবেন।
+
+সাক্ষাত্কারের তারিখ - ১৪ নভেম্বর ২০২৩ (১০.০০am - ০৪.০০pm)
+
+যোগাযোগের ঠিকানা - ১৬৬, দিলকুশা, মতিঝিল, ঢাকা ১০০০।
+
+বিস্তারিত জানার জন্য কল করুন: <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+সীমিত সময়ের অফার! ৪০জিবি (বোনাসসহ) ৫০০টাকা <PERSON> *১২১*৫০৪৯# বা <PERSON>,S2_FakePromo,banglabarta
+"হ্যালো, কেমন আছেন?",L0_Ham,banglabarta
+"<PERSON> ইনকাম করতে চাইলে লিংকে ক্লিক করুন
+<URL>",S6_PhishingLink,banglabarta
+বিকাশ অ্যাপে skitto deals এ ৩০টাকা পর্যন্ত <NRP> <URL>,S2_FakePromo,banglabarta
+আপনার ইন্টারনেট সংযোগ পুনরায় চালু করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+কেমন যেন তোমার সময় কাটছে?,L0_Ham,banglabarta
+শুভ পোহেলা বৈশাখ!,L0_Ham,banglabarta
+এই <LOCATION> কেটে যাবে।,L0_Ham,banglabarta
+"""মেঘের রঙের জন্য স্বাগতম! <NRP> আপনার ঘরবসতি সাজিয়ে নেই সহজ কিস্তিতে। অনলাইন অর্ডার দিন এবং সম্ভবত এই মাসের মধ্যে পাওয়ার সুযোগ নিন - <PHONE_NUMBER>""",L0_Ham,banglabarta
+"সবকিছু ঠিকঠাক হবে, চিন্তা কোরো না।",L0_Ham,banglabarta
+<DATE_TIME> নাম্বারে কল করুন।,L0_Ham,banglabarta
+শুভ হোলি!,L0_Ham,banglabarta
+তোমার কি বাস্তব ভালো লাগছে? আমি আমার বাসায় অল্প সময় দেওয়া ভালো লাগে।,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্টে ত্রুটি <PERSON>। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+বিকাশ আ্যপ থেকে নাও তোমার পছন্দের স্কিটো প্যাকস এখনই: <URL>,S2_FakePromo,banglabarta
+"প্রিয় আবেদনকারী, মঙ্গল <DATE_TIME> তারিখে সকাল 9 টায় @1ম তলায় কেন্দ্র শত্রু নেতৃত্বের সাথে একটি ইন্টার-ভিউয়ের জন্য আপনাকে বাছাই করা হয়েছে। অনুসন্ধানের জন্য অনুগ্রহ করে যোগাযোগ করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+নতুন মেনুতে ১০% ছাড়! আজই আমাদের রেস্তোরাঁয় <NRP>।,S2_FakePromo,banglabarta
+<PHONE_NUMBER> আমার এই নাম্বারে টাকা পাঠা,L0_Ham,banglabarta
+খালার বিল তা দিলে উপকার হইতো দিতে পারতেছিনা <LOCATION> সাহায্য করো খালার বিল তা দিয়া দেই,L0_Ham,banglabarta
+"৳১০০ ক্যাশব্যাক!৩০জিবি+৫০০মি. @৳৩৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+কেমন আছেন?,L0_Ham,banglabarta
+আপনি কী করছেন?,L0_Ham,banglabarta
+না বললে জানতামই না,L0_Ham,banglabarta
+"হাই, আমি এখানে।",L0_Ham,banglabarta
+"আমার ২০০ জন লোকের প্রয়োজন আছে, কোনো অডফি <LOCATION> হবে না, বিনামূল্যে বিনিয়োগ না করে কাজ করতে চাইলে আমাকে ইনবক্স করুন।<URL>",S6_PhishingLink,banglabarta
+"<URL>
+দিনে 200 থেকে 300 টাকা ইনকাম করতে চাইলে এই লিংকে ক্লিক করুন",S6_PhishingLink,banglabarta
+বাংলাদেশ ব্যাংক থেকে জরুরি বার্তা। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+ফ্ল্যাশ বিক্রয়! পরবর্তী 24 ঘন্টার জন্য Daraz-এ 70% পর্যন্ত ছাড় পান। আপনার ডিসকাউন্ট দাবি করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আপনি কি করছেন?,L0_Ham,banglabarta
+"তুমি অসাধারণ, <LOCATION> উপর বিশ্বাস রাখো।",L0_Ham,banglabarta
+“০৫ মে আন্তর্জাতিক মিডওয়াইফ দিবস। এবারের প্রতিপাদ্য-তথ্য থেকে বাস্তবেঃ সকল মিডওয়াইফ এক সাথে।”,S2_FakePromo,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টে লগইন সমস্যা হচ্ছে? এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"আমি ভালো আছি, আপনি কেমন আছেন?",L0_Ham,banglabarta
+"ক্যাসিনোতে বাজি ধরুন <DATE_TIME>,০০০ টাকা <NRP> জিতুন! শুরু করুন: <URL>",S6_PhishingLink,banglabarta
+"১০০৳ <PERSON> ৩১জিবি+৪৫০মি.@৩৯৯৳,৩০দিন, নিয়ে নাও: <URL>",S2_FakePromo,banglabarta
+আপনার ক্রেডিট কার্ডটি অবিলম্বে আপডেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+শুভ অসুস্থ্য দিনের শুভেচ্ছা!,L0_Ham,banglabarta
+"<PERSON> যা করতে পারো, তা অসাধারণ।",L0_Ham,banglabarta
+কি করবে আমার সাথে বলো। <DATE_TIME> তোমার সাথে হাঁটতে চাই।,L0_Ham,banglabarta
+"আপনার BDT 5,000 গিফট কার্ড Aarong থেকে দাবি করুন। <PERSON> <URL> ভিজিট করুন।",S6_PhishingLink,banglabarta
+ধোনির হাতে কি উঠবে ট্রফি? দেখুন আইপিএল ফাইনাল <URL>,S2_FakePromo,banglabarta
+তুমি কি জিমে যাচ্ছো?,L0_Ham,banglabarta
+আপনার ক্রেডিট কার্ডের বিল পেমেন্ট মিস হয়েছে। এখানে ক্লিক করে পেমেন্ট করুন: <URL>,S6_PhishingLink,banglabarta
+"৳৩৯৯ তে ৳৪৯৯ এর অফার! নাও ৩১জিবি+৪৫০মি., ৩০দিন: <URL>",S2_FakePromo,banglabarta
+"প্রো-লেভেল ইন্টারনেটিংয়ে পকেট সেভিং- ৩জিবি@৳৯৮,৭ দিন <URL>",S2_FakePromo,banglabarta
+"<PERSON>, তুমি পারবে।",L0_Ham,banglabarta
+"আমার একাউন্টে ৫০ হাজার টাকা আছে , এই ০১৭৩৮৮৩৮৮৪ নাম্বারে খোলা দেখো চ্যাক করে।",L0_Ham,banglabarta
+বিটকয়েন নিয়ে বিশেষ অফার! <PERSON>,S2_FakePromo,banglabarta
+কোথায় যাচ্ছো?,L0_Ham,banglabarta
+আজ কি সিনেমা দেখবে?,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক থেকে জরুরি বার্তা। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+আপনি কেমন আছেন?,L0_Ham,banglabarta
+শাকিবের সই করা গ্লাভস জিততে আইপিএলে বাজি ধরুন। <PERSON> করুন: <URL>,S6_PhishingLink,banglabarta
+"২,<DATE_TIME>,<DATE_TIME> বিনিয়োগে ৪,<DATE_TIME>,০০০ টাকা অর্জন করুন! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"“স্বাস্থ্য, পুষ্টি ও সমৃদ্ধি চাই, নিরাপদ খাদ্যের বিকল্প নাই”। ০২ ফেব্রুয়ারি <DATE_TIME> খাদ্য দিবস ২০২৪ সফল <LOCATION>। বাংলাদেশ নিরাপদ খাদ্য কর্তৃপক্ষ, খাদ্য মন্ত্রণালয়।",S2_FakePromo,banglabarta
+তোমার দিন কেমন কাটছে?,L0_Ham,banglabarta
+"ডাবলসেঞ্চুরি ক্যাশব্যাক ৳২০০!৬১জিবি+১০০০মি@৳৬৯৯,৩০দিন <URL>",S2_FakePromo,banglabarta
+"হাই প্রিয়, আপনি বাড়ি থেকে কাজ করে প্রতিদিন ২০০০ টাকা উপার্জন করতে পারেন। এই <LOCATION>, ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+আপনার অ্যাকাউন্ট সুরক্ষার জন্য এখানে লগইন করুন: [<URL>,S6_PhishingLink,banglabarta
+শুভ রমজানের <NRP> মাস!,L0_Ham,banglabarta
+নতুন মোবাইল কিনুন এবং ১০০০ টাকা <NRP> পান! আজই ট্রেড ইন করুন।,S2_FakePromo,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্টে ৫০০০ টাকা জমা হয়েছে। নিশ্চিত করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"ফ্রি ইনকাম করতে চাইলে নিচের লিংকে ক্লিক করুন ।প্রতিদিন 1000-1500 টাকা ইনকাম । প্রতি <DATE_TIME> ।
+<URL>",S6_PhishingLink,banglabarta
+জরুরি ভিত্তিতে <DATE_TIME> নাম্বারে টাকা পাঠান।,L0_Ham,banglabarta
+তোমার কাজ কেমন চলছে?,L0_Ham,banglabarta
+"আপনার প্যাকেজের ডেলিভারি আজ হবে, <DATE_TIME> এই নাম্বারে কল করুন আরও তথ্যের জন্য।",L0_Ham,banglabarta
+কেমন আছো আপনি?,L0_Ham,banglabarta
+কেমন আছো?,L0_Ham,banglabarta
+"নির্বাচনি আচরণবিধি মেনে চলুন, 
+সুষ্ঠু ও অবাধ নির্বাচনে সহায়তা করুন
+- বাংলাদেশ নির্বাচন কমিশন",S2_FakePromo,banglabarta
+আপনার পাসওয়ার্ডটি অবিলম্বে রিসেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+অফারের ছড়াছড়ি! <PERSON> ২০% ছাড়ে আপনার পছন্দের পোশাক। শুধু আজকের জন্য!,S2_FakePromo,banglabarta
+আপনি কি চিন্তা করছেন?,L0_Ham,banglabarta
+"<PHONE_NUMBER> এই <LOCATION> বিকাশ করুন, দ্রুত।",L0_Ham,banglabarta
+স্পেশাল ডিসকাউন্ট: সব ল্যাপটপে ৫% ছাড়। সীমিত স্টক।,S2_FakePromo,banglabarta
+৮.২০০ বিনামূল্যে বোনাস! ৮.৫০০০ জেতার সুযোগ। <URL>,S6_PhishingLink,banglabarta
+তুমি <DATE_TIME>?,L0_Ham,banglabarta
+বোনাস সহ ৮জিবি-১২০টাকা-৩০দিন। নিতে ডায়াল *১২১*৫০৭২# বা <LOCATION>,S2_FakePromo,banglabarta
+কি খবর তোমার?,L0_Ham,banglabarta
+কঠোর পরিশ্রমই সাফল্যের পথ।,L0_Ham,banglabarta
+"২,০০০ টাকা বিনিয়োগ করুন এবং ৫ মিনিটে ৪,০০০ টাকা পান! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+<PHONE_NUMBER> এই নাম্বারে রকেটে ২০০ টাকা পাঠান।,L0_Ham,banglabarta
+"৪০৳ ক্যাশব্যাক! ৪৬জিবি@৪৫৮৳, ৩০দিন, <PERSON> নাও এখনই: <URL>",S2_FakePromo,banglabarta
+শুভ অক্টোবর!,L0_Ham,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্ট আপডেট করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আপনার ছেলে সমস্যায় আছে জলদি টাকা পাঠান এই নাম্বারে,L0_Ham,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্টে ত্রুটি দেখা দিয়েছে। জরুরি ভিত্তিতে বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+<DATE_TIME> এই বছরে অনেক বই পড়তে চাই।,L0_Ham,banglabarta
+আমি একটি বিশেষ লোক হিসাবে পরিচিত করে এটি একটি মহান এবং ব্যাপারটির মধ্যে একটি সাথে একটি সমাধান দেওয়া হয়।,L0_Ham,banglabarta
+প্রতিদিন ২০০-৩০০ টাকা ইনকাম করার সহজ উপায়! ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"৳২৫ ক্যাশব্যাকে এবার আরো বেশি ডাটা ৫০জিবি@৳৪৭৩,৩০দিন <URL>",S2_FakePromo,banglabarta
+"ক্যাশব্যাকে সেঞ্চুরি ৳১০০! ৩০জিবি+৫০০মি. @৳৩৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+আপনার মোবাইল নম্বর যাচাই করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+টাকাটা বিকাশে বা রকেটে দিবেন নাম্বার <PHONE_NUMBER>,L0_Ham,banglabarta
+কি করবে তুমি?,L0_Ham,banglabarta
+মেন্সওয়ার্ল্ড বসুন্ধরাসিটি নতুন শাখার উদ্বোধনে ফ্লাট৩০%ছাড়!<URL>,S2_FakePromo,banglabarta
+শাকিবের সাথে লাঞ্চ করার সুযোগ পেতে ক্রিকেটে বাজি ধরুন! শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+"সব কিছু ঠিক হয়ে যাবে, সাহস রেখো।",L0_Ham,banglabarta
+"৪৫৳ <NRP>! ৪৬জিবি @ ৪৫৩৳, ৩০দিন, <PERSON> নাও এখনই: <URL>",S2_FakePromo,banglabarta
+একটি <PERSON> বাইক জেতার সুযোগ! আমাদের জরিপে অংশগ্রহণ করুন <URL>-এ।,S6_PhishingLink,banglabarta
+🤑প্রতিদিন ৪০০-৫০০ টাকা <LOCATION>। ইনকাম‌ করুন মাত্র পাঁচ মিনিটের মধ্যে।    লিংকের মধ্যে রয়েছে বিস্তারিত 🤗 🗣️ টেলিগ্রাম থাকতে হবে 💁🏼<URL>,S6_PhishingLink,banglabarta
+"কষ্ট পেয়ো না, <DATE_TIME> আছি তোমার পাশে।",L0_Ham,banglabarta
+শাকিব আল হাসানের সাথে ফ্রি ম্যাচ টিকিট জিততে আজই আইপিএলে বাজি ধরুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+<PHONE_NUMBER> নাম্বারে রকেটে টাকা পাঠান।,L0_Ham,banglabarta
+আপনার ফেভারিট ব্র্যান্ডের উপর ৩০% পর্যন্ত ছাড়! অফার সীমিত সময়ের জন্য।,S2_FakePromo,banglabarta
+"অনূর্ধ্ব ১৮ বছর বয়সী বাংলাদেশী শিশু-কিশোর এবং <PERSON> প্রতিষ্ঠানসমূহ হতে ‘শেখ রাসেল পদক’ এর আবেদনপত্র অনলাইনে আহবান করা যাচ্ছে। আবেদনের শেষ সময় ২০ মে, ২০২৩। বিস্তারিতঃ <URL>",S2_FakePromo,banglabarta
+"যেটা থেকে প্রতি কাজ করার পর আপনি ১২০০ টাকা পাবেন,,, এই জবটা করার জন্য আপনার একটা টাকা ইনভেস্ট করতে হবে না ফ্রি তে এই জব করতে পারবেন।",S2_FakePromo,banglabarta
+"বেকার <LOCATION>, যুবতী, গৃহিণী, রিটায়ার্ড ব্যক্তিদের জন্য ঘরে বসে অনলাইনে স্বল্প সময়ে প্রচুর টাকা উপার্জন করার
+সুবর্ণ সুযোগ",S4_LoanJob,banglabarta
+1 মিনিটে 1 লাখ টাকা পুরস্কার. ঘরে বসে অনলাইনে কুইজ খেলে 1 লাখ টাকা পুরস্কার জিতুন. শুধু মাত্র 3 টি প্রশ্নের সঠিক উত্তর দিয়ে জিতে <DATE_TIME>. প্রশ্ন এমন বদলে দেবে জীবন. শুধু দেখলে হবে না খেলতে হবে. কুইজ না খেললে পুরস্কার জিতবে কীভাবে ? visit: <PERSON>,S3_LotteryPrize,banglabarta
+আজকে কি রান্না করবে?,L0_Ham,banglabarta
+<DATE_TIME> এই <LOCATION> জরুরি টাকা পাঠান।,L0_Ham,banglabarta
+💖 আপনি কি ফ্রি কাজ শিখতে চান। কাজের পাশাপাশি কি ইনকাম করতে চান?প্রতি দিন ৪০০থেকে৫০০ টাকা ইনকাম করতে পারবেন? তাহলে আর <PERSON> কেনো? <DATE_TIME> : <PHONE_NUMBER>,S2_FakePromo,banglabarta
+"আপনার <PERSON>, দ্রুত পরিশোধ করুন।",L0_Ham,banglabarta
+আশা করি তোমার দিনটি ভালো কাটুক!,L0_Ham,banglabarta
+"লি কুপার লন্ডনের
+উইন্টার কালেকশন
+মোকাসিন সু, পোলো শার্ট, জিন্স
+জলদি",S2_FakePromo,banglabarta
+ঈদ মোবারক!,L0_Ham,banglabarta
+"নগদ অ্যাকাউন্টে ৫,০০০ টাকা জমা হয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+"<PERSON> এশিয়ান হাইওয়ে সংলগ্ন <NRP> শহর ""নাভানা হাইল্যন্ডে"" এ বিনিয়োগ <PERSON> ও লাল মাটি।রয়েছে কিস্তির সুবিধা – <DATE_TIME>",S2_FakePromo,banglabarta
+ঘরে বসে মোবাইল থেকে টাকা ইনকাম করুন! একটি ক্লিকে বিস্তারিত জানুন: <URL>,S6_PhishingLink,banglabarta
+তোমার প্রিয় বই কোনটি? সাইকেলোপেডিয়া। <PERSON>?,L0_Ham,banglabarta
+বাংলাদেশ বিমান বাহিনীতে ৮৯ বাফা কোর্সে অফিসার ক্যাডেট নিয়োগ চলছে। বিস্তারিতঃ <URL>,S2_FakePromo,banglabarta
+কী খাবে? মাছের কারি। তুমি কি পছন্দ করো?,L0_Ham,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টের পাসওয়ার্ড পরিবর্তন করুন। অনুগ্রহ করে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+তুমি কি আমার কাছে আসতে চাও?,L0_Ham,banglabarta
+নেটওয়ার্ক মার্কেটিং করে প্রতিদিন ৫০০ থেকে ৫০০০ টাকা 💸 ইনকাম করতে চান? কিভাবে মার্কেটিং করবেন আমি শিখিয়ে দিব ফ্রিতে কোন টাকা লাগবে না আগে কাজ দেখবেন প্রমাণ <PERSON> ভালো লাগলে কাজ করবেন কেউ কাজ করতে চাইলে ইনবক্স করুন ❤️‍🩹,S2_FakePromo,banglabarta
+কেমন কাটছে দিনটা?,L0_Ham,banglabarta
+"১০০'মাদানীএভিনিউ আর্মি হাউজিং(জলসিড়ি)সংলগ্ন প্লট কাঠা৫লক্ষ
+<DATE_TIME>",S2_FakePromo,banglabarta
+"জনতা ব্যাংক থেকে ৫,০০০ টাকা পুরস্কার জিতেছেন! বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+আজ কি করলে সময় গজবে?,L0_Ham,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টের নিরাপত্তার জন্য লগইন করুন: [<URL>,S6_PhishingLink,banglabarta
+শুধু আজকের অফার! ৪০জিবি (বোনাসসহ) ৫০০টাকা <PERSON> *১২১*৫০৪৯# বা <PERSON>,S2_FakePromo,banglabarta
+"নগদ অ্যাকাউন্টে ১০,০০০ টাকা জমা হয়েছে। বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+শুভ পয়লা বৈশাখের প্রীতি ও শুভেচ্ছা!,L0_Ham,banglabarta
+আমি একটি বার্তা পাচ্ছি এই যা কোন আপনি হল এই যা পেলাম এই যা সমাধান দেয় এই যা অন্য একটি সমাধান দেয়।,L0_Ham,banglabarta
+"➡️আপনি কি অনলাইনে কাজ করতে চান??..আমাদের প্রজেক্টের নাম হলো:<PERSON>. io
+<PERSON> মাধ্যমে ফ্রিতে ১/২টা ক্লাস করিয়ে সম্পুর্ন কাজ শিখিয়ে দিব<DATE_TIME><DATE_TIME> 🔜আমাদের সাইড এ রয়েছে' প্রতিদিন ইংকাম এবং প্রতিমাসে বেতন এর সু-ব্যাবস্থা<NRP>️<NRP>️
+সব কিছু জেনে বুঝে প্রমান নিয়ে কাজ করবেন ১০০% রিয়েল কাজ✅",S2_FakePromo,banglabarta
+আপনার সিম কার্ড পুনরায় সক্রিয় করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+ফুটবলে বাজি ধরুন এবং একটি বিলাসবহুল গাড়ি জিতুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+তুমি কি গাড়ি চালাচ্ছো?,L0_Ham,banglabarta
+আপনার ক্রেডিট কার্ডের <PERSON> করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"৳৪১৯ এ ৳৪৯৯ এর অফার! নাও ৩৫জিবি+৫০০মি.,৩০দিন: <URL>",S2_FakePromo,banglabarta
+ইলেকট্রনিক্স পণ্য কিনলেই ফ্রি শিপিং! অফার শেষ হওয়ার আগে কেনাকাটা করুন।,S2_FakePromo,banglabarta
+"ডাটা মিক্সারে করো পকেট সেভিং, নাও ৬০জিবি@৳৫৬৯, ৩০দিন: <URL>",S2_FakePromo,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টের তথ্য যাচাই করতে হবে। অনুগ্রহ করে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"Call duration 00:00:44, charged 0.92 Taka, remaining balance is   0.41  Taka",S2_FakePromo,banglabarta
+আপনি একটি লাকি ড্রয়ে জিতেছেন! আপনার পুরস্কার সংগ্রহ করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+মেজবান পাখি পক্ষে প্রিয় প্রেমের একটি দৃশ্য বিশ্বাস করা হয়।,L0_Ham,banglabarta
+আশা করি তোমার জীবন সমৃদ্ধ <LOCATION>!,L0_Ham,banglabarta
+bKash অ্যাকাউন্ট পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+অতি দ্রুত বিদ্যুৎ বিল আর খালার বিল দিলে খুবই উপকৃত হইতাম।খালা বারবার বলতেছে।একটু তোরা গুরুত্বের সাথে দেখ।খুব উপকার হয়।,L0_Ham,banglabarta
+"শেখ হাসিনা সরকারের সাফল্য: 
+২০০৬ সালে সরকারি ওয়েবসাইট ছিল মাত্র ৯৮টি। ২০২৩ সালে তা বেড়ে দাঁড়িয়েছে ৫২ হাজার ২০০টি।",S2_FakePromo,banglabarta
+আমি আমার জীবনের প্রধান আমাদের সঙ্গে সময় কাটাতে চাই।,L0_Ham,banglabarta
+তোমার প্রতিভা অসাধারণ।,L0_Ham,banglabarta
+"Dear Customer,
+
+২৩-০২-২০২০ তারিখে কার্ড XX দিয়ে Rs.8990 লেনদেন হয়েছে K Enterprice ds POS/ECOM থেকে। লেনদেন নম্বর পাওয়া যায়নি। যদি এটি আপনার দ্বারা না হয়ে থাকে, তবে <PERSON> মোবাইল নম্বর থেকে <PHONE_NUMBER> এ এসএমএস প্রেরণ করুন।",L0_Ham,banglabarta
+শুভ সন্ধ্যা!,L0_Ham,banglabarta
+"“মুগদা, সবুজবাগ, <PERSON>, <PERSON>, রামপুরা, মতিঝিল, পল্টন, <LOCATION>, <LOCATION> থানার ই-পাসপোর্ট সেবা আগামী ০৭ মে <DATE_TIME> <LOCATION> থেকে আঞ্চলিক পাসপোর্ট অফিস, ঢাকা পূর্ব (আফতাবনগর) হতে দেওয়া হবে""।",S2_FakePromo,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্ট আপডেট করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"তুমি অনেক শক্তিশালী, সাহস রেখো।",L0_Ham,banglabarta
+"সময় নাই, <DATE_TIME> এই নাম্বারে বিকাশ করুন।",L0_Ham,banglabarta
+শাকিবের সাথে ফ্রি ম্যাচ টিকিট জিততে ক্রিকেটে বাজি ধরুন! শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+"২০০৳ <NRP> শুধু আজকের জন্য- ৬১জিবি+১০০০মি@৳৬৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"আজই বেটিং শুরু করুন এবং <DATE_TIME>,০০০ টাকা <NRP> জিতুন। যোগ দিন: <URL>",S6_PhishingLink,banglabarta
+"আজ বিশেষ দিন, আমি <PERSON> বসে আছি।",L0_Ham,banglabarta
+নতুন সিম নিন এবং বিনামূল্যে ৫০GB ইন্টারনেট পান! ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+অনলাইনে সার্চ দিন  প্রিয় কেসিনো <PERSON> নিন হাজার হাজার বোনাস মাত্র কয়েক ঘন্টায়।,S2_FakePromo,banglabarta
+তুমি কি শপিংয়ে গেছো?,L0_Ham,banglabarta
+বাড়ির পাশে একটি মেজবান রাখা হয়।,L0_Ham,banglabarta
+"সিস্টেমের উন্নয়নের জন্য ৮মে রাত ১১:৫৯ থেকে ৯মে সকাল ৬টা পর্যন্ত নগদ,<LOCATION>,এসএসএল কমার্স সহ কিছু ডিজিটাল চ্যানেল দিয়ে মোবাইল রিচার্জ বন্ধ থাকবে। তবে এই সময় মাইজিপি অ্যাপ থেকে রিচার্জ করা যাবে।",S2_FakePromo,banglabarta
+আমাকে কল দিন <PHONE_NUMBER> এই নাম্বারে,L0_Ham,banglabarta
+"আপনার হাতে যদি ডেইলি 3-4 ঘন্টা সময় ফ্রি থাকে তাহলে যানাবেন। আশা করি খুব ভালো একটা কাজের সন্ধান <LOCATION> পারবো। 
+ ইনবক্স করেন",S2_FakePromo,banglabarta
+"এখনই খেলুন এবং জিতে <DATE_TIME> ১০টি Xiaomi স্মার্টফোন! দ্রুত করুন, ক্লিক: <PERSON>",L0_Ham,banglabarta
+শুভ নববর্ষের অভিনন্দন!,L0_Ham,banglabarta
+"কষ্ট পেয়ো না, সব ঠিক হয়ে যাবে।",L0_Ham,banglabarta
+"🌿 আপনার রেফার লিং👇👇
+<URL>
+🌷 প্রতি রেফারে পাবেন ৭৫ টাকা Daily Earn Money মানেই আগুন।
+🫠 আমাদের Bot থেকে সারা বছর কাজ করতে পারবেন।",S6_PhishingLink,banglabarta
+"আপনার বিকাশ অ্যাকাউন্টে BDT 10,000 পর্যন্ত তাৎক্ষণিক ঋণ পান। কোন নথি প্রয়োজন নেই। শুধুমাত্র 018xxxxxxxx এ কল করুন এবং আপনার বিকাশ পিন প্রদান করুন।",S1_AccountCompromise,banglabarta
+বাংলাদেশ ব্যাংক থেকে আপনার জন্য জরুরি বার্তা। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"প্রিয় গ্রাহক, আপনার bKash অ্যাকাউন্টে ১০,০০০ টাকা জমা হয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+bKash অ্যাকাউন্ট পুনরায় চালু করতে কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+মাশরাফির সাথে একান্ত সাক্ষাতের সুযোগ পেতে বিপিএলে বাজি ধরুন। <PERSON> দিন: <URL>,S6_PhishingLink,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে কল করুন: <PHONE_NUMBER>,S1_AccountCompromise,banglabarta
+তুমি সবসময় সেরা।,L0_Ham,banglabarta
+"হ্যাঁ, আমাদের সময় লাগছিল",L0_Ham,banglabarta
+"৫০৳ ক্যাশব্যাকে নাও ডাটা মিক্সার ৪০জিবি@৳২৪৮, ৭দিন: 
+ <URL>",S2_FakePromo,banglabarta
+আমি আমার পারের জন্য না।,L0_Ham,banglabarta
+তুমি কি সিনেমা দেখছো?,L0_Ham,banglabarta
+তুমি কি সিনেমা হলে যাচ্ছো?,L0_Ham,banglabarta
+তুমি কি রেস্টুরেন্টে যাচ্ছো?,L0_Ham,banglabarta
+জনতা ব্যাংক অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আজ কি করব?,L0_Ham,banglabarta
+"আজই ফুটবলে বাজি ধরুন এবং ৫,০০০ টাকা জিতুন! এখনই ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+যে বিষয়ে মনে খটকা লাগে সে বিষয়টা যতোটা সম্ভব এড়িয়ে চলুন। – [ড. বিলাল ফিলিপ্স],L0_Ham,banglabarta
+<PERSON>!,L0_Ham,banglabarta
+"ফ্রিতে মাইনিং করে ইনকাম
+<URL>",S6_PhishingLink,banglabarta
+"শেখ হাসিনা সরকারের সাফল্য:
+২০০৮ সালে এক এমবিপিএস ইন্টারনেট ব্যান্ডউদথের মূল্য ছিল ২৭ হাজার টাকা বর্তমানে একদেশ একরেটের আওতায় তা ৬০ টাকায় নির্ধারিত হয়েছে।",S2_FakePromo,banglabarta
+আইএসএলে বাজি ধরুন এবং একটি <PERSON>। এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আপনাকে চাকরির জন্য নির্বাচন করা হয়েছে। প্রতিদিন <DATE_TIME> করে বেতন <PERSON>। আরও জানতে ক্লিক করুন <URL>,S6_PhishingLink,banglabarta
+বাংলাদেশ ব্যাংক থেকে গুরুত্বপূর্ণ বার্তা। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+মাশরাফির সাথে ডিনার করার সুযোগ পেতে বিপিএলে বাজি ধরুন। শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+ক্যাসিনোতে বাজি ধরুন এবং একটি ফ্রি আইফোন জিতুন! শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+"(কষ্ট নেবে কষ্ট হরেক রকম কষ্ট আছে কষ্ট নেবে কষ্ট ! লাল কষ্ট নীল কষ্ট কাঁচা হলুদ রঙের কষ্ট পাথর চাপা সবুজ ঘাসের <PERSON>, <NRP> ‘মালটি-কালার’ কষ্ট আছে কষ্ট নেবে কষ্ট। -হেলাল হাফিজ",L0_Ham,banglabarta
+ঘরে বসে ইনকাম করতে হলে আপনার হাতে থাকা ব্যবহৃত সিমটিকে ফ্লেক্সিলোড সিম বানিয়ে নিন আর অনলাইনে অফলাইনে দুভাবে অফার সেল করে প্রতিদিন ৫০০ থেকে ৭০০ টাকা ইনকাম করুন অনায়াসে যদি আপনার ব্যবহৃত সিম থেকে ফেক্সিলোড সিম বানাতে চান তাহলে ইনবক্স করুন ধন্যবাদ,S2_FakePromo,banglabarta
+"অভিনন্দন! আপনি এয়ারটেল লটারিতে 5,00,000 BDT জিতেছেন। আপনার <PERSON>, আপনার ব্যক্তিগত বিবরণ পাঠান 017XXXXXXXXXX এ।",S3_LotteryPrize,banglabarta
+মাশরাফির সাথে ফ্রি হোটেল বুকিং জিততে বিপিএলে বাজি ধরুন। <PERSON> দিন: <URL>,S6_PhishingLink,banglabarta
+"প্রিয় গ্রাহক, আপনার বিদ্যুৎ বিল বাকি রয়েছে <PERSON>, জলদি পরিশোধ করুন।",L0_Ham,banglabarta
+আপনার ফেসবুক অ্যাকাউন্টটি অবিলম্বে আপডেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"লোটো লি কুপারে
+নগদ পেমেন্টে BMW জেতার সুযোগ
+বিকাশে ১০% <NRP>
+শপ্র",S2_FakePromo,banglabarta
+তোমার ভাইবোন কেমন আছে?,L0_Ham,banglabarta
+কাল রাতে কি করেছো?,L0_Ham,banglabarta
+"১৮০৳ ক্যাশব্যাক শেষ দিন,নাও ৬১জিবি+১০০০মি@৳৭১৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"<URL>
+দিনে ২০০-৩০০ টাকা ইনকাম করা খুবই সহজ",S6_PhishingLink,banglabarta
+"মহান বিজয় দিবসে সবাইকে জানাই শুভেচ্ছা।  
+দিলীপ কুমার আগরওয়ালা",S2_FakePromo,banglabarta
+দিনে ৫০০ থেকে ৬০০ টাকা ইনকাম করতে চাইলে এই লিঙ্কে ঢুকে থাকুন <URL>,S6_PhishingLink,banglabarta
+ভালোবাসা দিবসে ডায়মন্ড গহনায় ২৫% ছাড় ১৫/০২/২০২৪ পর্যন্ত। <PHONE_NUMBER>,S2_FakePromo,banglabarta
+"অভিনন্দন! আপনি 50,000 টাকা নগদ পুরস্কার জিতেছেন। আপনার <PERSON> নম্বরে কল করুন।",S3_LotteryPrize,banglabarta
+আইপিএল ফাইনালে বাজি ধরুন এবং ১ কোটি টাকা জিতুন। <PERSON> <URL>,S6_PhishingLink,banglabarta
+আপনার লেনদেন সুরক্ষার জন্য অবিলম্বে লগইন করুন: [<URL>,S6_PhishingLink,banglabarta
+বিপিএলে বাজি ধরুন এবং ৭ দিনের জন্য একটি ফ্রি ছুটি জিতুন। শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+<PERSON> পেতে কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+আমি তোমাকে একটি গল্প শুনাতে চাই।,L0_Ham,banglabarta
+"৳২৫ ক্যাশব্যাকে এবার আরো বেশি ডাটা ৫০জিবি@ ৳৪৭৩, ৩০দিন <URL>",S2_FakePromo,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্টে ত্রুটি দেখা দিয়েছে। জরুরি ভিত্তিতে কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"অভিনন্দন!! দারাজ থেকে BDT 5,000 গিফট ভাউচার পান। দাবির জন্য লিঙ্কে ক্লিক করুন: <URL>।",S6_PhishingLink,banglabarta
+"নগদ থেকে ১,০০০ টাকা পুরস্কার জিতেছেন! বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+আমি এখানে।,L0_Ham,banglabarta
+"বাড়ির ডেকোর আইটেমে ২০% ছাড়। স্টক সীমিত, <PERSON> না।",S2_FakePromo,banglabarta
+এই যা কোন অন্য জন্য এটির জন্য না কেন সেটি বিশেষ হলো তাই আমি এটি বলতে চাই।,L0_Ham,banglabarta
+"Call duration <PERSON>, charged 3.6 Taka, remaining balance is   10.94  <PERSON>",S2_FakePromo,banglabarta
+"<PERSON>,০০০ টাকা জিতেছেন! বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+"তারা আমাদের ভাই-বোনদের মৃত্যুর ভয় <LOCATION> রাখতে চায়, অথচ আমাদের পেছনে রয়েছে বদর, খন্দক, তাবুকের মতো শত শত <PERSON>। - [কবি আল মাহমুদ]",L0_Ham,banglabarta
+"সব ঠিক হয়ে যাবে, সাহস রেখো।",L0_Ham,banglabarta
+অনলাইন শপিংয়ে ২৫% <NRP>! কোড: SHOP25. <PERSON> না করে এখনই শপিং করুন।,S2_FakePromo,banglabarta
+"<PERSON> বসে অনলাইনে কেউ ইনকাম করতে চাইলে আমাকে <DATE_TIME>।
+প্রতিদিন ২০০ থেকে ৫০০ টাকা।",S4_LoanJob,banglabarta
+শুভ রাত্রি!,L0_Ham,banglabarta
+"তোমার জন্য স্পেশাল <PERSON>,৩০দিনঃ <URL>",S2_FakePromo,banglabarta
+bKash অ্যাকাউন্টে ত্রুটি <PERSON>। দ্রুত সমাধানের জন্য কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+সমুদ্রে ভ্রমণ করতে ভালো লাগে।,L0_Ham,banglabarta
+<DATE_TIME> নাম্বারে দ্রুত বিকাশ করুন।,L0_Ham,banglabarta
+শুভ বিবাহ বার্ষিকী!,L0_Ham,banglabarta
+আমি ভুল মনে হয় <PERSON> এটি সমাধান করতে চাই।,L0_Ham,banglabarta
+মাশরাফির সাথে একান্ত সাক্ষাতের সুযোগ পেতে বিপিএলে বাজি ধরুন। <PERSON>,L0_Ham,banglabarta
+"তুমি <LOCATION> উপর বিশ্বাস রাখো, সব কিছু সম্ভব।",L0_Ham,banglabarta
+আজকে কি পড়ছো?,L0_Ham,banglabarta
+"প্রিয় গ্রাহক, আজ রাত ১১.৩০ টায় বিদ্যুৎ অফিস থেকে আপনার বিদ্যুৎ সংযোগ বিচ্ছিন্ন করা হবে কারণ আপনার আগের মাসের বিল পরিশোধ করা হয়নি। অনুগ্রহ করে অবিলম্বে আমাদের বিদ্যুৎ কর্মকর্তার সাথে <PHONE_NUMBER> নম্বরে যোগাযোগ <PERSON>।",S5_Impersonation,banglabarta
+আসসালামু আলাইকুম।,L0_Ham,banglabarta
+তোমার বাসা কতটুকু দূরে?,L0_Ham,banglabarta
+"আপনার বিদ্যুৎ বিল বাকি আছে ৭২০০/- টাকা, জরুরি।",L0_Ham,banglabarta
+"আপনি যদি ইসলামকে চর্চা না করেন, দয়াকরে ইসলাম সম্পর্কে কিছু বলতে আসবেন না! -[ডা: জাকির নায়িক]",L0_Ham,banglabarta
+"ক্যাশব্যাকে সেঞ্চুরি <LOCATION>! ৪৬জিবি @ ৳৩৯৮,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"নগদ অ্যাকাউন্টে ১,০০০ টাকা জমা হয়েছে। বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"<DATE_TIME> ঠিক আছি, আপনি কেমন আছেন?",L0_Ham,banglabarta
+<URL> একটা রেফার করলে 200 টাকা 25 টা রেফার <PERSON> তুলতে পারবেন তো আর দেরি না করে এখনি টেলিগ্রাম  এ গিয়ে start কইরা দেন সবাই😊<LOCATION>,S6_PhishingLink,banglabarta
+শাকিবের সাথে একদিন কাটানোর সুযোগ পেতে আজই আইপিএলে বাজি ধরুন। শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+তুমি কি খেলাধুলা করছো?,L0_Ham,banglabarta
+আমি একটি বাংলা ছোট গল্প পড়তে চাই।,L0_Ham,banglabarta
+"১৮০৳ ক্যাশব্যাকে সেরা অফার ৬১জিবি+১০০০মি@ ৳৭১৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"আজই আইপিএলে বাজি ধরুন <DATE_TIME>,০০০ টাকা <NRP> জিতুন। শুরু করুন: <URL>",S6_PhishingLink,banglabarta
+আপনি একটি <PERSON> নোটিফিকেশন পেয়েছেন। এটি দেখতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"প্রিয় ব্যবহারকারী, আপনি কি বাস ভাড়া নিয়ে চিন্তিত, এই ঈদে সস্তায় বাসের টিকেট পেতে এখনই নিচের লিঙ্কে ক্লিক করুন।",L0_Ham,banglabarta
+"যাদের টেলিগ্রাম আছে তাঁরা আজ থেকে অনেক টাকা ইনকাম করতে পারবেন।<URL>
+দিনে ১ ঘন্টা সময় ব্যয় করে 500💵 থেকে 1000💵 টাকা ইনকাম করুন। কোন এড ছাড়াই। আপনি কল্পনা করতে পারবেন না যে বিশাল বড় সুযোগ চাচ্ছে আপনার সামনে থেকে💸😱।তাই এই সুযোগ মিস করতে না <DATE_TIME> উপরের টেলিগ্রাম লিংকে ক্লিক করুন এখুনি",S6_PhishingLink,banglabarta
+"বেশি বেশি আড্ডা+ইন্টারনেটিং,নাও ৫জিবি+১৫০মি@৳১৫৯,৭দিন <URL>",S2_FakePromo,banglabarta
+নতুন ক্লায়েন্টদের জন্য স্পেশাল অফার! <PERSON>।,S2_FakePromo,banglabarta
+একটি ক্লিকে বিস্তারিত জানুন কীভাবে ইনকাম করতে হয়! ঘরে বসে মোবাইল থেকে টাকা ইনকাম করুন: <URL>,S6_PhishingLink,banglabarta
+কাল কি করছো?,L0_Ham,banglabarta
+"আসক্তের মতো ভালবাসবেন না, <NRP> কাউকে ঘৃণা করবেন না। - [উমার ইবনুল খাত্তাব ( রাঃ)]",L0_Ham,banglabarta
+মাশরাফির সাথে ফ্রি হোটেল বুকিং জিততে বিপিএলে বাজি ধরুন। এখনই যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+তুমি <PERSON>?,L0_Ham,banglabarta
+তুমি কি বইয়ের দোকানে যাচ্ছো?,L0_Ham,banglabarta
+<DATE_TIME> <LOCATION> বিকাশ করুন।,L0_Ham,banglabarta
+ভালো সময় আবার আসবে।,L0_Ham,banglabarta
+ক্যাসিনোতে বাজি ধরুন এবং ৭ দিনের জন্য একটি ফ্রি ট্রিপ জিতুন! <PERSON> <URL>,S6_PhishingLink,banglabarta
+এখনই IPL এ Fantasy টিম বানিয়ে জিতে নিন iPhone 14 ক্লিক: <URL> ; ট্যাক্সসহ চার্জ ৫.০৫ টাকা/দিন ; অটো রিনিউ প্রযোজ্য।,S6_PhishingLink,banglabarta
+সুবর্ণ সন্ধ্যা!,L0_Ham,banglabarta
+"ঈদ কেনাকাটা হোক ডায়মন্ড ওয়ার্ল্ডের সাথে, উপভোগ করুন ডায়মন্ড গহনায় ২৫%ছাড় ও গোল্ডের আকর্ষণীয় কালেকশন। ভিজিট:<URL> <DATE_TIME>",S2_FakePromo,banglabarta
+১ ডিলেই সপ্তাহের সব <PERSON> নাও ১০জিবি@৳১৫৮: <URL>,S2_FakePromo,banglabarta
+রাতে কি খাবে?,L0_Ham,banglabarta
+আমি যেন খুব দুঃখিত হইছি।,L0_Ham,banglabarta
+"সেপ্টেম্বর-২৩
+রিচার্জ:50৳
+খরচ:
+ডেটা:168৳
+ভয়েস:119৳
+অন্যান্য:0৳",S2_FakePromo,banglabarta
+তোমার প্রিয় রঙ কি?,L0_Ham,banglabarta
+<#> আপনার মাইজিপি পিন (code) হচ্ছে: 7433. ভেরিফাই করতে এই পিনটি ব্যবহার করুন. অপব্যবহার ঠেকাতে এই পিনটি ফরওয়ার্ড অথবা কারো সাথে শেয়ার করবেন না FyXTPoy9ZDa,S2_FakePromo,banglabarta
+আজ খুব ঠাণ্ডা হচ্ছে।,L0_Ham,banglabarta
+আপনার একাউন্ট হ্যাক হতে পারে। দ্রুত ৩০০০ টাকা পাঠান এই নাম্বারে: ০১৭৮৯৬৫৪৩২।,L0_Ham,banglabarta
+আপনি ১ ভরি সোনা জিতেছেন! <PERSON> কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+আপনার নাম্বারটি একটি বিশেষ অফারে নির্বাচিত হয়েছে! <PERSON> পেতে কল করুন <PHONE_NUMBER>,S2_FakePromo,banglabarta
+"কাজ করতে চাইলে ইনবক্স
+১০০ টাকা নিচে কোন প্রোডাক্ট সেল দিলে ২৫ টাকা কমিশন পাবেন ১০০ থেকে ১০০০ টাকার মধ্যে কোন প্রোডাক্ট সেল দিলে ৫০ টাকা আর ১০০০ টাকা  থেকে দুই হাজার টাকার মধ্যে দিল  ১০০ টাকা কমিশন পাবেন",L0_Ham,banglabarta
+<PHONE_NUMBER> এই নাম্বারে রকেটে ৫০০ টাকা দাও।,L0_Ham,banglabarta
+"আড্ডা+ইন্টারনেটিংয়ে <PERSON>,৩০দিন:<URL>",S2_FakePromo,banglabarta
+"""শুভেচ্ছা, আপনি একটি বিশেষ ডিসকাউন্ট কুপন পেয়েছেন! বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>""",S6_PhishingLink,banglabarta
+এই যা <DATE_TIME> যে অনেক সময় পেলাম সেটি হল সমাধান এবং <PERSON> হল একটি মহান এবং একটি জনপ্রি,L0_Ham,banglabarta
+ক্রিপ্টো ট্রেডিং এ বড় লাভ! আজই শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+সকালে বাসে ভিড় লাগছে।,L0_Ham,banglabarta
+সেই ব্যক্তিই অভিশপ্ত যে মরে যায় অথচ তার খারাপ কাজগুলো পৃথিবীতে রয়ে যায়। — [আবু বকর (রাদিয়াল্লাহু আনহু)],L0_Ham,banglabarta
+বিকেলে কি করছো?,L0_Ham,banglabarta
+আপনার বিকাশ অ্যাকাউন্ট আপডেট করা প্রয়োজন। পরিষেবা বিঘ্ন এড়াতে আপনার অ্যাকাউন্ট নম্বর এবং পিন 016xxxxxxxx এ পাঠান।,S1_AccountCompromise,banglabarta
+জরুরী ! আমাদের অ্যাপল অ্যাকাউন্টধারীর সাথে যোগাযোগ করতে হবে। আপনি যদি এই অ্যাকাউন্টটি পরিচালনা করেন তবে বার্তাটি পেতে আপনার পরিচয় যাচাই করুন৷,L0_Ham,banglabarta
+প্রিয়জনের মুখে হাসি ফুটাতে ডায়াল *213*6551# চার্জ ৮২.৬৭ প্রতিদিন,L0_Ham,banglabarta
+সকালে হাঁটতে যাবে?,L0_Ham,banglabarta
+আপনার গ্যাস সংযোগ পুনরায় সক্রিয় করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+"ফ্রিতে মাইনিং করে ইনকাম করুন। ১০০% ফ্রি। টেলিগ্রাম অ্যাপ থাকলেই হবে। লিংক এ ক্লিক করে start করতে হবে, ৬ ঘন্টা পর পর টোকেন ক্লেইম করতে হবে। আর কোনো কাজ নেই।
+<URL>",S6_PhishingLink,banglabarta
+আজ কি করবে? কোনো নতুন কোনো কাজ পালন করবো। তুমি?,L0_Ham,banglabarta
+আমার একটি সমস্যা আছে।,L0_Ham,banglabarta
+জনতা ব্যাংক থেকে গুরুত্বপূর্ণ বার্তা। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"প্রিয় শিক্ষার্থী, আপনার টিউশন ফি আজ পর্যন্ত ২০,৫০০.০০ টাকা বকেয়া আছে। (পূর্বের লেট ফাইন ও বকেয়াসহ) চলতি মাসের টিউশন ফি (জরিমানা ছাড়া) ১৫ই সেপ্টেম্বর, ২০২৪ মধ্যে পরিশোধ করুন। বিস্তারিত <URL> লগইন করুন। (AIUB)",L0_Ham,banglabarta
+বিপিএল বাজি ধরুন এবং একটি ফ্রি ঘড়ি জিতুন। <PERSON> ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"সাহস রেখো, <PERSON>।",L0_Ham,banglabarta
+আজকে আমি একটি নতুন রেস্টুরেন্টে যাব।,L0_Ham,banglabarta
+"উম্মাহ সপ থেকে যে কোনো ধরনের কেনাকাটা করলে পাচ্ছেন ২০% পর্যন্ত বোনাস,  ফারিদপুর সদর।",S2_FakePromo,banglabarta
+"আজ ব্যাংক থেকে বিকাশ-এ ৫০০ টাকা আনলেই ১০ টাকা <NRP>, ১ বার! TCA",S2_FakePromo,banglabarta
+এটি IQ পরীক্ষা পর্বের একটি অংশ।,L0_Ham,banglabarta
+কি <PERSON>?,L0_Ham,banglabarta
+আমাকে জরুরি কল দিন <PHONE_NUMBER> এই <LOCATION>।,L0_Ham,banglabarta
+আমার এই নাম্বারে কল করুন <DATE_TIME>।,L0_Ham,banglabarta
+"হ্যালো, কি খবর?",L0_Ham,banglabarta
+"৪০৳ ক্যাশব্যাক! ৩১জিবি+৪৫০মি.@৪৫৯৳ ৩০দিন, নিয়ে নাও: <URL>",S2_FakePromo,banglabarta
+আমি যে ব্যাপারটি অনেক দুঃখ পেয়েছি সেটি হল বাসায় থাকা।,L0_Ham,banglabarta
+"আপনার একাউন্ট থেকে ১৫০০/- টাকা কাটা হয়েছে, বিস্তারিত জানতে কল করুন।",L0_Ham,banglabarta
+তুমি কি বিশ্ববিদ্যালয়ে যাচ্ছো?,L0_Ham,banglabarta
+"জনতা ব্যাংক থেকে ২,০০০ টাকা পুরস্কার জিতেছেন! কল করুন: <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+"সাইপ্রাস/ইউরোপে স্পট ভর্তি প্রতিনিধির উপস্থিতিতে (মিঃ পাম্বোস) 10-11 অক্টোবর, 100% ভিসার নিশ্চয়তা, ক্রেডিট ট্রান্সফার, টিউশন ফি 5000 ইউরো শুধুমাত্র, <LOCATION>, ঢাকা যোগাযোগের নম্বর: <DATE_TIME>",L0_Ham,banglabarta
+"জনতা ব্যাংক থেকে ২,০০০ টাকা পুরস্কার জিতেছেন! বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+জনতা ব্যাংক থেকে জরুরি বার্তা। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+তোমার লক্ষ্যে পৌঁছাতে ধৈর্য ধরো।,L0_Ham,banglabarta
+bKash অ্যাকাউন্টে ত্রুটি <PERSON>। দ্রুত সমাধানের জন্য এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আমি একটি <PERSON> প্রতিষ্ঠানের সম্মেলন করতে চাই।,L0_Ham,banglabarta
+আজকে কোনো কাজে যাব না।,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক থেকে জরুরি বার্তা। কল করুন: <NRP>,L0_Ham,banglabarta
+"ইন্টারনেটিংয়ে পকেট সেভিং, নাও ১০জিবি@৳১৫৮,৭দিন: <URL>",S2_FakePromo,banglabarta
+বাংলাদেশ নৌবাহিনীতে অফিসার ক্যাডেট পদে নিয়োগ চলছে । ভিজিট করুন: <URL>,S2_FakePromo,banglabarta
+"Assalamualikum! 
+
+<PERSON> Barite Boshe Kono Taka Investment Na Kore Taka Income <PERSON> Can? 
+Tahole Amader Bot E Kaj korun.  Amader Bot E Apni Kono Investment Chara Income Korte Parben 
+
+Bot Link :- <URL>",S6_PhishingLink,banglabarta
+তোমার প্রিয় জায়গা কোথায়?,L0_Ham,banglabarta
+"ফুটবল স্টার খেলে ১০,০০০ টাকা জিতুন প্রতি সপ্তাহে সপ্তাহে যোগাযোগ <URL>",S6_PhishingLink,banglabarta
+শাকিব আল হাসানের সাথে একান্ত সাক্ষাতের সুযোগ পেতে আজই আইপিএলে বাজি ধরুন। <PERSON> <URL>,S6_PhishingLink,banglabarta
+"পূর্বাচল সংলগ্ন ভরাটকৃত রেডি প্লট, কাঠা সর্বনিম্ন ৪.৫লক্ষ
+<DATE_TIME>",S2_FakePromo,banglabarta
+অ্যাপল আইফোন ১২ জিতেছেন! ডেলিভারি নিশ্চিত করতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+শাকিব আল হাসানের সাথে একান্ত সাক্ষাতকারের সুযোগ পেতে বেটিং করুন। <PERSON> ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+মেসেঞ্জার গ্রুপে পোল দিলে তো হয়। সবাই কি নেই ওই গ্রুপে?,L0_Ham,banglabarta
+"প্রো-লেভেল ৳৫৫ <PERSON>,৩০দিন: <URL>",S2_FakePromo,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্টে সমস্যা হয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আমাকে দ্রুত কল দিন <PHONE_NUMBER> এই <LOCATION>।,L0_Ham,banglabarta
+"জানুয়ারী-২৪
+<NRP>
+খরচ:
+ডেটা:0৳
+ভয়েস:23৳
+অন্যান্য:1৳",S2_FakePromo,banglabarta
+সুপ্রভাত!,L0_Ham,banglabarta
+"আপনার মতো হোক না, <DATE_TIME>।",L0_Ham,banglabarta
+আমি এ ব্যাপারে আশাবাদী যে প্রতিবাদ লক্ষ্য মোটেও আবার প্রতিবাদ ডেকে আনা নয়। বরং প্রতিবাদের লক্ষ্য হলো নতুন কিছু এনে <PERSON> — ডে রে ম্যাকেসন,L0_Ham,banglabarta
+আপনার মোবাইল অ্যাপ্লিকেশন আপডেট করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক থেকে আপনার জন্য জরুরি বার্তা। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+তুমি সাফল্যের জন্য তৈরি।,L0_Ham,banglabarta
+<PHONE_NUMBER> <LOCATION> বিকাশ করুন।,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক থেকে গুরুত্বপূর্ণ বার্তা। জরুরি ভিত্তিতে কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"৳৩০ ক্যাশব্যাকে এবার আরো বেশি ডাটা ৫০জিবি@৳৪৬৮, ৩০দিন <URL>",S2_FakePromo,banglabarta
+কঠোর পরিশ্রমই সাফল্যের চাবিকাঠি।,L0_Ham,banglabarta
+আপনার bKash অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় সক্রিয় করতে কল করুন: <PHONE_NUMBER>,S1_AccountCompromise,banglabarta
+"টাকার কথা বললেই সে উঠে চলে যায়, <DATE_TIME> ওর কাছে ৩ লাখ টাকা পাই",L0_Ham,banglabarta
+"ধৈর্য ধরো, ভালো সময় আসবে।",L0_Ham,banglabarta
+"প্রিয় গ্রাহক, আপনার কার্ডের তথ্য আপডেট করতে হবে। দয়া করে দ্রুত নিচের নম্বরে কল করুন এবং আপনার পিন নাম্বারটি বলুন। যোগাযোগের নম্বর: <PHONE_NUMBER>",S1_AccountCompromise,banglabarta
+488.23MB অবশিষ্ট। উপভোগ <PERSON> (6.6625Tk পর্যন্ত 5MB এর জন্য)| ব্যালান্স জানতে চাইলে *121*1*4#| নির্দিষ্ট প্যাকে 10% ইন্টারনেট বোনাস পেতে ভিজিট করুন <URL>,S2_FakePromo,banglabarta
+তুমি কি পড়ছো?,L0_Ham,banglabarta
+আগামী ১৩ অক্টোবর ২০২৩ দেশব্যাপী মুক্তি পাচ্ছে জাতির পিতা বঙ্গবন্ধু <DATE_TIME> রহমান এঁর জীবনীর উপর নির্মিত বায়োপিক চলচ্চিত্র 'মুজিব-একটি জাতির রূপকার'। চলে <NRP> আপনার নিকটস্থ প্রেক্ষাগৃহে।,S2_FakePromo,banglabarta
+"E-comerch Platform ( No Fee )
+আমাদের কোম্পানিতে কাজ করে প্রতিদিন $10/$15 USDT আয় করতে চাইলে Inbox",L0_Ham,banglabarta
+"আমার টাকায় আমার সেতু,বাংলাদেশের পদ্মা সেতু।একটি স্বপ্নের উম্মোচন। ২৫ জুন <PERSON> প্রধানমন্ত্রী স্বপ্নের পদ্মা সেতু শুভ উদ্বোধন করবেন।চোখ রাখুন,বিটিভি,সকাল ১০ টায়। বাংলাদেশ সেতু কর্তৃপক্ষ, সেতু বিভাগ।",S2_FakePromo,banglabarta
+"ফাগুনের গুনগুন ডিল নাও- ১৩জিবি@১১৩৳, ৩দিন: <URL>",S2_FakePromo,banglabarta
+<PHONE_NUMBER> এই নাম্বারে কল করুন।,L0_Ham,banglabarta
+"তোমার পাশে আছি, কোনো চিন্তা কোরো না।",L0_Ham,banglabarta
+মাশরাফির সাথে খেলার জার্সি জিততে আজই বেটিং শুরু করুন! শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+"২৭মিনিট মাত্র ১৯টাকা, মেয়াদ ৫দিন; <PERSON> করুন *১২১*৫০৮০#",S2_FakePromo,banglabarta
+তোমার দিন কেমন গেছে?,L0_Ham,banglabarta
+"""প্রিয় গ্রাহক, আপনার ইন্টারনেট পরিষেবা বন্ধ হতে চলেছে। পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>""",S6_PhishingLink,banglabarta
+"প্রো-লেভেল ৳১০০ ক্যাশব্যাকে <PERSON>,৩০দিন <URL>",S2_FakePromo,banglabarta
+ইউরোপীয় চ্যাম্পিয়নশিপে বাজি ধরুন এবং একটি বিলাসবহুল হোটেল বুকিং জিতুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+অভিনন্দন! আপনি ডাচ বাংলা ব্যাংক উপবৃত্তির জন্য নির্বাচিত হয়েছেন। সঠিকভাবে নিশ্চায়ন এবং টাকাও উত্তোলনের নিয়ম জানতে নিচের লিংকে ক্লিক করুন।,S6_PhishingLink,banglabarta
+সোনালী ব্যাংক অ্যাকাউন্টে ত্রুটি দেখা দিয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+<DATE_TIME> সব সময় আমার সমস্যার জন্য সমাধান <LOCATION> চাই।,L0_Ham,banglabarta
+এই পবিত্র মাসে তোমার সবকিছু ভালো <LOCATION>!,L0_Ham,banglabarta
+"ফুলঅন আড্ডা+ইন্টারনেটিং করতে ৬১জিবি+১০০০মি@৳৮৯৯,৩০দিন <URL>",S2_FakePromo,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্টে ত্রুটি দেখা দিয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <PERSON>,L0_Ham,banglabarta
+"ডাবলসেঞ্চুরি ক্যাশব্যাক ৳২০০!৬১জিবি+১০০০মি@৳৬৯৯, ৩০দিন <URL>",S2_FakePromo,banglabarta
+শুভ ভালোবাসা দিবস!,L0_Ham,banglabarta
+"প্রিয় শিক্ষার্থী, আপনার টিউশন ফি আজ পর্যন্ত ২৭,৯৫০.০০ টাকা বকেয়া আছে। (পূর্বের লেট ফাইন ও বকেয়াসহ) চলতি মাসের টিউশন ফি (জরিমানা ছাড়া) ২২ই সেপ্টেম্বর, ২০২৪ মধ্যে পরিশোধ করুন। বিস্তারিত <URL> লগইন করুন। (<LOCATION>)",L0_Ham,banglabarta
+আপনার বিদ্যুৎ বিল পরিশোধ না হওয়ায় সংযোগ কেটে দেয়া হবে। কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+"<PERSON> ইন্টারনেটিং ২৫জিবি+৪০০মি@৳৩৯৭,৩০দিন <URL>",S2_FakePromo,banglabarta
+কোন জমা ছাড়াই ১০০% হোম লোন সুবিধা। ২৪ ঘণ্টার মধ্যে অনুমোদন। যোগাযোগ: <PHONE_NUMBER>,S2_FakePromo,banglabarta
+ক্রিপ্টো ট্রেডিং এ বিশেষ অফার! <PERSON>: <URL>,S6_PhishingLink,banglabarta
+শুভ ক্রিসমাস!,L0_Ham,banglabarta
+"<PERSON> ৩০দিন,মন মতো বানিয়ে নাও ডাটা মিক্সারে- <URL>",S2_FakePromo,banglabarta
+আপনার মোবাইল রিচার্জ করতে কল করুন: <NRP>,L0_Ham,banglabarta
+"২০০৳ ক্যাশব্যাকে সেরা অফার ৬১জিবি+১০০০মি@৳৬৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"<DATE_TIME>,০০০ টাকা বিনিয়োগে <DATE_TIME>,০০০ টাকা অর্জন করুন! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+আমি একটি গল্প পড়তে হবে।,L0_Ham,banglabarta
+অ্যাপল আইফোন ১৮ জিতেছেন! ডেলিভারি নিশ্চিত করতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+কোন ক্রেডিট চেক ছাড়াই ১০০% ক্রেডিট কার্ড অনুমোদন। আজই আবেদন করুন। যোগাযোগ: <PHONE_NUMBER>,S2_FakePromo,banglabarta
+তুমি কোথায় আছো?,L0_Ham,banglabarta
+"<DATE_TIME> ঠিক আছি, <PERSON>।",L0_Ham,banglabarta
+সোনালী ব্যাংক থেকে আপনার জন্য জরুরি বার্তা। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"হ্যালো, কেমন আছেন আপনি?",L0_Ham,banglabarta
+"এই লিঙ্কটি অনুসরণ করুন আপনার বিনামূল্যের পুরস্কার দাবি করতে, যোগাযোগ করুন: <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+তুমি কি সুইমিং করছো?,L0_Ham,banglabarta
+আপনার একাউন্টের তথ্য আপডেট করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+শুভ মহাষ্টমী!,L0_Ham,banglabarta
+"কখনো অন্যায়, অত্যাচারের জন্য নিজের আওয়াজকে রুখে দিও সত্য ও ন্যায়ের কথা বলতে।",L0_Ham,banglabarta
+এই কষ্টটাও কেটে যাবে।,L0_Ham,banglabarta
+শুভ সকাল!,L0_Ham,banglabarta
+আমি কি করতে পারি?,L0_Ham,banglabarta
+"কাওর কাছে যাওয়ার দরকার নেই, কাউকে কোনো অ্যাড ফি <LOCATION> হবে না। নিজের কাজ নিজেই করে লাখ টাকা আয় করুন। যোগদান করতে নিচের লিঙ্কে ক্লিক করুন:
+[<URL>(<URL>)",S6_PhishingLink,banglabarta
+"প্রবাসে ১০০% নিশ্চিত চাকরির সুযোগ। কোন ফি নেই, শুধু আপনার পাসপোর্ট এবং শিক্ষাগত যোগ্যতা <PERSON>। যোগাযোগ:<DATE_TIME>",S4_LoanJob,banglabarta
+আপনার <PERSON> জলদি পাঠান <PHONE_NUMBER>।,L0_Ham,banglabarta
+"প্রিয় ব্যবহারকারী, সমাজসেবা অফিস থেকে আপনার রেমিট্যান্স অ্যাকাউন্ট সাময়িকভাবে স্থগিত করা হয়েছে। পিন সহ অ্যাকাউন্টটি দিন যা পুনরায় প্রতিক্রিয়ার জন্য দেওয়া হয়েছে।পিন:23456",S1_AccountCompromise,banglabarta
+"প্রিয় প্রার্থী,
+আপনি বাছাই করা হয়েছে
+ব্র্যাক ব্যাংক পিএলসি-এর জন্য রিলেশনশিপ এক্সিকিউটিভ"" পদের জন্য প্রাথমিক সাক্ষাৎকার। <PERSON> সার্ভিসেস লিমিটেডের চাকরির অধীনে। তারিখ-২৯ এপ্রিল (সোমবার), <DATE_TIME>। <PERSON> PM। বেতন-24000/- <NRP> অবশ্যই একটি আপডেট করা CV এবং SSC সার্টিফিকেটের ফটোকপি আনতে হবে। <PERSON>: গুলশান গ্রেস, 8 সাউথ গুলশান এভিনিউ, লেভেল-5, ২য় বিল্ডিং। গুলশান-১, ঢাকা। (প্রকার: অবস্থান পেতে গুগল ম্যাপে ""মাহাদি কর্পোরেট অফিস"") শুভেচ্ছা,
+মাহাদি সাপোর্ট সার্ভিসেস লিমিটেড।",S4_LoanJob,banglabarta
+জনতা ব্যাংক অ্যাকাউন্টে সমস্যা হয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+‘স্মার্ট মোবাইল ফোনে প্রদর্শন করে ই-ড্রাইভিং লাইসেন্স ব্যবহার করা যাবে।’-বিআরটিএ,S2_FakePromo,banglabarta
+আপনি কি খবর?,L0_Ham,banglabarta
+"লি কুপারে ফ্ল্যাট ৫০% ছাড়
+সকল শার্ট, জিন্স, গ্যাবারডিন
+আজ ও কাল
+<NRP>",S2_FakePromo,banglabarta
+আপনার bKash অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় সক্রিয় করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+আপনার ফোন নম্বরটি ৫০০০ টাকা পুরস্কার জিতেছে! বিস্তারিত জানতে কল করুন <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+"ডাটা মিক্সারে করো পকেট সেভিং, নাও ১০জিবি@৳২৪৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"আমি ভালো আছি, <PERSON>।",L0_Ham,banglabarta
+আপনার অ্যাকাউন্টের সুরক্ষা যাচাই করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+মাশরাফির সাথে একান্ত সময় কাটানোর সুযোগ পেতে ক্যাসিনোতে বাজি ধরুন। শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+<DATE_TIME> প্রায় সপ্তাহে একবার মাঠে যায়।,L0_Ham,banglabarta
+"Dear Customer,
+
+আপনার ইনকাম ট্যাক্স রিফান্ড অনুমোদিত হয়েছে মোট Rs 20,490/-, এই পরিমাণটি শীঘ্রই ক্রেডিট হবে। দয়া <PERSON> একাউন্ট নম্বর 5XXXXXXXXXX755 যাচাই করুন। যদি এটি ভুল হয়, তাহলে নীচের লিঙ্কে ক্লিক করে আপডেট করুন আপনার ব্যাংক একাউন্ট তথ্য।
+
+লিঙ্ক: [<URL>(<URL>)
+
+ধন্যবাদ।",S6_PhishingLink,banglabarta
+"শেখ হাসিনা সরকারের সাফল্য:
+২০০৬ সালে পল্লী সমাজসেবা কার্যক্রমের আওতায় সুদমুক্ত ক্ষুদ্রঋণ সহায়থা <DATE_TIME> ছিল ২১ লক্ষ ৭৭ হাজার। বর্তমান সরকারের সময়ে তা দাঁড়িয়েছে ৩৪ লক্ষ ৯০ হাজার।",S2_FakePromo,banglabarta
+আমি একটি <PERSON> প্রতিষ্ঠানের ব্যবসায় করতে চাই।,L0_Ham,banglabarta
+"সবকিছু ঠিকঠাক হবে, আমি জানি।",L0_Ham,banglabarta
+"দৃষ্টিনন্দন স্থাপত্যকলায় অনন্য, ডায়মন্ড ওয়ার্ল্ডের ""দ্য সিগনেচার"" শোরুমের উদ্বোধন হচ্ছে আজ বিকেল ৪টায়। আপনার সপরিবারে উপস্থিতি ও দোয়া আমাদের একান্ত কাম্য। প্রয়োজনে: <PHONE_NUMBER>",S2_FakePromo,banglabarta
+<PHONE_NUMBER> এই নাম্বারে দ্রুত টাকা পাঠাও।,L0_Ham,banglabarta
+তুমি কি সিনেমার টিকিট কিনছো?,L0_Ham,banglabarta
+ফ্রিতে জয়েন করে আপনার ফ্রি সময়কে কাজে লাগিয়ে Dxn কম্পানিতে নেটওয়ার্ক মার্কেটিং বিজনেস <PERSON> প্যাসিব ইনকামের রাস্তা তৈরি করতে চান তাহলে ইনবক্স করুন,S2_FakePromo,banglabarta
+"বাউন্ডারিকৃত রেডি প্লট এখনই <NRP> <PERSON>, কাঠা ৪.৫লক্ষ
+<DATE_TIME>",S2_FakePromo,banglabarta
+100+ মোবাইল <PERSON> এবং প্রতিদিন 25 কোটি টাকা পর্যন্ত নগদ পুরস্কার জিততে  বৃহত্তম সামাজিক গেমিং অ্যাপ ডাউনলোড করুন।,S6_PhishingLink,banglabarta
+"২০০৳ ক্যাশব্যাক শেষ দিন,নাও ৬১জিবি+১০০০মি@৳৬৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+তোমার পোষা প্রাণী কেমন আছে?,L0_Ham,banglabarta
+আসসালামুয়ালাইকুম! আপনি কি বারিতে বসে কোন টাকা ইনভেস্ট না কোরে টাকা ইনকাম করতে পারেন? <PERSON> korun. Amader Bot E Apni Kono Investment Chara Income Corte Parben . বট লিঙ্ক:- <URL>,S6_PhishingLink,banglabarta
+আপনার হাতে যদি ডেইলি 3-4 ঘন্টা সময় ফ্রি থাকে তাহলে যানাবেন। আশা করি খুব ভালো একটা কাজের সন্ধান দিতে পারবো।<URL>,S6_PhishingLink,banglabarta
+বাংলাদেশ ব্যাংক থেকে একটি জরুরি বার্তা এসেছে। কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+আপনার ইন্সুরেন্স পলিসি আপডেট করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+আজকে কি প্ল্যান?,L0_Ham,banglabarta
+নগদ অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে কল করুন: <PHONE_NUMBER>,S1_AccountCompromise,banglabarta
+তুমি কি বই পড়ছো?,L0_Ham,banglabarta
+"৳১০০ <PERSON> প্রোলেভেল ডিল-১০০জিবি@৳৬৯৮,৩০দিন <URL>",S2_FakePromo,banglabarta
+"<DATE_TIME> নাম্বারে কল করুন, আমার <PERSON>।",L0_Ham,banglabarta
+আপনার জন্য একটি গল্প আছে?,L0_Ham,banglabarta
+"আপনি চাকরির পর্যালোচনায় পাস হয়েছেন এবং প্রতিদিন ২,০০০ টাকা বেতন <PERSON>। যোগাযোগ : <URL>",S6_PhishingLink,banglabarta
+ক্যাসিনোতে বাজি ধরুন এবং ৭ দিনের জন্য একটি ফ্রি ট্রিপ জিতুন! আজই যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+"ডেইলি ৫০০,৭০০,১০০০ টাকা ইনকাম
+ইমারজে'ন্সি লোক লাগবে।
+কেউ করতে চাইলে আমাকে মে'সেজ দিন।",S4_LoanJob,banglabarta
+ক্যাসিনোতে বাজি ধরুন এবং একটি ফ্রি গাড়ি জিতুন! আজই যোগ দিন: <URL>,S6_PhishingLink,banglabarta
+"৫০৳ চিল ক্যাশব্যাকে ৩১জিবি+৪৫০মি.@৪৪৯৳ ৩০দিন, নাও: <URL>",S2_FakePromo,banglabarta
+আপনার ইমেল অ্যাকাউন্টে সমস্যা হয়েছে। সুরক্ষার জন্য এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+বাসায় খুব শান্তি আছে।,L0_Ham,banglabarta
+আইপিএল স্পেশাল অফার! বেটিং শুরু করুন এবং একটি ফ্রি ল্যাপটপ জিতুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+<DATE_TIME> জীবনটা তিনটি দিনের– গতকালের দিনটিতে যা করা হয়েছে সেগুলো নিয়ে সেটি চলে গেছে; আগামীকালের দিনটিতে হয়ত আপনি না-ও পৌছতে পারেন; কিন্তু আজকের দিনটি আপনার জন্য সুতরাং যা <PERSON> করে নিন। -[ইমাম আল-হাসান আল-বাসরী (রহ)],L0_Ham,banglabarta
+"১৭ মে বিশ্ব টেলিযোগাযোগ ও তথ্য সংঘ দিবস, ২০২৩ এর প্রতিপাদ্য বিষয়
+“তথ্য ও যোগাযোগ প্রযুক্তির উন্নয়ন
+স্বল্পোন্নত দেশসমূহের <DATE_TIME> ও টেলিযোগাযোগ বিভাগ।",S2_FakePromo,banglabarta
+আজ কি করবেন?,L0_Ham,banglabarta
+কেমন আছে আপনার দিনটি?,L0_Ham,banglabarta
+আপনার অ্যাকাউন্টটি ভেরিফাই করতে কল করুন <PHONE_NUMBER>,S1_AccountCompromise,banglabarta
+আপনার ব্যাংক একাউন্ট থেকে অজানা লেনদেন হয়েছে। বিস্তারিত জানতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+"৳১০০ ক্যাশব্যাক!৩০জিবি+৬০০মি. @৳৩৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+থ্যালাসেমিয়া রোগ  থেকে বাঁচতে বিয়ের আগে রক্ত পরীক্ষা করিয়ে নিন । রোগী ও বাহক কিংবা বাহকে বাহকে বিয়ে নয়-বাংলাদেশ থ্যালাসেমিয়া সমিতি।,S2_FakePromo,banglabarta
+৳৬০ <NRP>! <PERSON> ৩০দিন নিয়ে নাও: <URL>,S2_FakePromo,banglabarta
+আপনি আমাদের ভাগ্যবান গ্রাহক! আপনার বিনামূল্যের ১ বছরের ইন্টারনেট সাবস্ক্রিপশন দাবি করুন। কল <PERSON>।,S3_LotteryPrize,banglabarta
+আমার প্রিয় মানুষ যারা জীবন নিয়ে আমার পরিবারে সমস্যা আছে সেগুলোকে আমি সমাধান করতে চাই।,L0_Ham,banglabarta
+"১০,<DATE_TIME> বিনিয়োগে <DATE_TIME>,০০০ টাকা অর্জন করুন! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+আপনার ব্যাংক তথ্য আপডেট করুন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"আপনার ছেলে সমস্যায় আছে, তাই দ্রুত টাকা পাঠান।",L0_Ham,banglabarta
+"bKash থেকে ১,০০০ টাকা পুরস্কার জিতেছেন! বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+"<DATE_TIME> এই নাম্বারে কল করুন, আমার <PERSON>।",L0_Ham,banglabarta
+‘শেখ হাসিনা ইয়ুথ ভলান্টিয়ার অ্যাওয়ার্ড-২০২৪’ প্রদানের লক্ষ্যে ১৮-৪৫ বছরের যুবদের নিকট হতে দরখাস্ত আহবান করা হয়েছে। এ বিষয়ে সকল তথ্য যুব ও ক্রীড়া মন্ত্রণালয়ের ওয়েবসাইটে <URL> পাওয়া যাবে।,S2_FakePromo,banglabarta
+শুভ রথযাত্রা!,L0_Ham,banglabarta
+"<PERSON> অর্জন নয়, দুনিয়া বিমুখীতাতেই রয়েছে দেহ ও মনের প্রশান্তি। - [উমার ইবনুল খাত্তাব (রা)]",L0_Ham,banglabarta
+আপনি ৪ ভরি সোনা জিতেছেন! বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>,S3_LotteryPrize,banglabarta
+"প্রিয় গ্রাহক আপনার কাছে পল্লি বিদ্যুৎ  জামালপুর শাখার পাওনা রয়েছে ৫০৩৮/- টাকা, জলদি <LOCATION> না করলে বিদ্যুৎ লাইন বিচ্ছিন্ন করা হবে।",L0_Ham,banglabarta
+কি খাবে আজ? মাছের কারি। তুমি কি পছন্দ করো?,L0_Ham,banglabarta
+"[<NRP>] ডেলিভার চার্জ এখন ৳৩০! 
+পাঠাও ফুড-এর ডেলিভারি চার্জ এখন ৳৩০ <LOCATION>।
+এখনই অর্ডার করুন পাঠাও ফুড-এ: <NRP>",S2_FakePromo,banglabarta
+আপনার একাউন্ট সুরক্ষিত নয়। ৪০০০ টাকা পাঠান এই নাম্বারে: <DATE_TIME>।,L0_Ham,banglabarta
+"<LOCATION>
+<NRP>
+খরচ:
+ডেটা:287৳
+ভয়েস:101৳
+অন্যান্য:0৳",S2_FakePromo,banglabarta
+"তুমি একা নও, আমরা সবাই তোমার পাশে আছি।",L0_Ham,banglabarta
+"আপনি সরকারী বোনাস স্কিমের জন্য নির্বাচিত হয়েছেন,  <DATE_TIME>,০০০ পর্যন্ত পেতে যোগাযোগ করুন <DATE_TIME> নম্বরে 
+বোনাস স্কিম 
+বাংলাদেশ অর্থমন্ত্রণালয়",S5_Impersonation,banglabarta
+"<URL>
+ঘরে বসে আয়,<PERSON> ৩০০থেকে ৪০০ টাকা ইনকাম করতে চাইলে
+এই লিংকে ক্লিক করে startকরুন ধন্যবাদ ☺️☺️",S6_PhishingLink,banglabarta
+আজ ধানমন্ডি শাখার শুভ উদ্বোধনে ফ্ল্যাট৫০%ছাড়! ০১৮৯৬০০১৯২৯ <URL>,S2_FakePromo,banglabarta
+আপনার ইমেইল বাক্সটি <PERSON>। ক্লিয়ার করতে এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+"ইউরোপীয় চ্যাম্পিয়নশিপে বাজি ধরুন এবং ৫,০০০ টাকা <NRP> জিতুন। শুরু করুন: <URL>",S6_PhishingLink,banglabarta
+"<URL>
+উপরে দেওয়া <NRP> এ ক্লিক করে ডেলি ২০০ থেকে ৩০০ টাকা ইনকাম করতে চাইলে এখনি ক্লিক করুন",S6_PhishingLink,banglabarta
+আমাদের কোম্পানির জন্য কাজ করুন। আপনার মোবাইল/কম্পিউটার দিয়ে অনলাইনে বসে আয় করুন। যোগাযোগের নম্বর: <DATE_TIME>,S4_LoanJob,banglabarta
+"প্রো-লেভেল আড্ডা+ইন্টারনেটিং-১০জিবি+২৫০মি@২৫৮৳,৩০দিন <URL>",S2_FakePromo,banglabarta
+ঈদ <LOCATION> ডায়মন্ড গহনায় ২৫% ছাড় চাঁদরাত পর্যন্ত। ফোন: <PHONE_NUMBER>,S2_FakePromo,banglabarta
+নগদ অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"“পাসপোর্ট ও ভিসা সংক্রান্ত তথ্য পেতে পাসপোর্ট বাতায়নে দেশ থেকে <PHONE_NUMBER> নম্বরে ও বিদেশ থেকে <DATE_TIME> নম্বরে ফোন করুন। 
+পাসপোর্ট ও ভিসা পেতে সরকার কর্তৃক নির্ধারিত ফি ব্যতীত কোন অর্থ লেনদেন করবেন না।”",S2_FakePromo,banglabarta
+শাকিব আল হাসানের সাথে একান্ত সাক্ষাতের সুযোগ পেতে ক্রিকেটে বাজি ধরুন! ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"ডাটা মিক্সারে করো পকেট সেভিং, নাও ৬০জিবি@ ৳৫৬৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+"<URL>
+এই লিংক থেকে একাউন্ট করলেই পাবেন ৮৫ টাকা। শুধু ২ মিনিটে ৪ টাস্ক কমপ্লিট করতে হবে। এভাবে প্রতিদিন ৪ করে টাস্ক আসবে আর ৮৫ টাকা করে পাবেন। বাকি কিছু জানতে ইনবক্সে নক দিন💝💝",S6_PhishingLink,banglabarta
+মাশরাফির সাথে একান্ত সময় কাটানোর সুযোগ পেতে বিপিএলে বাজি ধরুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+শুভ দুর্গাপূজা!,L0_Ham,banglabarta
+শুভ আশুরা!,L0_Ham,banglabarta
+"<PERSON> দিবস-২০২৩
+এবারের প্রতিপাদ্য “সবার জন্য স্বাধীনতা, সমতা এবং ন্যায়বিচার”। জাতীয় <PERSON> কমিশন।",S2_FakePromo,banglabarta
+"<PERSON>: অভিনন্দন!! আপনার মার্চ মাসের বিল পরিশোধ হয়েছে। ধন্যবাদ, এখানে আপনার জন্য একটি ছোট উপহার রয়েছে। আমাদের সাথে যোগাযোগ করুন: <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+"হাই, কেমন আছো?",L0_Ham,banglabarta
+"৳৩০ ক্যাশব্যাকে পকেট সেভিং- ১২জিবি+২০০মি.@৳১৬৯,৭দিন: <URL>",S2_FakePromo,banglabarta
+"মহান স্বাধীনতা দিবসের শুভেচ্ছা। বিশ্বস্ত ও স্মার্ট ব্যাংকিং সেবায় ২৪/৭ সোনালী ব্যাংক আপনার পাশে।
+মোঃ আফজাল করিম
+সিইও এন্ড এমডি",L0_Ham,banglabarta
+শুভ বৈশাখী!,L0_Ham,banglabarta
+"আপনার একাউন্ট থেকে ২০০০/- টাকা কাটা হয়েছে, বিস্তারিত জানতে কল করুন।",L0_Ham,banglabarta
+"তোমার জন্য স্পেশাল গিফট, ৬০পয়সা/মিনিট কলরেট, নাও: <URL>",S2_FakePromo,banglabarta
+"করো ফুলঅন <PERSON>! নাও <LOCATION>, ৩০দিন: <URL>",S2_FakePromo,banglabarta
+"ইন্টারনেটিংয়ে পকেট সেভিং, নাও ২জিবি@৳৬৯, ৭দিন: <URL>",S2_FakePromo,banglabarta
+আপনার ব্যাংক অ্যাকাউন্টের বিবরণ আপডেট করুন। দয়া করে এখানে লগইন করুন: <URL>,S6_PhishingLink,banglabarta
+"bKash অ্যাকাউন্টে ১০,০০০ টাকা জমা হয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>",S6_PhishingLink,banglabarta
+"আপনার সাম্প্রতিক অ্যামাজন কেনার জন্য আপনাকে ধন্যবাদ. আপনাকে $180.34 চার্জ করা হয়েছে।  যদি কোন ভুল হয়ে থাকে, অনুগ্রহ করে কল করুন <PHONE_NUMBER>",L0_Ham,banglabarta
+হা হা হা ভালো কৌতুক। মেয়েরা অবস্থা অনুসন্ধানকারী।,L0_Ham,banglabarta
+আপনার মোবাইল সিম পুনরায় চালু করতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+আজকে সিনেমা দেখবে?,L0_Ham,banglabarta
+"হ্যাঁ, বসে থাকলে সময় কাটানো কঠিন হয়। আমি ইউটিউবেও দেখেছি, আবার ডার্ক সিরিজেও ছিল।",L0_Ham,banglabarta
+শুভ নববর্ষের শুভেচ্ছা!,L0_Ham,banglabarta
+"সিস্টেম আপগ্রেডেশনের জন্য ৩ অক্টোবর রাত ১২:০১মিনিট থেকে সকাল ৮টা পর্যন্ত,<DATE_TIME> সকল সেবা বন্ধ থাকবে। বিস্তারিত: <URL>",S2_FakePromo,banglabarta
+"দুর্গা পূজায় কেনাকাটা করুন ২৫% ছাড়ে, ২৫ অক্টোবর পর্যন্ত। <PHONE_NUMBER>",S2_FakePromo,banglabarta
+"প্রিয় গ্রাহক আপনার
+বিদ্যুৎ সংযোগ বিচ্ছিন্ন করা হবে
+আজ রাত ১০.৩০ মিনিটে
+থেকে
+বিদ্যুৎ অফিস।
+কারণ আপনার
+আগের মাসের বিল ছিল না
+আপডেট অবিলম্বে দয়া করে
+আমাদের সাথে যোগাযোগ করুন
+বিদ্যুৎ কর্মকর্তা
+<PHONE_NUMBER> ধন্যবাদ",S5_Impersonation,banglabarta
+নগদ অ্যাকাউন্ট ব্লক হয়েছে। পুনরায় চালু করতে কল করুন: <NRP>,S1_AccountCompromise,banglabarta
+"<PERSON> অফার: সব জুয়েলারিতে ১৫% ছাড়। স্টক সীমিত, এখনই কিনুন!",S2_FakePromo,banglabarta
+তুমি কি মিউজিয়ামে যাচ্ছো?,L0_Ham,banglabarta
+আপনার পরিচয় যাচাই করতে হবে। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+তোমার প্রিয় ঋতু কোনটা?,L0_Ham,banglabarta
+"একটা American website আছে কাজ Simple 
+প্রতিদিন ৩ টা কাজ করলে ৮৫ টাকা দেয়, কোন ইনভেস্ট লাগবে না কেউ করতে চাইলে inbox সব বুঝাই <LOCATION> 🤟😊 
+invited করলে টাকা খুব দ্রত পেয়ে <PERSON>অনেকেই এটা করতে চাইছিলেন না..  এখন <PERSON> ইনকাম করছে..",S4_LoanJob,banglabarta
+"ইসলামী ব্যাংক <PERSON> ইদ উপলক্ষে গিফ্ট ভাউচার ও বিশাল অফার বিস্তারিত নিচের লিংকে
+<URL>",S6_PhishingLink,banglabarta
+তোমার জন্য একটি গল্প আছে?,L0_Ham,banglabarta
+"শেখ হাসিনা সরকারের সাফল্যঃ
+<PERSON> প্রধানমন্ত্রী শেখ হাসিনার নির্দেশে এখন পর্যন্ত ১৩ লাখ গৃহহীন পরিবারকে জমিসহ ঘর নির্মাণ করে দিয়েছে সরকার। ফলে ভাগ্য বদলে <DATE_TIME> প্রায় ৫০ লাখ অসহায় মানুষের।",S2_FakePromo,banglabarta
+"মেগা <NRP> ২৫০৳! নাও-৬০জিবি+১৬০০মি.@৭৪৯৳, ৩০দিন: <URL>",S2_FakePromo,banglabarta
+আপনার চাকরির <DATE_TIME> হয়েছে এবং <DATE_TIME> প্রতি মাসে 40000 টাকা। যোগাযোগের তথ্য: <DATE_TIME>,S4_LoanJob,banglabarta
+"আজই শেষ দিন! ৪০জিবি(বোনাসসহ)৫০০টাকা <PERSON> *১২১*৫০৪৯#, <URL>",S2_FakePromo,banglabarta
+ক্যাশব্যাক পাও upto 99tk! skitto app থেকে চিল ডিলে- <URL>,S2_FakePromo,banglabarta
+শাকিব আল হাসানের সাথে ফ্রি ম্যাচ টিকিট জিততে আজই আইপিএলে বাজি ধরুন। <PERSON> দিন: <URL>,S6_PhishingLink,banglabarta
+তোমার এখন কি কাজ হচ্ছে?,L0_Ham,banglabarta
+আমি সকালে বাজারে <DATE_TIME>।,L0_Ham,banglabarta
+শুভ মহালয়া!,L0_Ham,banglabarta
+তুমি কি পার্কে যাচ্ছো?,L0_Ham,banglabarta
+"আমি বইটি <NRP>, খুব মজার লাগছে।",L0_Ham,banglabarta
+রমজানের <NRP>  <URL>,S6_PhishingLink,banglabarta
+তুমি কি খেলছো?,L0_Ham,banglabarta
+এখানে অবস্থান করতে চাও?,L0_Ham,banglabarta
+শুভ কার্তিক পূর্ণিমা!,L0_Ham,banglabarta
+শুভ কলকাতার কল্যাণ মেলা!,L0_Ham,banglabarta
+"সুবর্ণ সুযোগ! ঘরে বসে ডাটা এন্ট্রি করে প্রতিদিন ১০০০-২০০০ টাকা আয় করুন। রেজিস্ট্রেশন ফি মাত্র <PERSON>। নাম,বয়স,শহর, <LOCATION> পরিচয়পত্র নম্বর সহ যোগাযোগ  whatsapp <PHONE_NUMBER>",S4_LoanJob,banglabarta
+আমি অনেক সময় মিলার মধ্যে পান তা হল আমি একটি মহান এবং আমি অন্য ব্যপারের মধ্যে আমার প্রেমের অমন্ত্রণ <LOCATION>।,L0_Ham,banglabarta
+ঘরে বসে অনলাইন ইনকাম করুন! কোন <PERSON> প্রয়োজন নেই। বিস্তারিত জানতে কল করুন: <PHONE_NUMBER>,S4_LoanJob,banglabarta
+বড় ডিসকাউন্ট! শীতের পোশাকে ৩০% ছাড়। আজই ভিজিট করুন আমাদের স্টোরে!,S2_FakePromo,banglabarta
+<PERSON> রেস্টুরেন্টটা ট্রাই করেছো?,L0_Ham,banglabarta
+ইলেকট্রনিক্স পণ্যে মেগা সেল! সব পণ্যে ১০-৫০% ছাড়। আজই ভিজিট করুন।,S2_FakePromo,banglabarta
+"হাই, কি হচ্ছে?",L0_Ham,banglabarta
+"এই নাম্বারে ২০০০/- টাকা পাঠাও <DATE_TIME> , বিকাশ রকেট বা নগদে",L0_Ham,banglabarta
+রেটলিস্ট হালনাগাদের জন্য জনমত সংগ্রহ করা হচ্ছে। মতামত প্রদানের জন্য বিটিআরসি’র ওয়েবসাইটের নোটিশ বোর্ড দেখুন (<URL>)। আপনার মূল্যবান মতামত আমাদের কাছে অত্যন্ত গুরুত্বপূর্ণ।-বিটিআরসি,S2_FakePromo,banglabarta
+"জরুরি, <DATE_TIME> <LOCATION> বিকাশ করুন।",L0_Ham,banglabarta
+"হাই, কি তুমি?",L0_Ham,banglabarta
+ব্যায়াম করতে অভ্যাস করতে হবে।,L0_Ham,banglabarta
+এপ্রিলে ৫জিবি ডাটা use করে মে মাসে পাবে lowest কলরেট- <URL>,S2_FakePromo,banglabarta
+"আপনার সিভি পাস হয়েছে এবং আপনি বাড়ি থেকে আপনার মোবাইল ফোনের মাধ্যমে কাজ করতে পারবেন এবং প্রতিদিন ২,<DATE_TIME> পাবেন। এখনই যোগ দিন: <URL>",S6_PhishingLink,banglabarta
+আপনার ক্রেডিট কার্ডের নিরাপত্তা নিশ্চিত করতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+কবে <PERSON> দেখা হবে? আমি এখানে আসতে চেষ্টা করবো। তুমি?,L0_Ham,banglabarta
+আজই ক্যাসিনোতে বাজি ধরুন এবং একটি <PERSON> গাড়ি জিতুন! ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+তুমি কি গ্রামে যাচ্ছো?,L0_Ham,banglabarta
+সপ্তাহান্তে বন্ধুদের সঙ্গে পিকনিকে যাব।,L0_Ham,banglabarta
+"<DATE_TIME>,০০০ টাকা বিনিয়োগে ১,<DATE_TIME>,০০০ টাকা পান! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"Hot wallet টোকেন দিয়ে দিয়েছে 1 টোকেন $5.00
+যারা অল্প সময়ে বেশি ইনকাম করতে চান, এখনই জয়েন করুণ
+Link:
+<URL>",S6_PhishingLink,banglabarta
+"৩,২০০ টাকা বিনিয়োগে দ্বিগুণ লাভ! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"হাই, কি খবর?",L0_Ham,banglabarta
+"৮,০০০ টাকা বিনিয়োগে <DATE_TIME>,০০০ টাকা পান! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+আমি আমার <PERSON> একটি বিশেষ স্থান রেখে আসতে পারি তা হল বোতামের জন্য।,L0_Ham,banglabarta
+বিদ্যালয়ের বই পড়া খুব পছন্দ।,L0_Ham,banglabarta
+"আজ তোমার কাছে আসতে পারবো না? হ্যাঁ, আমি এখানে রয়েছি। আপনি কি চান?",L0_Ham,banglabarta
+"৳৩৫ ক্যাশব্যাকে এবার আরো বেশি ডাটা ৫০জিবি@৳৪৬৩, ৩০দিন <PERSON>",S2_FakePromo,banglabarta
+"ধৈর্য ধরো, সব ঠিক হয়ে যাবে।",L0_Ham,banglabarta
+"আয় করুন 
+<URL>",S6_PhishingLink,banglabarta
+"হাই, কেমন কাটছে দিনটি?",L0_Ham,banglabarta
+আজকের ক্লাস কেমন হলো?,L0_Ham,banglabarta
+"১,<DATE_TIME>,<DATE_TIME> বিনিয়োগে ৩,<DATE_TIME>,০০০ টাকা পান! কল করুন: <NRP>",L0_Ham,banglabarta
+"গভঃ রেজিঃ  - <PHONE_NUMBER> National agancy company পার্ট-টাইম চাকরি
+পড়াশোনার পাশাপাশি অনলাইন প্লাটফর্মে বিজ্ঞাপন প্রচার করার জন্য ছেলে মেয়ে কর্মী নিয়োগ চলছে।
+পদের_নামঃ কল সেন্টার
+<PERSON> <DATE_TIME> হাজার 
+দৈনিক কাজের সময়ঃ ৪/৫ঘন্টা
+আগ্রহী আপুরা ও ভাইয়েরা সরাসরি ইনবক্স_এ যোগাযোগ করুন।বা ফোন . <PHONE_NUMBER>",S4_LoanJob,banglabarta
+তুমি কি থিয়েটারে যাচ্ছো?,L0_Ham,banglabarta
+"জরুরি, <DATE_TIME> এই নাম্বারে রকেটে টাকা পাঠান।",L0_Ham,banglabarta
+<PERSON> একটি <PERSON> গাড়ি আসছে।,L0_Ham,banglabarta
+আল্লাহর কাছে আপনি প্রার্থনা করা বন্ধ করে দিলে তিনি রাগান্বিত হন। অথচ আদম সন্তানের কাছে কিছু প্রার্থনা করলে সে রেগে যায়। – [ইমাম ইবনুল কাইয়্যিম (রাহিমাহুল্লাহ)],L0_Ham,banglabarta
+"ইংলিশ প্রিমিয়ার লিগে বাজি ধরুন <DATE_TIME>,০০০ টাকা জিতুন। শুরু করুন: <URL>",S6_PhishingLink,banglabarta
+আমি একটি প্রতিষ্ঠানের পরিচালক হিসাবে পরিচালক করতে চাই।,L0_Ham,banglabarta
+"আমি হলে তো আগে থেকেই সরিয়ে দিতাম... কিন্তু এখন যেটা হচ্ছে, তারা একটু জিদ করছে যে বাইরের থেকে এসে সব <PERSON>, এটা ঠিক না",L0_Ham,banglabarta
+"আপনার পরবর্তী গ্রামীণফোন রিচার্জে BDT 2,000 ডিসকাউন্ট পান।",L0_Ham,banglabarta
+আপনার পেন্ডিং বিলটি পেমেন্ট করুন এবং অবিলম্বে যোগাযোগ করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+কাল কি করব?,L0_Ham,banglabarta
+আমি আমার পরিবারের সঙ্গে একটি নতুন সময় পালন করতে চাই।,L0_Ham,banglabarta
+শুভ নভেম্বর!,L0_Ham,banglabarta
+আপনার পাসওয়ার্ড রিসেট করতে হবে। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+অন্যায়ের প্রতি আনুগত্য সম্মান এর পথে বাধা হয়ে দাড়াতে পারে। — সংগৃহীত,L0_Ham,banglabarta
+"""আপনার ATM কার্ড ব্লক করা হয়েছে। পুনরায় সক্রিয় করতে এই নম্বরে আপনার কার্ড নম্বর পাঠান: <UK_NHS>""",S1_AccountCompromise,banglabarta
+আপনার প্যাকেজ ডেলিভারি করতে একটি নতুন ঠিকানা প্রয়োজন। এখানে ক্লিক করুন: [<URL>,S6_PhishingLink,banglabarta
+সাফল্যের জন্য তুমি যদি অন্যায়ের আশ্রয় নিয়ে থাকো তবে মনে রেখো তুমি সফল নও। — থমাস কার্লি,L0_Ham,banglabarta
+শুভ ঈদ-উল-ফিতর!,L0_Ham,banglabarta
+"১০০% গেরান্টিসহ মালেশিয়ান, ইউরোপিয়ান,আমেরিকা, কানাডা ভিসা পেতে আজই যোগাযোগ করুন <DATE_TIME>, অগ্রীম ফি লাগবে না।",L0_Ham,banglabarta
+"জরুরি নিয়োগ,  থাকা খাওয়ার <DATE_TIME>,০০০ টাকার বেতন/ সেলারি  যোগাযোগ <DATE_TIME>",L0_Ham,banglabarta
+সতর্কতা ! অর্ডার আইডি #MFHK98Z SONY Alpha SLT-<US_DRIVER_LICENSE> DSLR ক্যামেরার জন্য AMZ-এ আপনার কার্ড থেকে $765.00 চার্জ করা হয়েছে। বাতিল এবং ফেরত পেতে? আমাদের কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+"<URL>
+একাউন্ট খুললেই।উরা ধুরা ফ্রি ইনকাম। বিশ্বাস না হলে। তুমি <PERSON>।",S6_PhishingLink,banglabarta
+"২০০মিনিট (৩০দিন) ১৭৪ টাকা, ডায়াল *১২১*৪৪১০# বা <URL>",S2_FakePromo,banglabarta
+"মাত্র ২০০ টাকা ইনভেস্ট করে জিতুন ২০০% পর্যন্ত স্বাগত বোনাস Nagad88 এ, যে কোনো পরিমাণ টাকা তুলতে পারবেন।",S2_FakePromo,banglabarta
+তুমি কি বাসে যাচ্ছো?,L0_Ham,banglabarta
+"তোমার জন্য স্পেশাল ডিল ৪জিবি+৮০মি.@৮৭৳, ৭দিন: <PERSON>",S2_FakePromo,banglabarta
+"প্রাপ্ত পরিমাণ 2.221 বিটকয়েন BTC ($18,421 USD) অনুগ্রহ করে লেনদেন নিশ্চিত করুন: <URL>",S6_PhishingLink,banglabarta
+"প্রিয় শিক্ষার্থী, আপনার টিউশন ফি আজ পর্যন্ত ২৪,৫০০.০০ টাকা বকেয়া আছে। (পূর্বের লেট ফাইন ও বকেয়াসহ) চলতি মাসের টিউশন ফি (জরিমানা ছাড়া) ৩০ই সেপ্টেম্বর, ২০২৪ মধ্যে পরিশোধ করুন। বিস্তারিত <URL> লগইন করুন। (IBA)",L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্টে সমস্যা হয়েছে। কল করুন: <NRP>,L0_Ham,banglabarta
+"২০০৳ সুপার <PERSON> নাও ৬১জিবি+১০০০মি@৳৬৯৯,৩০দিন: <URL>",S2_FakePromo,banglabarta
+আজকের দুপুরে বড় বৃষ্টি হচ্ছে।,L0_Ham,banglabarta
+ফুটবলে বাজি ধরুন এবং একটি বিলাসবহুল গাড়ি জিতুন! শুরু করুন: <URL>,S6_PhishingLink,banglabarta
+বিপিএল বাজি ধরুন এবং ৭ দিনের জন্য একটি ফ্রি ছুটি জিতুন। ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"কখনো মনে হয় সব যে ডিস্ট্রাক্শন,  এই মোবাইল ইন্টারনেট  এই অনলাইন দুনিয়া, সবাই এমন ভাবে ভিতরে ঢুকসে যে এসব ছাড়া সিঙ্গেল একটা ডে <PERSON>",L0_Ham,banglabarta
+শুভ দীপাবলী!,L0_Ham,banglabarta
+"আপনার ব্যাংক অ্যাকাউন্টে ৫০,০০০ টাকা জমা হয়েছে! নিশ্চিত করতে কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"আপনার হাতে থাকা ফোন টি <PERSON> টি করতে পারবেন আমার টিমে 
+।২০ জন বিশ্বস্ত লোক চাই। যারা পড়াশোনা কিংবা চাকরির পাশাপাশি হালাল ভাবে দৈনিক ৫০০/১০০০টাকা ইনকাম করতে পারবেন যারা৷আগ্ররহী  তারা ইনবক্সে <NRP>
+সব কিছুই শিখিয়ে দেবো কোন সমস্যা নেই ইনশাআল্লাহ",S4_LoanJob,banglabarta
+আপনার ক্রেডিট কার্ডের লিমিট বাড়ানোর জন্য কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+শুভ বিজয়া দশমী!,L0_Ham,banglabarta
+বাংলাদেশ ব্যাংক অ্যাকাউন্টে ত্রুটি দেখা দিয়েছে। বিস্তারিত জানতে এখানে ক্লিক করুন: <URL>,S6_PhishingLink,banglabarta
+"কি খবর, কেমন আছো?",L0_Ham,banglabarta
+আপনার সঞ্চয় দ্বিগুণ করুন! এখনই কল করুন: <PHONE_NUMBER>,L0_Ham,banglabarta
+"<PERSON> সূর্যের আলোর মতো, তাতে কেউ আলোকিত হয় আবার কেউ পুড়ে শেষ হয়ে যায়।",L0_Ham,banglabarta
+হোম অ্যাপ্লায়েন্সের উপর ২৫% পর্যন্ত ছাড়! অফার শেষ হওয়ার আগে সুযোগ নিন।,S2_FakePromo,banglabarta
+আপনার মোবাইল <PERSON> জিতেছে! <PERSON> পেতে কল করুন <PHONE_NUMBER>,L0_Ham,banglabarta
+একটা গল্প বলো। একবারে।,L0_Ham,banglabarta
+"তুমি একা নও, <PERSON>।",L0_Ham,banglabarta
+শুধু মোবাইল থাকলে আপনিও পারবেন মাসে কমপক্ষে ১৫০০০-২০০০০ টাকা আয় করতে। বিস্তারিত জানতে <PHONE_NUMBER>,L0_Ham,banglabarta
+"আপনার মোবাইল নম্বরটি ১০,০০০ টাকা লটারি জিতেছে! বিস্তারিত জানতে কল করুন <PHONE_NUMBER>",S3_LotteryPrize,banglabarta
+"🔥Allready Listed🔥 
+600k হলেই Withdraw <DATE_TIME>💸
+600k = 7.8 usdt 😛
+যারা যারা মিস করেছেন এখনও সুযোগ আছে।Pepe🔥🔥  অলরেডি লিস্টেড উড্রো হচ্চে।
+দেরি না করে এখনি মাইনিং শুরু করে দিন 🔥
+<URL>",S6_PhishingLink,banglabarta
+তোমার প্রিয় বই কোনটা?,L0_Ham,banglabarta
+"<DATE_TIME>,<DATE_TIME> বিনিয়োগে ৪৫,০০০ টাকা অর্জন করুন! কল করুন: <PHONE_NUMBER>",L0_Ham,banglabarta
+"ঘরে বসে অনেক ভাবে ইনকাম করা যায়। যেমন কেউ ইউটিউবে ভিডিও তৈরি করে কেউ ব্লক তৈরি <PERSON> ইত্যাদি করে ইনকাম করা যায়। যদি আপনি এগুলা করতে না পারেন আরো সহ্জ পদ্ধতিতে <LOCATION> ইনকাম করতে পারেন। এই অ্যাপসটা থেকে আমি অনেক টাকা ইনকাম করেছি। মাত্র ৫০ টাকা হলেই টাকা বিকাশে <PERSON>। ভালো লাগলে অন্যদের সাথেও শেয়ার করুন আর নিচের দেয়া লিংক থেকে অ্যাপসটি ডাউনলোড করে নিবেন।
+
+বি: দ্রষ্টব্য: গেমটি ডাউনলোড হতে <LOCATION> সময় লাগে তাই ধৈর্য ধরে Download দিয়ে রাখুন।
+
+Join MSL to play exciting games online and WIN real CASH <DATE_TIME>. Download MSL APP Now
+
+<URL>",S6_PhishingLink,banglabarta
+সব কিছু ঠিক হয়ে যাবে।,L0_Ham,banglabarta
+এই যাত্রার জন্য বাড়িতে আসতে চাই।,L0_Ham,banglabarta
